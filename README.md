@@ -1,1 +1,1 @@
-# MPrint-rn-app
+# rn-template

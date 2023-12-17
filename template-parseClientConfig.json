@@ -1,0 +1,10 @@
+{
+  "appId": "uuid",
+  "fileKey": "uuid",
+  "javascriptKey": "uuid",
+  "restAPIKey": "uuid",
+  "serverURL": "https://parseapi.back4app.com/",
+  "passwordPolicy": {
+    "validatorPattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.{8,})"
+  }
+}
