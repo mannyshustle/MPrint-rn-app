@@ -1,22 +1,37 @@
-import {Container, Text} from 'lib_components';
 import React from 'react';
-import {SafeAreaView, useColorScheme} from 'react-native';
-
-import {Colors} from 'react-native/Libraries/NewAppScreen';
+import {Container, Button, Text, Card} from 'lib_components';
+import useActions from './actions';
+import {FlatList} from 'react-native';
 
 export const Home: React.FC = ({}) => {
-  const isDarkMode = useColorScheme() === 'dark';
-
-  const backgroundStyle = {
-    backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
+  const {navigator, results, isLoading} = useActions();
+  const handleNewOrder = () => {
+    navigator.navigate('PrintableSelector');
   };
-
+  console.log(results?.[0].get("imageUrls"))
   return (
-    <SafeAreaView style={backgroundStyle}>
-      <Container alignCenter justifyCenter>
-        <Text heading1>Welcome to your new app.</Text>
+    <Container isSafeAreaView fullFlex>
+      <Container fullFlex alignCenter justifyCenter>
+        {(results?.length ?? 0) > 0 ? (
+          <FlatList
+            data={results}
+            renderItem={({item}) => (
+              <Container margin={10}>
+                <Card
+                  title={"asda"}
+                  // subTitle={item?.brand}
+                  images={item?.get("imageUrls")}
+                  // onPress={handleEditor(item)}
+                />
+              </Container>
+            )}
+          />
+        ) : (
+          <Text>Orders</Text>
+        )}
       </Container>
-    </SafeAreaView>
+      <Button text="New Order" onPress={handleNewOrder} />
+    </Container>
   );
 };
 

@@ -13,6 +13,8 @@ import {
   SaveParseCredentials,
 } from 'lib_components';
 import Parse from 'parse/react-native';
+import {PaperProvider} from 'react-native-paper';
+import Toast from 'react-native-toast-message';
 
 enableScreens(true);
 export function App(): JSX.Element {
@@ -41,9 +43,14 @@ export function App(): JSX.Element {
   return loading ? (
     <Loading full />
   ) : (
-    <NavigationContainer>
-      <Navigation user={user} />
-    </NavigationContainer>
+    <>
+      <NavigationContainer>
+        <PaperProvider>
+          <Navigation user={user} />
+        </PaperProvider>
+      </NavigationContainer>
+      <Toast />
+    </>
   );
 }
 
