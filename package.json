@@ -6,7 +6,7 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios --simulator=\"iPhone 14 Pro Max\"",
     "start": "react-native start",
-    "deploy-build-android": "cd android && fastlane android",
+    "build": "cd android && fastlane android",
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "update-version": "npm version  patch --no-git-tag-version && npx react-native-version --never-amend",
