@@ -1,4 +1,6 @@
 import {useParseQuery} from '@parse/react-native';
+import {CATEGORY_CLASSNAME} from 'lib_cloud';
+import {useParseQueryList} from 'lib_hooks';
 import React, {useState} from 'react';
 import {createContext} from 'react';
 
@@ -6,14 +8,31 @@ import {createContext} from 'react';
 export const AppContext = createContext({});
 
 export const AppDataProvider = ({children}: any) => {
-  const Order = Parse.Object.extend('Shop');
-  const query = new Parse.Query(Order);
-  const {results: shops, isLoading: isLoadingShops} = useParseQuery(query, {
-    enableLiveQuery: false,
-  });
+  const [cartCount, setCartCount] = useState(10);
 
+  const orderQuery = new Parse.Query('Order');
+  const {results: orders, isLoading: isLoadingOrders} = useParseQuery(
+    orderQuery,
+    {
+      enableLiveQuery: false,
+    },
+  );
+
+  const query = new Parse.Query(CATEGORY_CLASSNAME);
+  query.equalTo('level', 1);
+  query.include('subLevel');
+  const {results: categories, isLoading: isLoadingCategories} =
+    useParseQueryList(CATEGORY_CLASSNAME, query);
   return (
-    <AppContext.Provider value={{shops, isLoadingShops}}>
+    <AppContext.Provider
+      value={{
+        orders,
+        isLoadingOrders,
+        cartCount,
+        setCartCount,
+        categories,
+        isLoadingCategories,
+      }}>
       {children}
     </AppContext.Provider>
   );

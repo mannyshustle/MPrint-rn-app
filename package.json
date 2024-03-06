@@ -1,15 +1,17 @@
 {
   "name": "mprint",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios --simulator=\"iPhone 14 Pro Max\"",
     "start": "react-native start",
-    "build": "cd android && fastlane android",
+    "update-version": "npm version  patch --no-git-tag-version && npx react-native-version --never-amend",
+    "build-old": "cd android && fastlane android",
+    "build-android": "./android/fastlane/scripts/firebaseDistribute.sh",
+    "forward-build": "yarn update-version && yarn run build-android",
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "update-version": "npm version  patch --no-git-tag-version && npx react-native-version --never-amend",
     "test-pixel3": "adb shell wm size 1440x2960 && adb shell wm density 560",
     "test-iphone5": "adb shell wm size 640x1136 && adb shell wm density 326",
     "test-technopop2": "adb shell wm size 480x960 && adb shell wm density 197",
@@ -17,7 +19,8 @@
     "postinstall": "patch-package && npx react-native-asset",
     "link_componentlib": "ln -s node_modules ../lib/lib-react-native/node_modules",
     "updateEnv": "./script/updateEnvFile.sh",
-    "get_rn_android_debug_key": "keytool -list -v -alias androiddebugkey -keystore android/app/debug.keystore"
+    "get_rn_android_debug_key": "keytool -list -v -alias androiddebugkey -keystore android/app/debug.keystore",
+    "set-logo": "npx icon-set-creator create src/assets/logo.png"
   },
   "dependencies": {
     "@hookform/resolvers": "^2.9.7",

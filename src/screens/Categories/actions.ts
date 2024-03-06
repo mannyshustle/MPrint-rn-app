@@ -1,29 +1,25 @@
 import {useNavigation} from '@react-navigation/native';
-import {useParseQueryList} from 'lib_hooks';
-import {CATEGORY_CLASSNAME, Category} from 'lib_cloud';
-import {useEffect, useMemo, useState} from 'react';
+import {Category} from 'lib_cloud';
+import {useContext, useMemo, useState} from 'react';
+import {AppContext} from '@contexts';
 
 export default function useActions() {
   const navigator = useNavigation();
   const [currentCategory, setCurrentCategory] = useState<Category>();
+  const currentTitle = useMemo(
+    () => currentCategory?.name ?? 'Shop',
+    [currentCategory],
+  );
 
-  const query = new Parse.Query(CATEGORY_CLASSNAME);
-  query.equalTo('level', 1);
-  const {results: categories, isLoading: isLoadingCategories} =
-    useParseQueryList(CATEGORY_CLASSNAME, query);
+  const {categories, isLoadingCategories} = useContext<any>(AppContext);
 
-  const [currentLevelCategories, setCurrentLevelCategories] = useState<
-    Category[]
-  >([]);
+  const [currentLevelCategories, setCurrentLevelCategories] =
+    useState<Category[]>(categories);
   const [categoryStack, setCategoryStack] = useState<Category[][]>([]);
   const showBackButton = useMemo(
     () => categoryStack.length > 0,
     [categoryStack.length],
   );
-
-  useEffect(() => {
-    setCurrentLevelCategories(categories);
-  }, [categories]);
 
   const handleCategoryPress = (category: Category) => () => {
     setCurrentCategory(category);
@@ -33,7 +29,6 @@ export default function useActions() {
     } else {
       navigator.navigate('Printables', {category});
     }
-    // Handle navigation to products or deeper category levels
   };
 
   const handleBack = () => {
@@ -41,12 +36,14 @@ export default function useActions() {
       const previousCategories = categoryStack.pop();
       setCurrentLevelCategories(previousCategories || []);
       setCategoryStack([...categoryStack]);
+      if (categoryStack.length === 0) {
+        setCurrentCategory(undefined);
+      }
     }
   };
-  console.log(categoryStack);
 
   return {
-    currentTitle: currentCategory?.name ?? 'Shop',
+    currentTitle,
     currentLevelCategories,
     isLoadingCategories,
     showBackButton,

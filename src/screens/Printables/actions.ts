@@ -8,7 +8,6 @@ export default function useActions() {
 
   const query = new Parse.Query(PRINTABLE_CLASSNAME);
   if (category) {
-    console.log(category);
     query.containedIn('categories', [category]);
   }
   if (tag) {

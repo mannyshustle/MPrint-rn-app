@@ -14,7 +14,6 @@ export const Categories: React.FC = ({}) => {
     handleBack,
     handleCategoryPress,
   } = useActions();
-
   return (
     <Container fullFlex backgroundColor="#f9f9f9">
       <Header

@@ -29,7 +29,6 @@ export default function useActions() {
     [cloudinaryCred],
   );
   const editorUrl = `https://printify.com/app/editor/${printableId}/${providerId}`;
-  console.log(editorUrl)
   const [printifyResults, setPrintifyResults] = useState<PrintifyResults>({
     printableId,
     providerId,
@@ -124,7 +123,7 @@ export default function useActions() {
     } else if (webviewMsg?.key === 'error') {
       console.log(webviewMsg);
     } else if (webviewMsg?.key === 'test') {
-      console.log(event);
+      console.log(webviewMsg);
     }
   };
   return {

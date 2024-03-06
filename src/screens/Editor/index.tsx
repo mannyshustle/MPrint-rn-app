@@ -2,6 +2,7 @@ import React from 'react';
 import {Container, Button} from 'lib_components';
 import useActions from './actions';
 import {WebView} from 'react-native-webview';
+import { hideElements } from './htmlHelper';
 
 export const Editor: React.FC = ({}) => {
   const {webViewRef, handleMessage, buttonText, onButtonPress, editorUrl} =
@@ -15,6 +16,8 @@ export const Editor: React.FC = ({}) => {
         javaScriptEnabled={true}
         onMessage={handleMessage}
         onError={err => console.log(err)}
+        injectedJavaScript={hideElements()}
+        // injectedJavaScriptBeforeContentLoaded={hideElements}
       />
       <Button text={buttonText} onPress={onButtonPress} />
     </Container>

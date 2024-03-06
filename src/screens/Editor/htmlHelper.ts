@@ -1,26 +1,38 @@
 import {CloudinaryCred, getCloudinaryUploadScript} from 'lib_cloud';
 
-export const hideElements = `
-var buttons = document.querySelectorAll('[data-testid="button"]');
-var saveProductButton = Array.from(buttons).find(button => button.textContent.includes('Save product'));
-var costAndVariantsWrapper = document.querySelector('.cost-and-variants-table-link-wrapper');
-var sizeWrapper = document.querySelector('.product-option-container');
+export const hideElements = () => {
+  const selectors = [
+    '[data-testid="backButton"]',
+    '[data-testid="saveButton"]',
+    '[data-analyticsid="shutterstock-editor-open"]',
+    '[data-analyticsid="addDropboxLayerButton"]',
+    '[data-analyticsid=" addGDriveLayerButton"]',
+    '[data-analyticsid="gsc-1590-fiverr"]',
+    '[data-analyticsid="newDesignTab"]',
+    '[data-analyticsid="artLibraryTab"]',
+    '[data-analyticsid="userDesignTemplatesTab"]',
+    '[data-analyticsid="freeGraphicsTab"]',
+    //TODO: Add this for phase 2. User can add multiple pictures
+    '[data-analyticsid="addArtButton"]',
 
-if (saveProductButton && saveProductButton.parentNode) {
-  saveProductButton.parentNode.removeChild(saveProductButton);
-}
+    '.save-button',
+    '.cost-and-variants-table-link-wrapper',
+    '.product-option-container',
+  ];
 
-if (costAndVariantsWrapper) {
-  costAndVariantsWrapper.style.display = 'none';
-}
-
-if (sizeWrapper) {
-    sizeWrapper.style.display = 'none';
-}
+  const hideElementsCSS = `
+  const style = document.createElement('style');
+  style.type = 'text/css';
+  style.innerHTML = '[data-testid="addDesignButton"] { display: none !important; }';
+  style.innerHTML = '${selectors.join(', ')} { display: none !important; }';
+  document.head.appendChild(style);
 `;
 
+  return `setTimeout(function() { ${hideElementsCSS} }, 0); true;`;
+};
+
 export const getInitialInjectJavascript = (cloudinaryCred: CloudinaryCred) => `
-${hideElements}
+${hideElements()}
 ${getCloudinaryUploadScript(cloudinaryCred)}
 true;
 `;
