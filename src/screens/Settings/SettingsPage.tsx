@@ -1,6 +1,6 @@
 import React from 'react';
 import {View, ScrollView, I18nManager} from 'react-native';
-import {Text, Icon, Divider, Section, ListRowItem} from 'lib_components';
+import {Text, Icon, Divider, Section, ListRowItem, Container} from 'lib_components';
 import styles from './styles';
 import ChangeAppearanceModal from './ChangeAppearanceModal';
 import ChangeLanguageModal from './ChangeLanguageModal';
@@ -76,7 +76,7 @@ export const SettingsPage: React.FC<SettingsProps> = () => {
   };
 
   return (
-    <View style={styles.root}>
+    <Container fullFlex isSafeAreaView>
       <ScrollView>
         {_renderAppSettingsSection()}
         {_renderMoreInformationSection()}
@@ -89,6 +89,6 @@ export const SettingsPage: React.FC<SettingsProps> = () => {
         isVisible={isLanguageModalVisible}
         hideModal={_hideLanguageModal}
       />
-    </View>
+    </Container>
   );
 };

@@ -2,6 +2,7 @@ export const objects = [
   {
     id: 47,
     title: "Women's Flowy Scoop Muscle Tank",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '8803',
     images: [
@@ -14,6 +15,7 @@ export const objects = [
   {
     id: 98,
     title: 'Wall Decals',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -27,6 +29,7 @@ export const objects = [
   {
     id: 119,
     title: 'Girls Princess Tee',
+    className: 'Printable',
     brand: 'Next Level',
     model: '3710',
     images: [
@@ -38,6 +41,7 @@ export const objects = [
   {
     id: 143,
     title: "Women's Tri-Blend Dolman",
+    className: 'Printable',
     brand: 'Next Level',
     model: '6760',
     images: [
@@ -49,6 +53,7 @@ export const objects = [
   {
     id: 147,
     title: 'Unisex Tri-Blend 3\\4 Raglan Tee',
+    className: 'Printable',
     brand: 'Next Level',
     model: '6051',
     images: [
@@ -65,6 +70,7 @@ export const objects = [
   {
     id: 167,
     title: 'Organic Fine Jersey Crewneck T-Shirt',
+    className: 'Printable',
     brand: 'American Apparel',
     model: '2001org',
     images: [
@@ -76,6 +82,7 @@ export const objects = [
   {
     id: 190,
     title: 'Gallery Canvas Wraps, Vertical Frame',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -95,6 +102,7 @@ export const objects = [
   {
     id: 193,
     title: 'Gallery Canvas Wraps, Horizontal Frame',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -114,6 +122,7 @@ export const objects = [
   {
     id: 235,
     title: 'Shower Curtains',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -127,6 +136,7 @@ export const objects = [
   {
     id: 243,
     title: 'Polycotton Towel',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -140,6 +150,7 @@ export const objects = [
   {
     id: 254,
     title: 'Bath Mat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -156,6 +167,7 @@ export const objects = [
   {
     id: 255,
     title: 'School Backpack',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -167,6 +179,7 @@ export const objects = [
   {
     id: 264,
     title: 'Poly Scarf',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -182,6 +195,7 @@ export const objects = [
   {
     id: 276,
     title: "Women's Cut & Sew Racerback Dress (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -194,6 +208,7 @@ export const objects = [
   {
     id: 280,
     title: 'Black Mug 15oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -204,6 +219,7 @@ export const objects = [
   {
     id: 285,
     title: "Women's Pencil Skirt (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -216,6 +232,7 @@ export const objects = [
   {
     id: 286,
     title: "Women's Skater Skirt (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -229,6 +246,7 @@ export const objects = [
   {
     id: 291,
     title: "Men's Sneakers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -246,6 +264,7 @@ export const objects = [
   {
     id: 292,
     title: "Women's Sneakers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -263,6 +282,7 @@ export const objects = [
   {
     id: 293,
     title: "Men's Classic Sneakers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: {
@@ -280,6 +300,7 @@ export const objects = [
   {
     id: 294,
     title: "Women's Classic Sneakers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -296,6 +317,7 @@ export const objects = [
   {
     id: 295,
     title: 'Microfiber Pillow Sham',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -308,6 +330,7 @@ export const objects = [
   {
     id: 296,
     title: 'Microfiber Duvet Cover',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -324,6 +347,7 @@ export const objects = [
   {
     id: 306,
     title: 'Stainless Steel Water Bottle',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -335,6 +359,7 @@ export const objects = [
   {
     id: 312,
     title: 'Unisex Flip-Flops',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -345,6 +370,7 @@ export const objects = [
   {
     id: 317,
     title: 'Fleece Baby Bib',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -355,6 +381,7 @@ export const objects = [
   {
     id: 320,
     title: 'Girls Tank Top',
+    className: 'Printable',
     brand: 'District',
     model: 'DT5301YG',
     images: [
@@ -366,6 +393,7 @@ export const objects = [
   {
     id: 326,
     title: 'Weekender Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -382,6 +410,7 @@ export const objects = [
   {
     id: 329,
     title: 'Dog Tag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: ['https://images.printify.com/5d1628f32ad000000b423de7'],
@@ -389,6 +418,7 @@ export const objects = [
   {
     id: 334,
     title: 'Black mug 11oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -401,6 +431,7 @@ export const objects = [
   {
     id: 336,
     title: 'Wpaps Slim Phone Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -412,6 +443,7 @@ export const objects = [
   {
     id: 347,
     title: 'Unisex Classic Backpack',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -425,6 +457,7 @@ export const objects = [
   {
     id: 348,
     title: 'Unisex Fabric Backpack',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -438,6 +471,7 @@ export const objects = [
   {
     id: 349,
     title: "Women's Bikini Swimsuit (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -451,6 +485,7 @@ export const objects = [
   {
     id: 350,
     title: "Women's One-piece Swimsuit (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -463,6 +498,7 @@ export const objects = [
   {
     id: 356,
     title: 'Accessory Pouch',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -476,6 +512,7 @@ export const objects = [
   {
     id: 360,
     title: "Women's Classic One-Piece Swimsuit (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -489,6 +526,7 @@ export const objects = [
   {
     id: 361,
     title: "Women's Vintage Swimsuit (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -502,6 +540,7 @@ export const objects = [
   {
     id: 365,
     title: 'Crew Socks',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -513,6 +552,7 @@ export const objects = [
   {
     id: 367,
     title: "Men's Canvas Boots",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -532,6 +572,7 @@ export const objects = [
   {
     id: 369,
     title: 'Bag Tag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -544,6 +585,7 @@ export const objects = [
   {
     id: 372,
     title: 'Duffel Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -560,6 +602,7 @@ export const objects = [
   {
     id: 374,
     title: "Women's Curvy Tee",
+    className: 'Printable',
     brand: 'LAT Apparel',
     model: '3804',
     images: [
@@ -572,6 +615,7 @@ export const objects = [
   {
     id: 377,
     title: 'Unisex Flat Bill Hat',
+    className: 'Printable',
     brand: 'Sport-Tek',
     model: 'STC19',
     images: [
@@ -587,6 +631,7 @@ export const objects = [
   {
     id: 378,
     title: 'Unisex Twill Hat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: 'CP 80',
     images: [
@@ -603,6 +648,7 @@ export const objects = [
   {
     id: 379,
     title: 'Unisex Trucker Hat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '6990',
     images: [
@@ -617,6 +663,7 @@ export const objects = [
   {
     id: 381,
     title: 'Christmas Tree Skirts',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -632,6 +679,7 @@ export const objects = [
   {
     id: 383,
     title: 'Color Changing Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -643,6 +691,7 @@ export const objects = [
   {
     id: 385,
     title: 'Knit Beanie',
+    className: 'Printable',
     brand: 'Generic brand',
     model: 'CP 90',
     images: [
@@ -657,6 +706,7 @@ export const objects = [
   {
     id: 386,
     title: 'Pom Pom Beanie',
+    className: 'Printable',
     brand: 'Generic brand',
     model: 'SP15',
     images: [
@@ -671,6 +721,7 @@ export const objects = [
   {
     id: 388,
     title: 'White Ceramic Mug',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -684,6 +735,7 @@ export const objects = [
   {
     id: 392,
     title: 'Unisex Zip Up Hoodie',
+    className: 'Printable',
     brand: 'Gildan',
     model: '18600',
     images: [
@@ -698,6 +750,7 @@ export const objects = [
   {
     id: 393,
     title: 'Shopping Tote',
+    className: 'Printable',
     brand: 'Generic brand',
     model: 'B400',
     images: [
@@ -710,6 +763,7 @@ export const objects = [
   {
     id: 395,
     title: "Men's Varsity Jacket",
+    className: 'Printable',
     brand: 'Sport-Tek',
     model: 'ST270',
     images: [
@@ -722,6 +776,7 @@ export const objects = [
   {
     id: 396,
     title: "Women's Varsity Jacket",
+    className: 'Printable',
     brand: 'Sport-Tek',
     model: 'LST270',
     images: [
@@ -734,6 +789,7 @@ export const objects = [
   {
     id: 406,
     title: "Men's Boxer Briefs (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -748,6 +804,7 @@ export const objects = [
   {
     id: 407,
     title: "Women's Briefs (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -763,6 +820,7 @@ export const objects = [
   {
     id: 419,
     title: 'Pet Bed',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -777,6 +835,7 @@ export const objects = [
   {
     id: 416,
     title: 'Comforter',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -790,6 +849,7 @@ export const objects = [
   {
     id: 409,
     title: 'Polyester Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -805,6 +865,7 @@ export const objects = [
   {
     id: 408,
     title: 'Hooded Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -818,6 +879,7 @@ export const objects = [
   {
     id: 412,
     title: 'Unisex Ringer Tee',
+    className: 'Printable',
     brand: 'Generic brand',
     model: 'PC54R',
     images: [
@@ -832,6 +894,7 @@ export const objects = [
   {
     id: 422,
     title: 'Heart Shape Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -843,6 +906,7 @@ export const objects = [
   {
     id: 414,
     title: 'Drawstring Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -857,6 +921,7 @@ export const objects = [
   {
     id: 431,
     title: 'T-Shirt Dress (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -870,6 +935,7 @@ export const objects = [
   {
     id: 433,
     title: "Men's Bomber Jacket (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -886,6 +952,7 @@ export const objects = [
   {
     id: 452,
     title: 'Recycled Poly Socks',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -900,6 +967,7 @@ export const objects = [
   {
     id: 451,
     title: 'Unisex Zip Hoodie (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -916,6 +984,7 @@ export const objects = [
   {
     id: 460,
     title: "Women's Triblend Tee",
+    className: 'Printable',
     brand: 'Next Level',
     model: '6710',
     images: [
@@ -929,6 +998,7 @@ export const objects = [
   {
     id: 461,
     title: "Men's Lightweight V-Neck Tee",
+    className: 'Printable',
     brand: 'Anvil',
     model: '982',
     images: [
@@ -940,6 +1010,7 @@ export const objects = [
   {
     id: 139,
     title: 'Unisex Tri-Blend Crew Tee',
+    className: 'Printable',
     brand: 'Next Level',
     model: '6010',
     images: [
@@ -953,6 +1024,7 @@ export const objects = [
   {
     id: 468,
     title: 'Fanny Pack',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -970,6 +1042,7 @@ export const objects = [
   {
     id: 459,
     title: 'Placemat, 1pc',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -983,6 +1056,7 @@ export const objects = [
   {
     id: 495,
     title: 'Fabric Face Mask',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -995,6 +1069,7 @@ export const objects = [
   {
     id: 498,
     title: 'Unisex Deluxe T-shirt ',
+    className: 'Printable',
     brand: 'Lane Seven',
     model: 'LS15000',
     images: [
@@ -1011,6 +1086,7 @@ export const objects = [
   {
     id: 506,
     title: 'Mixed-Fabric Face Mask',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1026,6 +1102,7 @@ export const objects = [
   {
     id: 486,
     title: 'Spiral Bound Journal',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1040,6 +1117,7 @@ export const objects = [
   {
     id: 504,
     title: 'Light Cube Lamp',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1055,6 +1133,7 @@ export const objects = [
   {
     id: 505,
     title: 'Snug-Fit Polyester Face Mask',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1069,6 +1148,7 @@ export const objects = [
   {
     id: 501,
     title: 'Men’s Base Longsleeve Tee ',
+    className: 'Printable',
     brand: 'AS Colour',
     model: '5029',
     images: [
@@ -1083,6 +1163,7 @@ export const objects = [
   {
     id: 500,
     title: 'Unisex Barnard Tank ',
+    className: 'Printable',
     brand: 'AS Colour',
     model: '5025',
     images: [
@@ -1098,6 +1179,7 @@ export const objects = [
   {
     id: 520,
     title: 'Crop Hoodie',
+    className: 'Printable',
     brand: 'Lane Seven',
     model: 'LS12000',
     images: [
@@ -1114,6 +1196,7 @@ export const objects = [
   {
     id: 521,
     title: 'Unisex Fleece Joggers',
+    className: 'Printable',
     brand: 'Lane Seven',
     model: 'LST006',
     images: [
@@ -1130,6 +1213,7 @@ export const objects = [
   {
     id: 536,
     title: 'Unisex EcoSmart® Pullover Hoodie Sweatshirt',
+    className: 'Printable',
     brand: 'Hanes',
     model: 'P170',
     images: [
@@ -1148,6 +1232,7 @@ export const objects = [
   {
     id: 533,
     title: 'Unisex EcoSmart® Crewneck Sweatshirt',
+    className: 'Printable',
     brand: 'Hanes',
     model: 'P160',
     images: [
@@ -1163,6 +1248,7 @@ export const objects = [
   {
     id: 550,
     title: 'Unisex Cut & Sew T-Shirt (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1176,6 +1262,7 @@ export const objects = [
   {
     id: 553,
     title: 'Cotton Tote Bag',
+    className: 'Printable',
     brand: 'AS Colour',
     model: '1001',
     images: [
@@ -1192,6 +1279,7 @@ export const objects = [
   {
     id: 483,
     title: 'Enamel Camping Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1206,6 +1294,7 @@ export const objects = [
   {
     id: 482,
     title: '20oz Insulated Bottle',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1220,6 +1309,7 @@ export const objects = [
   {
     id: 560,
     title: 'Organic T-Shirt Dress',
+    className: 'Printable',
     brand: 'AS Colour',
     model: '4028',
     images: [
@@ -1233,6 +1323,7 @@ export const objects = [
   {
     id: 564,
     title: 'Round Vinyl Stickers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1248,6 +1339,7 @@ export const objects = [
   {
     id: 572,
     title: 'Copper Vacuum Insulated Bottle, 22oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1264,6 +1356,7 @@ export const objects = [
   {
     id: 562,
     title: 'Pet Bandana',
+    className: 'Printable',
     brand: 'Evergreen',
     model: '',
     images: [
@@ -1280,6 +1373,7 @@ export const objects = [
   {
     id: 563,
     title: 'Pet Bandana Collar',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1298,6 +1392,7 @@ export const objects = [
   {
     id: 570,
     title: 'Pet Bowl',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1313,6 +1408,7 @@ export const objects = [
   {
     id: 558,
     title: 'Unisex Insulated Bomber Jacket (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1329,6 +1425,7 @@ export const objects = [
   {
     id: 571,
     title: 'Pet Tank Top',
+    className: 'Printable',
     brand: 'Doggie Skins',
     model: '3902',
     images: [
@@ -1343,6 +1440,7 @@ export const objects = [
   {
     id: 576,
     title: 'Baby Beanie (AOP)',
+    className: 'Printable',
     brand: 'The Laughing Giraffe',
     model: '',
     images: [
@@ -1357,6 +1455,7 @@ export const objects = [
   {
     id: 586,
     title: 'Toddler Long Sleeve Tee',
+    className: 'Printable',
     brand: 'Rabbit Skins',
     model: '3302',
     images: [
@@ -1371,6 +1470,7 @@ export const objects = [
   {
     id: 582,
     title: 'Mouse Pad ',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1386,6 +1486,7 @@ export const objects = [
   {
     id: 588,
     title: 'Foam Yoga Mat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1400,6 +1501,7 @@ export const objects = [
   {
     id: 569,
     title: 'Onesie® Organic Baby Bodysuit',
+    className: 'Printable',
     brand: 'Gerber Childrenswear',
     model: '1516A',
     images: [
@@ -1415,6 +1517,7 @@ export const objects = [
   {
     id: 568,
     title: 'Baby Short Sleeve Onesie®',
+    className: 'Printable',
     brand: 'Gerber Childrenswear',
     model: '6516A',
     images: [
@@ -1430,6 +1533,7 @@ export const objects = [
   {
     id: 595,
     title: 'Accent Mugs',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -1444,6 +1548,7 @@ export const objects = [
   {
     id: 546,
     title: 'Sublimation Crew Socks',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1457,6 +1562,7 @@ export const objects = [
   {
     id: 585,
     title: 'Baby Swaddle Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1471,6 +1577,7 @@ export const objects = [
   {
     id: 609,
     title: 'Organic Canvas Tote Bag',
+    className: 'Printable',
     brand: 'Econscious',
     model: 'EC8040',
     images: [
@@ -1486,6 +1593,7 @@ export const objects = [
   {
     id: 606,
     title: 'Organic Unisex Classic T-Shirt',
+    className: 'Printable',
     brand: 'Econscious',
     model: 'EC1000',
     images: [
@@ -1502,6 +1610,7 @@ export const objects = [
   {
     id: 605,
     title: "Organic Women's Classic T-Shirt",
+    className: 'Printable',
     brand: 'Econscious',
     model: 'EC3000',
     images: [
@@ -1515,6 +1624,7 @@ export const objects = [
   {
     id: 603,
     title: 'Toddler Pullover Fleece Hoodie',
+    className: 'Printable',
     brand: 'Rabbit Skins',
     model: '3326',
     images: [
@@ -1530,6 +1640,7 @@ export const objects = [
   {
     id: 600,
     title: 'Die-Cut Stickers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1544,6 +1655,7 @@ export const objects = [
   {
     id: 604,
     title: 'Vacuum Insulated Tumbler, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1558,6 +1670,7 @@ export const objects = [
   {
     id: 610,
     title: 'Canvas Tote Bag',
+    className: 'Printable',
     brand: 'Port Authority',
     model: 'B150',
     images: [
@@ -1572,6 +1685,7 @@ export const objects = [
   {
     id: 613,
     title: 'Greeting Cards (6 pcs)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1584,6 +1698,7 @@ export const objects = [
   {
     id: 612,
     title: 'Metallic Mug (Silver\\Gold)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1599,6 +1714,7 @@ export const objects = [
   {
     id: 608,
     title: 'Mouse Pad (Rectangle)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1612,6 +1728,7 @@ export const objects = [
   {
     id: 611,
     title: 'Metal Bluetooth Speaker and Wireless Charging Pad',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1626,6 +1743,7 @@ export const objects = [
   {
     id: 624,
     title: 'Suitcase',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1647,6 +1765,7 @@ export const objects = [
   {
     id: 629,
     title: 'Tripod Lamp with High-Res Printed Shade, US\\CA plug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1662,6 +1781,7 @@ export const objects = [
   {
     id: 617,
     title: 'Toddler T-shirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: '64500P',
     images: [
@@ -1676,6 +1796,7 @@ export const objects = [
   {
     id: 602,
     title: 'Baby Contrast Trim Jersey Bib',
+    className: 'Printable',
     brand: 'Rabbit Skins',
     model: '1004',
     images: [
@@ -1692,6 +1813,7 @@ export const objects = [
   {
     id: 599,
     title: 'Infant Cotton Jersey Tee',
+    className: 'Printable',
     brand: 'Rabbit Skins',
     model: '3401',
     images: [
@@ -1707,6 +1829,7 @@ export const objects = [
   {
     id: 622,
     title: 'Table Runner',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1722,6 +1845,7 @@ export const objects = [
   {
     id: 615,
     title: 'Soundwave Copper Vacuum Audio Bottle 22oz',
+    className: 'Printable',
     brand: 'Soundwave',
     model: '',
     images: [
@@ -1735,6 +1859,7 @@ export const objects = [
   {
     id: 642,
     title: "Women's Cropped Sweatshirt",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '7503',
     images: [
@@ -1750,6 +1875,7 @@ export const objects = [
   {
     id: 620,
     title: 'Chill Wine Tumbler',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1763,6 +1889,7 @@ export const objects = [
   {
     id: 636,
     title: 'Can Cooler Sleeve',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1781,6 +1908,7 @@ export const objects = [
   {
     id: 641,
     title: 'Cosmetic Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1796,6 +1924,7 @@ export const objects = [
   {
     id: 640,
     title: 'Clipboard',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1810,6 +1939,7 @@ export const objects = [
   {
     id: 589,
     title: 'Swim Trunks (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1825,6 +1955,7 @@ export const objects = [
   {
     id: 646,
     title: 'Slim Water Bottle',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1840,6 +1971,7 @@ export const objects = [
   {
     id: 628,
     title: 'Black Coffee Mug, 11oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -1852,6 +1984,7 @@ export const objects = [
   {
     id: 565,
     title: 'Organic Staple T-shirt',
+    className: 'Printable',
     brand: 'AS Colour',
     model: '5001G',
     images: [
@@ -1868,6 +2001,7 @@ export const objects = [
   {
     id: 655,
     title: 'Napkins',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1883,6 +2017,7 @@ export const objects = [
   {
     id: 509,
     title: "Women's Spandex Leggings (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1897,6 +2032,7 @@ export const objects = [
   {
     id: 665,
     title: 'Mouse Pad With Wrist Rest',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1910,6 +2046,7 @@ export const objects = [
   {
     id: 575,
     title: 'Soft Fleece Baby Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1926,6 +2063,7 @@ export const objects = [
   {
     id: 673,
     title: 'Women’s Cropped Hooded Sweatshirt',
+    className: 'Printable',
     brand: 'Independent Trading Company',
     model: 'AFX64CRP',
     images: [
@@ -1940,6 +2078,7 @@ export const objects = [
   {
     id: 672,
     title: "Champion Women's Heritage Cropped T-Shirt",
+    className: 'Printable',
     brand: 'Champion',
     model: 'T453W',
     images: [
@@ -1954,6 +2093,7 @@ export const objects = [
   {
     id: 675,
     title: 'Custom Poker Cards',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1967,6 +2107,7 @@ export const objects = [
   {
     id: 661,
     title: 'Sticker Sheets',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1980,6 +2121,7 @@ export const objects = [
   {
     id: 508,
     title: "Women's Mini Skirt (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -1995,6 +2137,7 @@ export const objects = [
   {
     id: 696,
     title: 'Unisex Hooded Sweatshirt',
+    className: 'Printable',
     brand: 'Independent Trading Company',
     model: 'SS4500',
     images: [
@@ -2011,6 +2154,7 @@ export const objects = [
   {
     id: 681,
     title: 'Christmas Ball Ornament',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2026,6 +2170,7 @@ export const objects = [
   {
     id: 709,
     title: 'Sleeping Mask',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2040,6 +2185,7 @@ export const objects = [
   {
     id: 656,
     title: 'Dornier Rug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2055,6 +2201,7 @@ export const objects = [
   {
     id: 723,
     title: 'Unisex Crew Neck Sweatshirt',
+    className: 'Printable',
     brand: 'Independent Trading Company',
     model: 'SS3000',
     images: [
@@ -2071,6 +2218,7 @@ export const objects = [
   {
     id: 578,
     title: "Women's Cropped Fleece Pullover",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '7505',
     images: [
@@ -2085,6 +2233,7 @@ export const objects = [
   {
     id: 693,
     title: 'Copper Vacuum Insulated Tumbler, 22oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2100,6 +2249,7 @@ export const objects = [
   {
     id: 711,
     title: 'Copper Vacuum Insulated Cup, 12oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2114,6 +2264,7 @@ export const objects = [
   {
     id: 719,
     title: 'Business Card Holder',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2129,6 +2280,7 @@ export const objects = [
   {
     id: 654,
     title: 'Pot Holder with Pocket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2144,6 +2296,7 @@ export const objects = [
   {
     id: 699,
     title: 'Baby Changing Pad Cover',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2160,6 +2313,7 @@ export const objects = [
   {
     id: 712,
     title: 'Compact Travel Mirror',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2178,6 +2332,7 @@ export const objects = [
   {
     id: 738,
     title: 'Porcelain Magnet, Square',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2193,6 +2348,7 @@ export const objects = [
   {
     id: 678,
     title: 'Scarf',
+    className: 'Printable',
     brand: 'Terry Town',
     model: '',
     images: [
@@ -2207,6 +2363,7 @@ export const objects = [
   {
     id: 676,
     title: 'Unisex Hammer™ T-shirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: 'H000',
     images: [
@@ -2225,6 +2382,7 @@ export const objects = [
   {
     id: 627,
     title: 'Crop Tee (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2239,6 +2397,7 @@ export const objects = [
   {
     id: 729,
     title: 'Blackwater Outdoor Bluetooth Speaker',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2255,6 +2414,7 @@ export const objects = [
   {
     id: 726,
     title: 'Memory Foam Bath Mat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2271,6 +2431,7 @@ export const objects = [
   {
     id: 721,
     title: 'Ceramic Photo Tile',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2287,6 +2448,7 @@ export const objects = [
   {
     id: 692,
     title: 'Unisex Organic Short Sleeve Tee',
+    className: 'Printable',
     brand: 'Royal Apparel',
     model: '5051ORG',
     images: [
@@ -2302,6 +2464,7 @@ export const objects = [
   {
     id: 623,
     title: 'Pet Feeding Mats',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2320,6 +2483,7 @@ export const objects = [
   {
     id: 741,
     title: 'Unisex Faded Shirt',
+    className: 'Printable',
     brand: 'AS Colour',
     model: '5065',
     images: [
@@ -2335,6 +2499,7 @@ export const objects = [
   {
     id: 752,
     title: 'Ceramic Wall Sign',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2349,6 +2514,7 @@ export const objects = [
   {
     id: 728,
     title: 'Two-tier Bento Box',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2365,6 +2531,7 @@ export const objects = [
   {
     id: 754,
     title: 'Belt',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2380,6 +2547,7 @@ export const objects = [
   {
     id: 748,
     title: 'Window Curtain',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2394,6 +2562,7 @@ export const objects = [
   {
     id: 758,
     title: 'UV Phone Sanitizer and Wireless Charging Pad',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2411,6 +2580,7 @@ export const objects = [
   {
     id: 715,
     title: 'Tablecloth',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2428,6 +2598,7 @@ export const objects = [
   {
     id: 592,
     title: 'Fashion Hoodie (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2446,6 +2617,7 @@ export const objects = [
   {
     id: 759,
     title: 'Wall Decals',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2461,6 +2633,7 @@ export const objects = [
   {
     id: 765,
     title: 'Bookmark',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2476,6 +2649,7 @@ export const objects = [
   {
     id: 727,
     title: 'Scented Candle - Full Glass, 11oz',
+    className: 'Printable',
     brand: 'Seventh Avenue Apothecary',
     model: '',
     images: [
@@ -2491,6 +2665,7 @@ export const objects = [
   {
     id: 714,
     title: 'Oven Mitts',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2508,6 +2683,7 @@ export const objects = [
   {
     id: 736,
     title: 'Hooded Sherpa Fleece Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2523,6 +2699,7 @@ export const objects = [
   {
     id: 670,
     title: "Kid's Face Mask",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2537,6 +2714,7 @@ export const objects = [
   {
     id: 768,
     title: 'Note Cube',
+    className: 'Printable',
     brand: 'Stik-Withit',
     model: '',
     images: [
@@ -2551,6 +2729,7 @@ export const objects = [
   {
     id: 777,
     title: 'Saffiano Polyester Luggage Tag, Rectangle',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2566,6 +2745,7 @@ export const objects = [
   {
     id: 761,
     title: 'Barely There Phone Cases',
+    className: 'Printable',
     brand: 'Case Mate',
     model: '',
     images: [
@@ -2580,6 +2760,7 @@ export const objects = [
   {
     id: 749,
     title: "Pet Feeding Mats (Rūta's test BP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2593,6 +2774,7 @@ export const objects = [
   {
     id: 770,
     title: 'Titan Copper Insulated Food Storage',
+    className: 'Printable',
     brand: 'Arctic Zone',
     model: '',
     images: [
@@ -2608,6 +2790,7 @@ export const objects = [
   {
     id: 744,
     title: 'Throw Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2624,6 +2807,7 @@ export const objects = [
   {
     id: 710,
     title: 'Unisex Garment-dyed Long Sleeve T-Shirt',
+    className: 'Printable',
     brand: 'Comfort Colors®',
     model: '6014',
     images: [
@@ -2644,6 +2828,7 @@ export const objects = [
   {
     id: 669,
     title: 'Yoga Mat Towel',
+    className: 'Printable',
     brand: 'Terry Town',
     model: '',
     images: [
@@ -2658,6 +2843,7 @@ export const objects = [
   {
     id: 773,
     title: 'Unisex Fleece Sweatshirt',
+    className: 'Printable',
     brand: 'Tultex',
     model: '340',
     images: [
@@ -2672,6 +2858,7 @@ export const objects = [
   {
     id: 774,
     title: 'Youth Fleece Hoodie',
+    className: 'Printable',
     brand: 'Tultex',
     model: '320Y',
     images: [
@@ -2687,6 +2874,7 @@ export const objects = [
   {
     id: 671,
     title: 'Golf Towel',
+    className: 'Printable',
     brand: 'Terry Town',
     model: '',
     images: [
@@ -2701,6 +2889,7 @@ export const objects = [
   {
     id: 780,
     title: 'Acrylic Serving Tray',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2716,6 +2905,7 @@ export const objects = [
   {
     id: 790,
     title: 'Rectangle Photo Keyring',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2730,6 +2920,7 @@ export const objects = [
   {
     id: 779,
     title: 'Ice Bucket with Tongs',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2745,6 +2936,7 @@ export const objects = [
   {
     id: 793,
     title: 'Unisex Fleece Hoodie',
+    className: 'Printable',
     brand: 'Cotton Heritage',
     model: 'M2580',
     images: [
@@ -2763,6 +2955,7 @@ export const objects = [
   {
     id: 707,
     title: 'Wine Tote Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2777,6 +2970,7 @@ export const objects = [
   {
     id: 772,
     title: 'Unisex Fleece Pullover Hoodie',
+    className: 'Printable',
     brand: 'Tultex',
     model: '320',
     images: [
@@ -2793,6 +2987,7 @@ export const objects = [
   {
     id: 756,
     title: 'Leash',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2808,6 +3003,7 @@ export const objects = [
   {
     id: 795,
     title: 'Unisex Crew Sweatshirt',
+    className: 'Printable',
     brand: 'Cotton Heritage',
     model: 'M2480',
     images: [
@@ -2825,6 +3021,7 @@ export const objects = [
   {
     id: 803,
     title: 'Transparent Outdoor Stickers, Die-Cut, 1pcs',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2838,6 +3035,7 @@ export const objects = [
   {
     id: 802,
     title: 'Transparent Outdoor Stickers, Round, 1pcs',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2851,6 +3049,7 @@ export const objects = [
   {
     id: 794,
     title: 'Transparent Outdoor Stickers, Square, 1pc',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2864,6 +3063,7 @@ export const objects = [
   {
     id: 667,
     title: 'Baby Headband',
+    className: 'Printable',
     brand: 'The Laughing Giraffe',
     model: '',
     images: ['https://images.printify.com/617fad29285c4e24081dec6e'],
@@ -2871,6 +3071,7 @@ export const objects = [
   {
     id: 757,
     title: "Men's Jogger Shorts (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2888,6 +3089,7 @@ export const objects = [
   {
     id: 807,
     title: 'Hardboard Back Coaster',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2902,6 +3104,7 @@ export const objects = [
   {
     id: 811,
     title: 'Holographic Die-cut Stickers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2916,6 +3119,7 @@ export const objects = [
   {
     id: 808,
     title: 'Slim Can Cooler',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2932,6 +3136,7 @@ export const objects = [
   {
     id: 806,
     title: 'Round Stickers, Indoor\\Outdoor',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2946,6 +3151,7 @@ export const objects = [
   {
     id: 805,
     title: 'Scented Candle, 13.75oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2959,6 +3165,7 @@ export const objects = [
   {
     id: 820,
     title: 'Non-Slip Mouse Pads',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2974,6 +3181,7 @@ export const objects = [
   {
     id: 826,
     title: 'Double Wine Tote Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -2991,6 +3199,7 @@ export const objects = [
   {
     id: 734,
     title: 'Christmas Stocking',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3005,6 +3214,7 @@ export const objects = [
   {
     id: 839,
     title: 'Felt Storage Box',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3020,6 +3230,7 @@ export const objects = [
   {
     id: 800,
     title: 'Unisex Color Blast T-Shirt',
+    className: 'Printable',
     brand: 'Comfort Colors®',
     model: '1745',
     images: [
@@ -3037,6 +3248,7 @@ export const objects = [
   {
     id: 829,
     title: 'Satin Posters (300gsm)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3052,6 +3264,7 @@ export const objects = [
   {
     id: 849,
     title: 'Slim Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3066,6 +3279,7 @@ export const objects = [
   {
     id: 841,
     title: 'Impact-Resistant Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3081,6 +3295,7 @@ export const objects = [
   {
     id: 840,
     title: ' [TEST] Unisex Premium Full Zip Hoodie ',
+    className: 'Printable',
     brand: 'Lane Seven',
     model: 'LS140031',
     images: [
@@ -3095,6 +3310,7 @@ export const objects = [
   {
     id: 832,
     title: "Men's Full-Zip Hoodie (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3111,6 +3327,7 @@ export const objects = [
   {
     id: 852,
     title: 'Vertical and Horizontal Matte Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3124,6 +3341,7 @@ export const objects = [
   {
     id: 847,
     title: "Women's Packable Jacket",
+    className: 'Printable',
     brand: 'Elevate',
     model: 'TM92605',
     images: [
@@ -3142,6 +3360,7 @@ export const objects = [
   {
     id: 846,
     title: "Men's Packable Jacket",
+    className: 'Printable',
     brand: 'Elevate',
     model: 'TM12605',
     images: [
@@ -3158,6 +3377,7 @@ export const objects = [
   {
     id: 878,
     title: 'Fitness Handbag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3176,6 +3396,7 @@ export const objects = [
   {
     id: 881,
     title: 'Shoulder Handbag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3193,6 +3414,7 @@ export const objects = [
   {
     id: 882,
     title: 'PU Leather Shoulder Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3213,6 +3435,7 @@ export const objects = [
   {
     id: 877,
     title: 'Small Shoulder Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3231,6 +3454,7 @@ export const objects = [
   {
     id: 855,
     title: 'Pet Food Mat (12x18)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3248,6 +3472,7 @@ export const objects = [
   {
     id: 888,
     title: 'Waterproof Travel Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3265,6 +3490,7 @@ export const objects = [
   {
     id: 876,
     title: 'Sticker Sheet Bundle, 5pcs',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3279,6 +3505,7 @@ export const objects = [
   {
     id: 875,
     title: 'Sticker Sheet Bundle, 10pcs',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3293,6 +3520,7 @@ export const objects = [
   {
     id: 879,
     title: 'Long Sleeve Crewneck Tee',
+    className: 'Printable',
     brand: 'Lane Seven',
     model: 'LS15009',
     images: [
@@ -3311,6 +3539,7 @@ export const objects = [
   {
     id: 859,
     title: 'Women’s Full-Zip Hoodie (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3327,6 +3556,7 @@ export const objects = [
   {
     id: 858,
     title: 'Apron (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3345,6 +3575,7 @@ export const objects = [
   {
     id: 880,
     title: 'Unisex Heavy Cotton Tank Top',
+    className: 'Printable',
     brand: 'Gildan',
     model: '5200',
     images: [
@@ -3363,6 +3594,7 @@ export const objects = [
   {
     id: 886,
     title: 'Clear Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3380,6 +3612,7 @@ export const objects = [
   {
     id: 853,
     title: 'Bean Bag Chair Cover',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3398,6 +3631,7 @@ export const objects = [
   {
     id: 893,
     title: 'Car Mats (Set of 4)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3414,6 +3648,7 @@ export const objects = [
   {
     id: 910,
     title: 'Luggage Tags',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3428,6 +3663,7 @@ export const objects = [
   {
     id: 871,
     title: 'Mid-length Socks',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3444,6 +3680,7 @@ export const objects = [
   {
     id: 922,
     title: 'Car Seat Covers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3465,6 +3702,7 @@ export const objects = [
   {
     id: 901,
     title: 'Long Hoodie Dress (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3478,6 +3716,7 @@ export const objects = [
   {
     id: 912,
     title: 'Sherpa Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3494,6 +3733,7 @@ export const objects = [
   {
     id: 913,
     title: 'Polyester Shower Curtain',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3511,6 +3751,7 @@ export const objects = [
   {
     id: 897,
     title: 'Balloons (Round and Heart-shaped), 6"',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3525,6 +3766,7 @@ export const objects = [
   {
     id: 921,
     title: 'Acrylic Prints',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3540,6 +3782,7 @@ export const objects = [
   {
     id: 943,
     title: 'Mobile Display Stand for Smartphones',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3554,6 +3797,7 @@ export const objects = [
   {
     id: 916,
     title: 'Lamp on a Stand, US|CA plug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3569,6 +3813,7 @@ export const objects = [
   {
     id: 914,
     title: 'Floor Mat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3587,6 +3832,7 @@ export const objects = [
   {
     id: 939,
     title: 'Pillow Sham',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3603,6 +3849,7 @@ export const objects = [
   {
     id: 940,
     title: 'Toiletry Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3620,6 +3867,7 @@ export const objects = [
   {
     id: 955,
     title: 'Car Mats (2x Front)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3634,6 +3882,7 @@ export const objects = [
   {
     id: 954,
     title: 'Car Mats (2x Rear)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3648,6 +3897,7 @@ export const objects = [
   {
     id: 935,
     title: 'Waterproof Pillows',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3663,6 +3913,7 @@ export const objects = [
   {
     id: 926,
     title: "Women's Slide Sandals",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3678,6 +3929,7 @@ export const objects = [
   {
     id: 862,
     title: "Men's Slide Sandals",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3693,6 +3945,7 @@ export const objects = [
   {
     id: 957,
     title: 'Car Floor Mats, 1pc',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3709,6 +3962,7 @@ export const objects = [
   {
     id: 958,
     title: 'Unisex DryBlend® Crewneck Sweatshirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: '12000',
     images: [
@@ -3727,6 +3981,7 @@ export const objects = [
   {
     id: 925,
     title: "Women's Relaxed Shorts (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3744,6 +3999,7 @@ export const objects = [
   {
     id: 946,
     title: 'Unisex DryBlend® Hooded Sweatshirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: '12500',
     images: [
@@ -3762,6 +4018,7 @@ export const objects = [
   {
     id: 950,
     title: 'Heavy Duty Floor Mat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3780,6 +4037,7 @@ export const objects = [
   {
     id: 980,
     title: 'Passport Wallet',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3797,6 +4055,7 @@ export const objects = [
   {
     id: 869,
     title: "Men's Indoor Slippers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3812,6 +4071,7 @@ export const objects = [
   {
     id: 951,
     title: 'Can Cooler',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3830,6 +4090,7 @@ export const objects = [
   {
     id: 979,
     title: 'License Plate Frame',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3845,6 +4106,7 @@ export const objects = [
   {
     id: 967,
     title: 'Suave Acrylic Cup',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3859,6 +4121,7 @@ export const objects = [
   {
     id: 917,
     title: 'Garden Banner',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3876,6 +4139,7 @@ export const objects = [
   {
     id: 984,
     title: 'Fun Wall Clocks',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3893,6 +4157,7 @@ export const objects = [
   {
     id: 963,
     title: 'Unisex Socks',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3910,6 +4175,7 @@ export const objects = [
   {
     id: 982,
     title: 'Unisex Classic Crewneck T-Shirt',
+    className: 'Printable',
     brand: 'American Apparel',
     model: '2001W',
     images: [
@@ -3927,6 +4193,7 @@ export const objects = [
   {
     id: 986,
     title: 'House Banner',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3943,6 +4210,7 @@ export const objects = [
   {
     id: 659,
     title: "Women's Crop Tee",
+    className: 'Printable',
     brand: 'AS Colour',
     model: '4062',
     images: [
@@ -3957,6 +4225,7 @@ export const objects = [
   {
     id: 995,
     title: 'Unisex Stonewash Tank Top',
+    className: 'Printable',
     brand: 'AS Colour',
     model: '5039',
     images: [
@@ -3976,6 +4245,7 @@ export const objects = [
   {
     id: 942,
     title: 'Fanny Pack, Black',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -3993,6 +4263,7 @@ export const objects = [
   {
     id: 966,
     title: 'Vagabond 20oz Tumbler',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4008,6 +4279,7 @@ export const objects = [
   {
     id: 990,
     title: 'Spiral Wire O Notebook',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4023,6 +4295,7 @@ export const objects = [
   {
     id: 1005,
     title: 'Gold Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4034,6 +4307,7 @@ export const objects = [
   {
     id: 973,
     title: "Women's Maternity Tee",
+    className: 'Printable',
     brand: 'LAT Apparel',
     model: '3509',
     images: [
@@ -4047,6 +4321,7 @@ export const objects = [
   {
     id: 919,
     title: 'Apron (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4062,6 +4337,7 @@ export const objects = [
   {
     id: 996,
     title: 'Spun Polyester Pillow',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4078,6 +4354,7 @@ export const objects = [
   {
     id: 911,
     title: 'Duvet Cover',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4092,6 +4369,7 @@ export const objects = [
   {
     id: 1007,
     title: 'Outdoor Pillows',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4108,6 +4386,7 @@ export const objects = [
   {
     id: 991,
     title: 'Polyester Car Seat Covers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4127,6 +4406,7 @@ export const objects = [
   {
     id: 977,
     title: "Men's Elastic Beach Shorts (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4143,6 +4423,7 @@ export const objects = [
   {
     id: 645,
     title: 'Test BP ( Izzy) ZZZ',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3001',
     images: [
@@ -4155,6 +4436,7 @@ export const objects = [
   {
     id: 1006,
     title: 'Boho Beach Cloth',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4173,6 +4455,7 @@ export const objects = [
   {
     id: 1030,
     title: 'Pennant',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4190,6 +4473,7 @@ export const objects = [
   {
     id: 1034,
     title: 'Laundry Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4207,6 +4491,7 @@ export const objects = [
   {
     id: 1014,
     title: "Women's Tie-Dye Crop Tee",
+    className: 'Printable',
     brand: 'Colortone',
     model: '1050',
     images: [
@@ -4224,6 +4509,7 @@ export const objects = [
   {
     id: 1011,
     title: 'Baby Short Sleeve Bodysuit',
+    className: 'Printable',
     brand: 'Baby Blanks',
     model: '',
     images: [
@@ -4241,6 +4527,7 @@ export const objects = [
   {
     id: 327,
     title: 'Dobby Rug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4256,6 +4543,7 @@ export const objects = [
   {
     id: 1040,
     title: 'Passport Cover',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4271,6 +4559,7 @@ export const objects = [
   {
     id: 1039,
     title: 'Yard Sign',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4286,6 +4575,7 @@ export const objects = [
   {
     id: 961,
     title: 'Acrylic Prints (Triptych)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4302,6 +4592,7 @@ export const objects = [
   {
     id: 928,
     title: 'Acrylic Prints (French Cleat Hanging) ',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4318,6 +4609,7 @@ export const objects = [
   {
     id: 1042,
     title: 'Polyester Lunch Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4333,6 +4625,7 @@ export const objects = [
   {
     id: 1043,
     title: 'Midi Dress (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4350,6 +4643,7 @@ export const objects = [
   {
     id: 1055,
     title: "Women's Sport Bikinis Swimsuit",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4365,6 +4659,7 @@ export const objects = [
   {
     id: 1065,
     title: 'PLA Bento Box with Band and Utensils',
+    className: 'Printable',
     brand: "Leed's",
     model: '',
     images: [
@@ -4379,6 +4674,7 @@ export const objects = [
   {
     id: 1046,
     title: 'Mylar Helium Balloon',
+    className: 'Printable',
     brand: 'Floato™',
     model: '',
     images: [
@@ -4394,6 +4690,7 @@ export const objects = [
   {
     id: 1064,
     title: 'Luggage Cover',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4412,6 +4709,7 @@ export const objects = [
   {
     id: 507,
     title: 'Polyester Canvas Tote Bag (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4427,6 +4725,7 @@ export const objects = [
   {
     id: 1074,
     title: 'Jabba Bluetooth Speaker',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4443,6 +4742,7 @@ export const objects = [
   {
     id: 1056,
     title: "Women's California Wave Wash Sweatshirt",
+    className: 'Printable',
     brand: 'Independent Trading Company',
     model: 'PRM2000',
     images: [
@@ -4458,6 +4758,7 @@ export const objects = [
   {
     id: 1070,
     title: 'Quake Wireless Charging Pad',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4476,6 +4777,7 @@ export const objects = [
   {
     id: 1049,
     title: 'Desk Mouse Pad',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4490,6 +4792,7 @@ export const objects = [
   {
     id: 1015,
     title: 'Unisex Mineral Wash T-Shirt',
+    className: 'Printable',
     brand: 'Colortone',
     model: '1300',
     images: [
@@ -4506,6 +4809,7 @@ export const objects = [
   {
     id: 1067,
     title: 'Small Cell Phone Wallet',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4525,6 +4829,7 @@ export const objects = [
   {
     id: 1062,
     title: 'Unisex Tank Top (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4545,6 +4850,7 @@ export const objects = [
   {
     id: 1088,
     title: 'Beer Stein Mug',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -4559,6 +4865,7 @@ export const objects = [
   {
     id: 1077,
     title: 'Lawn Sign',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4575,6 +4882,7 @@ export const objects = [
   {
     id: 1095,
     title: "Women's Indoor Slippers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4590,6 +4898,7 @@ export const objects = [
   {
     id: 1080,
     title: "Women's Cropped Organic Tee",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4602,6 +4911,7 @@ export const objects = [
   {
     id: 1000,
     title: 'Large Fanny Pack',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4623,6 +4933,7 @@ export const objects = [
   {
     id: 1071,
     title: 'Seamless Sports Bra (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4640,6 +4951,7 @@ export const objects = [
   {
     id: 1078,
     title: 'Basketball Rib Shorts (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4659,6 +4971,7 @@ export const objects = [
   {
     id: 1037,
     title: "Women's Satin Pajamas (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4677,6 +4990,7 @@ export const objects = [
   {
     id: 1096,
     title: 'Color Contrast Notebook - Ruled',
+    className: 'Printable',
     brand: 'Journalbooks',
     model: '',
     images: [
@@ -4696,6 +5010,7 @@ export const objects = [
   {
     id: 1097,
     title: 'Youth Leggings (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4713,6 +5028,7 @@ export const objects = [
   {
     id: 1091,
     title: 'Crushed Velvet Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4730,6 +5046,7 @@ export const objects = [
   {
     id: 1119,
     title: 'Mini License Plate',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4744,6 +5061,7 @@ export const objects = [
   {
     id: 1105,
     title: 'Sweatshirt Blanket',
+    className: 'Printable',
     brand: 'Terry Town',
     model: '',
     images: [
@@ -4761,6 +5079,7 @@ export const objects = [
   {
     id: 1109,
     title: 'Ladies Momentum Tee',
+    className: 'Printable',
     brand: 'Holloway',
     model: '222820',
     images: [
@@ -4776,6 +5095,7 @@ export const objects = [
   {
     id: 1084,
     title: 'Athletic Long Shorts (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4796,6 +5116,7 @@ export const objects = [
   {
     id: 1124,
     title: 'Picnic Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4816,6 +5137,7 @@ export const objects = [
   {
     id: 1110,
     title: "Women's Shorts (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4832,6 +5154,7 @@ export const objects = [
   {
     id: 1099,
     title: 'Window Curtains (1 Piece)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4848,6 +5171,7 @@ export const objects = [
   {
     id: 1131,
     title: 'Frosted Glass Beer Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4863,6 +5187,7 @@ export const objects = [
   {
     id: 1082,
     title: 'Clear Silicone Phone Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4880,6 +5205,7 @@ export const objects = [
   {
     id: 1114,
     title: 'Scrunchie',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4895,6 +5221,7 @@ export const objects = [
   {
     id: 1085,
     title: 'Outdoor Rug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4914,6 +5241,7 @@ export const objects = [
   {
     id: 1137,
     title: 'Vanity Plate',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -4928,6 +5256,7 @@ export const objects = [
   {
     id: 1112,
     title: "Men's Momentum Tee",
+    className: 'Printable',
     brand: 'Holloway',
     model: '222818',
     images: [
@@ -4941,6 +5270,7 @@ export const objects = [
   {
     id: 1145,
     title: "Men's Removable-Strap Sandals",
+    className: 'Printable',
     brand: 'Deco Slides',
     model: '',
     images: [
@@ -4956,6 +5286,7 @@ export const objects = [
   {
     id: 1146,
     title: "Women's Removable-Strap Sandals",
+    className: 'Printable',
     brand: 'Deco Slides',
     model: '',
     images: [
@@ -4971,6 +5302,7 @@ export const objects = [
   {
     id: 1147,
     title: 'Youth Removable-Strap Sandals',
+    className: 'Printable',
     brand: 'Deco Slides',
     model: '',
     images: [
@@ -4986,6 +5318,7 @@ export const objects = [
   {
     id: 1132,
     title: "Women's Biker Shorts (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5003,6 +5336,7 @@ export const objects = [
   {
     id: 1120,
     title: 'Sherpa Blanket, Two Colors',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5021,6 +5355,7 @@ export const objects = [
   {
     id: 1139,
     title: 'Stainless Steel Water Bottle With Straw, 20oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -5036,6 +5371,7 @@ export const objects = [
   {
     id: 1148,
     title: 'Canvas Lunch Bag With Strap',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5052,6 +5388,7 @@ export const objects = [
   {
     id: 1153,
     title: 'Two-Tone Coffee Mugs, 15oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5066,6 +5403,7 @@ export const objects = [
   {
     id: 1156,
     title: 'Color Morphing Mug, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5084,6 +5422,7 @@ export const objects = [
   {
     id: 1161,
     title: "Women's Quarter-Zip Sweater",
+    className: 'Printable',
     brand: 'Holloway',
     model: '2787',
     images: [
@@ -5100,6 +5439,7 @@ export const objects = [
   {
     id: 1116,
     title: 'Youth Momentum Long Sleeve ',
+    className: 'Printable',
     brand: 'Holloway',
     model: '222823',
     images: [
@@ -5118,6 +5458,7 @@ export const objects = [
   {
     id: 1063,
     title: 'Hunting Hat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: ['https://images.printify.com/62d6ad2b7f133acc0e006ec5'],
@@ -5125,6 +5466,7 @@ export const objects = [
   {
     id: 1118,
     title: 'Glass Shot with Gold Rim',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5136,6 +5478,7 @@ export const objects = [
   {
     id: 1126,
     title: 'Jumbo Mug, 20oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -5149,6 +5492,7 @@ export const objects = [
   {
     id: 1051,
     title: 'Snuggle Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5167,6 +5511,7 @@ export const objects = [
   {
     id: 1038,
     title: 'Soccer Jersey (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5185,6 +5530,7 @@ export const objects = [
   {
     id: 1176,
     title: 'Balloon (Round and Heart-shaped), 11"',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5199,6 +5545,7 @@ export const objects = [
   {
     id: 1087,
     title: 'Unisex Football Jersey (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5221,6 +5568,7 @@ export const objects = [
   {
     id: 1174,
     title: 'Plus Size Leggings (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5240,6 +5588,7 @@ export const objects = [
   {
     id: 1171,
     title: 'Perfect Weight® Tee',
+    className: 'Printable',
     brand: 'District',
     model: 'DT104',
     images: [
@@ -5256,6 +5605,7 @@ export const objects = [
   {
     id: 1155,
     title: "Kids' Puzzle, 30-Piece",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5271,6 +5621,7 @@ export const objects = [
   {
     id: 1187,
     title: 'Ping Pong Balls, 6 pcs',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5287,6 +5638,7 @@ export const objects = [
   {
     id: 1179,
     title: 'Accessory Zipper Pouch',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5307,6 +5659,7 @@ export const objects = [
   {
     id: 1143,
     title: 'High-Performance Sports Crew Socks',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5322,6 +5675,7 @@ export const objects = [
   {
     id: 1198,
     title: 'Oven Glove',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5341,6 +5695,7 @@ export const objects = [
   {
     id: 1154,
     title: 'Insulated Coffee Mug, 10oz ',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5355,6 +5710,7 @@ export const objects = [
   {
     id: 1197,
     title: 'Wham-O Frisbee',
+    className: 'Printable',
     brand: 'Wham-O',
     model: '',
     images: [
@@ -5370,6 +5726,7 @@ export const objects = [
   {
     id: 1199,
     title: 'Neoprene Lunch Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5387,6 +5744,7 @@ export const objects = [
   {
     id: 1200,
     title: 'Round Tree Skirt',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5403,6 +5761,7 @@ export const objects = [
   {
     id: 1201,
     title: 'Holiday Stocking',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5418,6 +5777,7 @@ export const objects = [
   {
     id: 1202,
     title: 'Youth Hooded Towel',
+    className: 'Printable',
     brand: 'Terry Town',
     model: '',
     images: [
@@ -5439,6 +5799,7 @@ export const objects = [
   {
     id: 1203,
     title: 'Hockey Puck',
+    className: 'Printable',
     brand: 'Viceroy',
     model: '',
     images: [
@@ -5453,6 +5814,7 @@ export const objects = [
   {
     id: 1191,
     title: 'Photo Art Paper Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5467,6 +5829,7 @@ export const objects = [
   {
     id: 1215,
     title: 'Tie Dye Racerback Tank Top',
+    className: 'Printable',
     brand: 'Colortone',
     model: '3400',
     images: [
@@ -5484,6 +5847,7 @@ export const objects = [
   {
     id: 1151,
     title: 'Colorful Mugs, 11oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -5498,6 +5862,7 @@ export const objects = [
   {
     id: 1209,
     title: 'Unisex Basketball Jersey (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5520,6 +5885,7 @@ export const objects = [
   {
     id: 1207,
     title: 'Cotton Jersey Shorts',
+    className: 'Printable',
     brand: 'Champion',
     model: '8180',
     images: [
@@ -5534,6 +5900,7 @@ export const objects = [
   {
     id: 1217,
     title: 'Youth Joggers (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5553,6 +5920,7 @@ export const objects = [
   {
     id: 1235,
     title: 'Gator Tumbler, 32oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5566,6 +5934,7 @@ export const objects = [
   {
     id: 1221,
     title: 'Dad Hat with Leather Patch (Rectangle)',
+    className: 'Printable',
     brand: 'ValuCap',
     model: 'VC300A',
     images: [
@@ -5586,6 +5955,7 @@ export const objects = [
   {
     id: 1223,
     title: 'Yoga Capri Leggings (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5606,6 +5976,7 @@ export const objects = [
   {
     id: 1233,
     title: 'Unisex Windbreaker Jacket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5624,6 +5995,7 @@ export const objects = [
   {
     id: 1259,
     title: 'Unisex Tie-Dye Sweatshirt',
+    className: 'Printable',
     brand: 'Colortone',
     model: '8100',
     images: [
@@ -5645,6 +6017,7 @@ export const objects = [
   {
     id: 1219,
     title: "Women's Mesh Sneakers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5664,6 +6037,7 @@ export const objects = [
   {
     id: 1240,
     title: "Girls' Double Lined Seamless Sports Bra (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5681,6 +6055,7 @@ export const objects = [
   {
     id: 1263,
     title: "Women's Long Sleeve Dance Dress (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5699,6 +6074,7 @@ export const objects = [
   {
     id: 1057,
     title: "Women's California Wave Wash Hoodie",
+    className: 'Printable',
     brand: 'Independent Trading Company',
     model: 'PRM2500',
     images: ['https://images.printify.com/6363b2b277a8278747044cc4'],
@@ -5706,6 +6082,7 @@ export const objects = [
   {
     id: 1267,
     title: 'Gloss Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5720,6 +6097,7 @@ export const objects = [
   {
     id: 1257,
     title: 'Unisex Color Blast Crewneck Sweatshirt',
+    className: 'Printable',
     brand: 'Comfort Colors®',
     model: '1545',
     images: [
@@ -5740,6 +6118,7 @@ export const objects = [
   {
     id: 1058,
     title: 'Baby Short Sleeve T-Shirt',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3001B',
     images: [
@@ -5755,6 +6134,7 @@ export const objects = [
   {
     id: 1270,
     title: 'Athletic Hoodie (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5777,6 +6157,7 @@ export const objects = [
   {
     id: 1278,
     title: 'High Neck Crop Bikini Top (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5794,6 +6175,7 @@ export const objects = [
   {
     id: 1279,
     title: 'High-Waist Hipster Bikini Bottom (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5811,6 +6193,7 @@ export const objects = [
   {
     id: 1280,
     title: 'Strappy Bikini Set (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5832,6 +6215,7 @@ export const objects = [
   {
     id: 1281,
     title: 'Loop Tie Side Bikini Bottom (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5848,6 +6232,7 @@ export const objects = [
   {
     id: 1282,
     title: 'Strappy Triangle Bikini Top (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5864,6 +6249,7 @@ export const objects = [
   {
     id: 1277,
     title: 'Sporty Bikini Set (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5881,6 +6267,7 @@ export const objects = [
   {
     id: 1284,
     title: 'Girls Two Piece Swimsuit (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5900,6 +6287,7 @@ export const objects = [
   {
     id: 1274,
     title: 'Fully Lined, Padded Sports Bra (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5917,6 +6305,7 @@ export const objects = [
   {
     id: 1285,
     title: "Girls' Hipster Swimsuit Bottom (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5932,6 +6321,7 @@ export const objects = [
   {
     id: 1286,
     title: "Girls' Swimsuit Crop Top (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5950,6 +6340,7 @@ export const objects = [
   {
     id: 1287,
     title: 'Dad Hat with Leather Patch (Round)',
+    className: 'Printable',
     brand: 'ValuCap',
     model: 'VC300A',
     images: [
@@ -5970,6 +6361,7 @@ export const objects = [
   {
     id: 1297,
     title: 'Canvas Stretched, 0.75"',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -5986,6 +6378,7 @@ export const objects = [
   {
     id: 1081,
     title: 'Vinyl Banners',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6000,6 +6393,7 @@ export const objects = [
   {
     id: 1299,
     title: 'Unisex Long Body Urban Tee',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3006',
     images: [
@@ -6020,6 +6414,7 @@ export const objects = [
   {
     id: 905,
     title: 'Sandis non-DTG test',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6033,6 +6428,7 @@ export const objects = [
   {
     id: 1258,
     title: "Men's Sleeveless T-Shirt",
+    className: 'Printable',
     brand: 'C2 Sport',
     model: '5130',
     images: ['https://images.printify.com/63f8e47e349f90a08c0819a4'],
@@ -6040,6 +6436,7 @@ export const objects = [
   {
     id: 1308,
     title: 'Luggage Tag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6058,6 +6455,7 @@ export const objects = [
   {
     id: 1309,
     title: 'Satin and Archival Matte Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6072,6 +6470,7 @@ export const objects = [
   {
     id: 1316,
     title: 'Snug-Fit Fabric Face Mask',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6090,6 +6489,7 @@ export const objects = [
   {
     id: 1314,
     title: 'Unisex Recycled Organic T-Shirt',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3001RCY',
     images: [
@@ -6109,6 +6509,7 @@ export const objects = [
   {
     id: 1329,
     title: 'Stubby Cooler',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6124,6 +6525,7 @@ export const objects = [
   {
     id: 1341,
     title: 'Youth PU Slide Sandals',
+    className: 'Printable',
     brand: 'Deco Slides',
     model: '',
     images: [
@@ -6138,6 +6540,7 @@ export const objects = [
   {
     id: 1342,
     title: "Women's PU Slide Sandals",
+    className: 'Printable',
     brand: 'Deco Slides',
     model: '',
     images: [
@@ -6152,6 +6555,7 @@ export const objects = [
   {
     id: 1343,
     title: "Men's PU Slide Sandals",
+    className: 'Printable',
     brand: 'Deco Slides',
     model: '',
     images: [
@@ -6166,6 +6570,7 @@ export const objects = [
   {
     id: 1365,
     title: 'iPhone 15 Presale: Slim Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6177,6 +6582,7 @@ export const objects = [
   {
     id: 1364,
     title: 'iPhone 15 Presale: Tough Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6188,6 +6594,7 @@ export const objects = [
   {
     id: 1368,
     title: 'Wall Calendars (Blank)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: ['https://images.printify.com/650840be40ed562e8d06d166'],
@@ -6195,6 +6602,7 @@ export const objects = [
   {
     id: 760,
     title: 'Lunch Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6211,6 +6619,7 @@ export const objects = [
   {
     id: 851,
     title: 'Die-Cut Magnets',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6225,6 +6634,7 @@ export const objects = [
   {
     id: 743,
     title: 'Watch Band for Apple Watch',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6239,6 +6649,7 @@ export const objects = [
   {
     id: 762,
     title: 'Scented Candle, 9oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6253,6 +6664,7 @@ export const objects = [
   {
     id: 614,
     title: 'Kensington Tritan™ Sport Bottle, 20oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6267,6 +6679,7 @@ export const objects = [
   {
     id: 643,
     title: 'Cutting Board',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6284,6 +6697,7 @@ export const objects = [
   {
     id: 1332,
     title: "Men's Sports Jersey (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6303,6 +6717,7 @@ export const objects = [
   {
     id: 1319,
     title: 'USA-Made Unisex Short-Sleeve Jersey T-Shirt',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3001U',
     images: [
@@ -6323,6 +6738,7 @@ export const objects = [
   {
     id: 978,
     title: "Men's Mid-Length Swim Shorts (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6339,6 +6755,7 @@ export const objects = [
   {
     id: 1337,
     title: 'Soft Polyester Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6356,6 +6773,7 @@ export const objects = [
   {
     id: 985,
     title: 'Colorful Accent Mugs, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6369,6 +6787,7 @@ export const objects = [
   {
     id: 988,
     title: 'Unisex Softstyle™ Tank Top',
+    className: 'Printable',
     brand: 'Gildan',
     model: '64200',
     images: [
@@ -6386,6 +6805,7 @@ export const objects = [
   {
     id: 993,
     title: 'Plush Fleece Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6406,6 +6826,7 @@ export const objects = [
   {
     id: 998,
     title: "Women's Tank Top",
+    className: 'Printable',
     brand: 'Gildan',
     model: '64200L',
     images: [
@@ -6420,6 +6841,7 @@ export const objects = [
   {
     id: 1004,
     title: 'Frosted Glass Mug',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -6433,6 +6855,7 @@ export const objects = [
   {
     id: 1016,
     title: 'Standard Mug, 11oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -6447,6 +6870,7 @@ export const objects = [
   {
     id: 1017,
     title: 'Color-Changing Mug, 11oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -6461,6 +6885,7 @@ export const objects = [
   {
     id: 1018,
     title: 'Two-Tone Coffee Mug, 11oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -6475,6 +6900,7 @@ export const objects = [
   {
     id: 1019,
     title: 'White Accent Mug, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6488,6 +6914,7 @@ export const objects = [
   {
     id: 1020,
     title: 'White Mug, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6501,6 +6928,7 @@ export const objects = [
   {
     id: 1024,
     title: 'Portrait and Landscape Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6515,6 +6943,7 @@ export const objects = [
   {
     id: 1029,
     title: 'Tube Scarf',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6532,6 +6961,7 @@ export const objects = [
   {
     id: 1031,
     title: 'Magic Mug, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6546,6 +6976,7 @@ export const objects = [
   {
     id: 1033,
     title: 'Photopaper Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6560,6 +6991,7 @@ export const objects = [
   {
     id: 1035,
     title: 'Cotton Cosmetic Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6578,6 +7010,7 @@ export const objects = [
   {
     id: 1041,
     title: 'Hardcover Notebook with Puffy Covers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6595,6 +7028,7 @@ export const objects = [
   {
     id: 279,
     title: "Women's Cut & Sew Tee (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6611,6 +7045,7 @@ export const objects = [
   {
     id: 1053,
     title: 'Business Cards',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6625,6 +7060,7 @@ export const objects = [
   {
     id: 1061,
     title: 'Classic Canvas',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6641,6 +7077,7 @@ export const objects = [
   {
     id: 1076,
     title: "Men's Running T-Shirt",
+    className: 'Printable',
     brand: 'James & Nicholson',
     model: 'JN391',
     images: [
@@ -6655,6 +7092,7 @@ export const objects = [
   {
     id: 281,
     title: 'Unisex Cut & Sew Tee (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6672,6 +7110,7 @@ export const objects = [
   {
     id: 1079,
     title: 'Unframed Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6686,6 +7125,7 @@ export const objects = [
   {
     id: 1086,
     title: 'Round Pins',
+    className: 'Printable',
     brand: 'Tecre',
     model: '',
     images: [
@@ -6701,6 +7141,7 @@ export const objects = [
   {
     id: 3,
     title: 'Kids Regular Fit Tee',
+    className: 'Printable',
     brand: 'Delta',
     model: '11736',
     images: [
@@ -6713,6 +7154,7 @@ export const objects = [
   {
     id: 323,
     title: "Women's Relaxed Jersey Tank Top",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '6488',
     images: [
@@ -6724,6 +7166,7 @@ export const objects = [
   {
     id: 1090,
     title: 'Natural Tote Bag',
+    className: 'Printable',
     brand: 'S&S Bags',
     model: '42795',
     images: [
@@ -6738,6 +7181,7 @@ export const objects = [
   {
     id: 1092,
     title: 'Canvas Shopping Tote',
+    className: 'Printable',
     brand: 'Bagmasters',
     model: 'A250',
     images: [
@@ -6753,6 +7197,7 @@ export const objects = [
   {
     id: 5,
     title: "Men's Cotton Crew Tee",
+    className: 'Printable',
     brand: 'Next Level',
     model: '3600',
     images: [
@@ -6765,6 +7210,7 @@ export const objects = [
   {
     id: 1098,
     title: 'Acrylic Wall Art Panels',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6780,6 +7226,7 @@ export const objects = [
   {
     id: 371,
     title: 'Snap Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6796,6 +7243,7 @@ export const objects = [
   {
     id: 750,
     title: 'Youth Midweight Tee',
+    className: 'Printable',
     brand: 'Comfort Colors®',
     model: '9018',
     images: [
@@ -6809,6 +7257,7 @@ export const objects = [
   {
     id: 751,
     title: "Kid's Jersey Tank Top",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3480Y',
     images: [
@@ -6822,6 +7271,7 @@ export const objects = [
   {
     id: 380,
     title: 'Christmas Stockings',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6836,6 +7286,7 @@ export const objects = [
   {
     id: 410,
     title: "Women's Slouchy top",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '8816',
     images: [
@@ -6846,6 +7297,7 @@ export const objects = [
   {
     id: 753,
     title: 'Pencil Case',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STAU764',
     images: [
@@ -6862,6 +7314,7 @@ export const objects = [
   {
     id: 763,
     title: 'Indoor and Outdoor Silk Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6877,6 +7330,7 @@ export const objects = [
   {
     id: 764,
     title: 'Framed Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6891,6 +7345,7 @@ export const objects = [
   {
     id: 769,
     title: 'Ringneck Tumbler, 20oz',
+    className: 'Printable',
     brand: 'Polar Camel',
     model: 'T20',
     images: [
@@ -6907,6 +7362,7 @@ export const objects = [
   {
     id: 441,
     title: 'Ceramic Mug (EU)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6920,6 +7376,7 @@ export const objects = [
   {
     id: 442,
     title: 'Mouse Pad (EU)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -6935,6 +7392,7 @@ export const objects = [
   {
     id: 771,
     title: 'Button Magnet, Round (1 & 10 pcs)',
+    className: 'Printable',
     brand: 'Tecre',
     model: '1355',
     images: [
@@ -6950,6 +7408,7 @@ export const objects = [
   {
     id: 1102,
     title: 'Unisex Performance Long Sleeve Shirt',
+    className: 'Printable',
     brand: 'Team 365',
     model: 'TT11L',
     images: [
@@ -6967,6 +7426,7 @@ export const objects = [
   {
     id: 1103,
     title: "Women's Performance V-Neck T-Shirt",
+    className: 'Printable',
     brand: 'Team 365',
     model: 'TT11W',
     images: [
@@ -6983,6 +7443,7 @@ export const objects = [
   {
     id: 1104,
     title: "Women's V-Neck Running Shirt",
+    className: 'Printable',
     brand: 'James & Nicholson',
     model: 'JN390',
     images: [
@@ -6998,6 +7459,7 @@ export const objects = [
   {
     id: 11,
     title: "Women's Jersey Short Sleeve Deep V-Neck Tee",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '6035',
     images: [
@@ -7010,6 +7472,7 @@ export const objects = [
   {
     id: 1111,
     title: 'Cushion',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7026,6 +7489,7 @@ export const objects = [
   {
     id: 1127,
     title: 'Laptop, Netbook Case',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: ['https://images.printify.com/62c6e5067a33dab673097804'],
@@ -7033,6 +7497,7 @@ export const objects = [
   {
     id: 1128,
     title: 'Trucker Caps',
+    className: 'Printable',
     brand: 'OTTO Cap',
     model: '39-169',
     images: [
@@ -7048,6 +7513,7 @@ export const objects = [
   {
     id: 1130,
     title: 'Framed Posters, Matte',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7062,6 +7528,7 @@ export const objects = [
   {
     id: 775,
     title: "Kids' Changer Sweatshirt",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STSK913',
     images: [
@@ -7074,6 +7541,7 @@ export const objects = [
   {
     id: 1135,
     title: 'Short Sleeve Baby Bodysuit',
+    className: 'Printable',
     brand: 'Larkwood',
     model: 'LW55T ',
     images: [
@@ -7091,6 +7559,7 @@ export const objects = [
   {
     id: 1136,
     title: 'Combed Cotton Baby Bodysuit',
+    className: 'Printable',
     brand: "Sol's",
     model: 'SOLS00583',
     images: [
@@ -7108,6 +7577,7 @@ export const objects = [
   {
     id: 1138,
     title: 'Poker Cards',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7123,6 +7593,7 @@ export const objects = [
   {
     id: 1140,
     title: 'Framed Posters, Black',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7139,6 +7610,7 @@ export const objects = [
   {
     id: 776,
     title: "Kids' Creator T-Shirt",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTK909',
     images: [
@@ -7153,6 +7625,7 @@ export const objects = [
   {
     id: 455,
     title: 'Unisex Hooded Zip Sweatshirt',
+    className: 'Printable',
     brand: 'B&C',
     model: 'WUI25',
     images: [
@@ -7171,6 +7644,7 @@ export const objects = [
   {
     id: 1318,
     title: 'Unisex Ultra Cotton® Tall T-Shirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: '2000T',
     images: [
@@ -7191,6 +7665,7 @@ export const objects = [
   {
     id: 457,
     title: 'Unisex Crew Neck Sweatshirt (EU)',
+    className: 'Printable',
     brand: 'B&C',
     model: 'WUI23',
     images: [
@@ -7207,6 +7682,7 @@ export const objects = [
   {
     id: 781,
     title: 'Cotton Tea Towel',
+    className: 'Printable',
     brand: 'Greenbomb',
     model: '',
     images: [
@@ -7223,6 +7699,7 @@ export const objects = [
   {
     id: 1152,
     title: 'Black Mug, 15oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7236,6 +7713,7 @@ export const objects = [
   {
     id: 1157,
     title: 'Soft Phone Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7255,6 +7733,7 @@ export const objects = [
   {
     id: 458,
     title: 'Unisex Pullover Hoodie',
+    className: 'Printable',
     brand: 'B&C',
     model: 'WUI24',
     images: [
@@ -7272,6 +7751,7 @@ export const objects = [
   {
     id: 1172,
     title: 'Tea & Kitchen Towel',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7289,6 +7769,7 @@ export const objects = [
   {
     id: 1173,
     title: 'Polyester Bath Mat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7305,6 +7786,7 @@ export const objects = [
   {
     id: 463,
     title: "Organic Women's Lover T-shirt",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTW017',
     images: [
@@ -7317,6 +7799,7 @@ export const objects = [
   {
     id: 1175,
     title: "Women's Racerback Sports Top",
+    className: 'Printable',
     brand: 'TriDri',
     model: 'TR041',
     images: [
@@ -7334,6 +7817,7 @@ export const objects = [
   {
     id: 1178,
     title: 'Fleece Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7351,6 +7835,7 @@ export const objects = [
   {
     id: 464,
     title: "Men's Modern-fit Tee",
+    className: 'Printable',
     brand: 'SG Clothing',
     model: 'SGTEE',
     images: [
@@ -7364,6 +7849,7 @@ export const objects = [
   {
     id: 1180,
     title: 'Mesh Cap',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7380,6 +7866,7 @@ export const objects = [
   {
     id: 465,
     title: "Women's Premium Cotton Tee",
+    className: 'Printable',
     brand: 'Gildan',
     model: '4100L',
     images: [
@@ -7392,6 +7879,7 @@ export const objects = [
   {
     id: 1306,
     title: 'Whiskey Glass',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7405,6 +7893,7 @@ export const objects = [
   {
     id: 784,
     title: 'Dog Collar',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7420,6 +7909,7 @@ export const objects = [
   {
     id: 787,
     title: 'Shot Glass',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -7434,6 +7924,7 @@ export const objects = [
   {
     id: 1304,
     title: 'Aluminum Composite Panels',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7449,6 +7940,7 @@ export const objects = [
   {
     id: 789,
     title: 'Square Magnet',
+    className: 'Printable',
     brand: 'Magnum Magnetics',
     model: '',
     images: [
@@ -7463,6 +7955,7 @@ export const objects = [
   {
     id: 467,
     title: 'Tote Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '3842-LH',
     images: [
@@ -7476,6 +7969,7 @@ export const objects = [
   {
     id: 791,
     title: 'Latte Mug, 12oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7490,6 +7984,7 @@ export const objects = [
   {
     id: 469,
     title: 'Men’s Presenter V-neck',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTM562',
     images: [
@@ -7503,6 +7998,7 @@ export const objects = [
   {
     id: 792,
     title: 'Large Ceramic Mug, 15oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -7514,6 +8010,7 @@ export const objects = [
   {
     id: 470,
     title: 'Unisex Rise Sweatshirt',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STSU811',
     images: [
@@ -7530,6 +8027,7 @@ export const objects = [
   {
     id: 1025,
     title: 'Baby T-Shirt',
+    className: 'Printable',
     brand: 'Babybugz',
     model: 'BZ02',
     images: [
@@ -7545,6 +8043,7 @@ export const objects = [
   {
     id: 30,
     title: "Men's Short Sleeve Tee",
+    className: 'Printable',
     brand: 'Delta',
     model: '11730',
     images: [
@@ -7557,6 +8056,7 @@ export const objects = [
   {
     id: 1302,
     title: 'Two-Tone Coffee Mugs, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7573,6 +8073,7 @@ export const objects = [
   {
     id: 471,
     title: "Men's Specter Tank Top",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTM543',
     images: [
@@ -7586,6 +8087,7 @@ export const objects = [
   {
     id: 798,
     title: 'Slate Memoboard\\Hanging Sign',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7599,6 +8101,7 @@ export const objects = [
   {
     id: 1301,
     title: 'Accent Mugs, 11oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -7613,6 +8116,7 @@ export const objects = [
   {
     id: 530,
     title: 'Pewter Snowflake Ornament',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7626,6 +8130,7 @@ export const objects = [
   {
     id: 804,
     title: 'Fine Art Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7639,6 +8144,7 @@ export const objects = [
   {
     id: 534,
     title: 'Wood Canvas',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7652,6 +8158,7 @@ export const objects = [
   {
     id: 1045,
     title: 'Baby Organic Short Sleeve Bodysuit',
+    className: 'Printable',
     brand: 'Babybugz',
     model: 'BZ10',
     images: [
@@ -7669,6 +8176,7 @@ export const objects = [
   {
     id: 535,
     title: '11oz White Mug',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -7682,6 +8190,7 @@ export const objects = [
   {
     id: 1293,
     title: "Women's Iconic T-Shirt",
+    className: 'Printable',
     brand: 'Fruit Of The Loom',
     model: '614320',
     images: [
@@ -7699,6 +8208,7 @@ export const objects = [
   {
     id: 1291,
     title: 'Iron-On Patches',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7714,6 +8224,7 @@ export const objects = [
   {
     id: 1075,
     title: 'Packaging Inserts [Branding Dummy]',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: ['https://images.printify.com/6442561aa1c970607609c8be'],
@@ -7721,6 +8232,7 @@ export const objects = [
   {
     id: 474,
     title: "Men's Cultivator Zip Hoodie",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STSM566',
     images: [
@@ -7734,6 +8246,7 @@ export const objects = [
   {
     id: 475,
     title: 'Spiral Journal (EU)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7746,6 +8259,7 @@ export const objects = [
   {
     id: 476,
     title: 'Square Vinyl Stickers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7760,6 +8274,7 @@ export const objects = [
   {
     id: 810,
     title: 'Square Pillow - Pink Back',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7776,6 +8291,7 @@ export const objects = [
   {
     id: 479,
     title: '11oz Black Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7790,6 +8306,7 @@ export const objects = [
   {
     id: 494,
     title: 'Giclée Art Print ',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7803,6 +8320,7 @@ export const objects = [
   {
     id: 815,
     title: "Men's Pajama Set",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7821,6 +8339,7 @@ export const objects = [
   {
     id: 496,
     title: 'Sublimation Crew Socks (EU)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7834,6 +8353,7 @@ export const objects = [
   {
     id: 816,
     title: "Women's Pajama Set",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7852,6 +8372,7 @@ export const objects = [
   {
     id: 497,
     title: 'Cotton Face Mask (EU)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7865,6 +8386,7 @@ export const objects = [
   {
     id: 817,
     title: "Kids' Pajama Set",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7883,6 +8405,7 @@ export const objects = [
   {
     id: 502,
     title: 'Women’s Maple Tee ',
+    className: 'Printable',
     brand: 'AS Colour',
     model: '4001',
     images: [
@@ -7897,6 +8420,7 @@ export const objects = [
   {
     id: 503,
     title: 'Mug 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7910,6 +8434,7 @@ export const objects = [
   {
     id: 510,
     title: 'Corkwood Coaster Set',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7925,6 +8450,7 @@ export const objects = [
   {
     id: 514,
     title: 'Hardcover Journal (A5)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7940,6 +8466,7 @@ export const objects = [
   {
     id: 515,
     title: 'Spiral Notebook',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7954,6 +8481,7 @@ export const objects = [
   {
     id: 818,
     title: 'Square Stickers, Indoor\\Outdoor',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -7969,6 +8497,7 @@ export const objects = [
   {
     id: 517,
     title: 'King Hooded Sweatshirt',
+    className: 'Printable',
     brand: 'B&C',
     model: 'WU02K',
     images: [
@@ -7988,6 +8517,7 @@ export const objects = [
   {
     id: 823,
     title: 'Sack',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8001,6 +8531,7 @@ export const objects = [
   {
     id: 824,
     title: 'Metal Plaque Ornament',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8016,6 +8547,7 @@ export const objects = [
   {
     id: 827,
     title: 'White Ceramic Mug, 11oz and 15oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8030,6 +8562,7 @@ export const objects = [
   {
     id: 830,
     title: 'Adult Apron (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8045,6 +8578,7 @@ export const objects = [
   {
     id: 583,
     title: '11oz Accent Mug',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -8059,6 +8593,7 @@ export const objects = [
   {
     id: 584,
     title: '12oz Insulated Wine Tumbler',
+    className: 'Printable',
     brand: 'Polar Camel',
     model: 'W12',
     images: [
@@ -8074,6 +8609,7 @@ export const objects = [
   {
     id: 836,
     title: 'Shoulder Tote Bag (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8091,6 +8627,7 @@ export const objects = [
   {
     id: 1290,
     title: "Women's Workout Shorts (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8110,6 +8647,7 @@ export const objects = [
   {
     id: 596,
     title: 'Puzzle (96, 252, 500, 1000-Piece)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8124,6 +8662,7 @@ export const objects = [
   {
     id: 1289,
     title: "Women's Short Sleeve Shirt (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8141,6 +8680,7 @@ export const objects = [
   {
     id: 1288,
     title: 'Weekender Tote Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8157,6 +8697,7 @@ export const objects = [
   {
     id: 1283,
     title: ' Men’s Sports Shorts (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8176,6 +8717,7 @@ export const objects = [
   {
     id: 843,
     title: 'Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8194,6 +8736,7 @@ export const objects = [
   {
     id: 1272,
     title: 'Eco Canvas',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8206,6 +8749,7 @@ export const objects = [
   {
     id: 1271,
     title: 'Skinny Steel Tumbler with Straw, 20oz',
+    className: 'Printable',
     brand: 'Maars',
     model: '',
     images: [
@@ -8220,6 +8764,7 @@ export const objects = [
   {
     id: 1269,
     title: 'Unisex Iconic T-Shirt',
+    className: 'Printable',
     brand: 'Fruit Of The Loom',
     model: '614300',
     images: [
@@ -8240,6 +8785,7 @@ export const objects = [
   {
     id: 1266,
     title: 'Stemless Wine Glass, 11.75oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8253,6 +8799,7 @@ export const objects = [
   {
     id: 1264,
     title: 'Kiss-Cut Stickers, Matte',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8265,6 +8812,7 @@ export const objects = [
   {
     id: 1262,
     title: "Women's Skater Dress (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8288,6 +8836,7 @@ export const objects = [
   {
     id: 1261,
     title: "Men's Long Sleeve Shirt (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8310,6 +8859,7 @@ export const objects = [
   {
     id: 1260,
     title: 'Kids Pajama Pants (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8328,6 +8878,7 @@ export const objects = [
   {
     id: 1255,
     title: "Women's Long Sleeve V-neck Shirt (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8347,6 +8898,7 @@ export const objects = [
   {
     id: 845,
     title: 'Gift Wrapping Paper Rolls, 1pc',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8362,6 +8914,7 @@ export const objects = [
   {
     id: 1254,
     title: "Men's Pajama Pants (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8381,6 +8934,7 @@ export const objects = [
   {
     id: 1251,
     title: "Women's Pajama Pants (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8400,6 +8954,7 @@ export const objects = [
   {
     id: 848,
     title: 'Gift Wrapping Paper Sheets, 1pc',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8415,6 +8970,7 @@ export const objects = [
   {
     id: 1249,
     title: 'Ceramic Color Accent Mugs, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8430,6 +8986,7 @@ export const objects = [
   {
     id: 1247,
     title: 'Coasters (50, 100 pcs)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8444,6 +9001,7 @@ export const objects = [
   {
     id: 1246,
     title: 'Mixing Glass, 16oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8457,6 +9015,7 @@ export const objects = [
   {
     id: 1244,
     title: 'White Ceramic Mug, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8472,6 +9031,7 @@ export const objects = [
   {
     id: 621,
     title: 'Rally Towel, 11x18',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8486,6 +9046,7 @@ export const objects = [
   {
     id: 850,
     title: 'Santa Stocking',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8500,6 +9061,7 @@ export const objects = [
   {
     id: 1243,
     title: 'Bar Glass',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8513,6 +9075,7 @@ export const objects = [
   {
     id: 1242,
     title: "Men's Polyester Tee (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8531,6 +9094,7 @@ export const objects = [
   {
     id: 874,
     title: 'Hard Backed Journal',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8545,6 +9109,7 @@ export const objects = [
   {
     id: 884,
     title: 'Conical Coffee Mugs (3oz, 8oz, 12oz)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8559,6 +9124,7 @@ export const objects = [
   {
     id: 1237,
     title: "Men's Sports T-shirt",
+    className: 'Printable',
     brand: 'Luanvi',
     model: '11124',
     images: [
@@ -8575,6 +9141,7 @@ export const objects = [
   {
     id: 889,
     title: 'Matte Paper Poster',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8590,6 +9157,7 @@ export const objects = [
   {
     id: 639,
     title: "Women's Dazzler Relaxed Fit Sweatshirt ",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STSW125',
     images: [
@@ -8604,6 +9172,7 @@ export const objects = [
   {
     id: 650,
     title: 'Unisex Drummer Hoodie',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STSU812',
     images: [
@@ -8621,6 +9190,7 @@ export const objects = [
   {
     id: 890,
     title: 'Polyester Tote Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8636,6 +9206,7 @@ export const objects = [
   {
     id: 891,
     title: 'Stein Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8650,6 +9221,7 @@ export const objects = [
   {
     id: 892,
     title: 'Stainless Steel Water Bottle',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8666,6 +9238,7 @@ export const objects = [
   {
     id: 652,
     title: 'Unisex Fuser T-shirt',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTU759',
     images: [
@@ -8683,6 +9256,7 @@ export const objects = [
   {
     id: 895,
     title: 'Rectangular Mouse Pad',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8696,6 +9270,7 @@ export const objects = [
   {
     id: 898,
     title: 'Plush Toy with T-Shirt',
+    className: 'Printable',
     brand: 'Plushland',
     model: '',
     images: [
@@ -8713,6 +9288,7 @@ export const objects = [
   {
     id: 900,
     title: 'Satin Canvas, Stretched',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8730,6 +9306,7 @@ export const objects = [
   {
     id: 906,
     title: 'Laminate Stickers, Square',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8745,6 +9322,7 @@ export const objects = [
   {
     id: 907,
     title: 'Unisex Varsity Hoodie',
+    className: 'Printable',
     brand: 'AWDIS',
     model: 'JH003',
     images: [
@@ -8765,6 +9343,7 @@ export const objects = [
   {
     id: 1234,
     title: "Men's Fine Jersey Tee",
+    className: 'Printable',
     brand: 'LAT Apparel',
     model: '6901',
     images: [
@@ -8781,6 +9360,7 @@ export const objects = [
   {
     id: 1230,
     title: 'Flip Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8799,6 +9379,7 @@ export const objects = [
   {
     id: 1228,
     title: 'Pet Hoodie',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8817,6 +9398,7 @@ export const objects = [
   {
     id: 1227,
     title: 'Christmas Baubles',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8831,6 +9413,7 @@ export const objects = [
   {
     id: 1226,
     title: "Canvas Stretched, 1.5''",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8847,6 +9430,7 @@ export const objects = [
   {
     id: 1224,
     title: 'Plywood Ornaments (Round, Berlin)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8861,6 +9445,7 @@ export const objects = [
   {
     id: 1216,
     title: 'Vinyl Kiss-Cut Stickers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8874,6 +9459,7 @@ export const objects = [
   {
     id: 1212,
     title: 'Matte Banner',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8892,6 +9478,7 @@ export const objects = [
   {
     id: 908,
     title: "Women's Expresser T-Shirt",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTW032',
     images: [
@@ -8906,6 +9493,7 @@ export const objects = [
   {
     id: 918,
     title: 'Tan Sherpa Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8925,6 +9513,7 @@ export const objects = [
   {
     id: 1211,
     title: 'Pennant Banner',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8941,6 +9530,7 @@ export const objects = [
   {
     id: 920,
     title: 'Unisex Shifts Dry Organic Long Sleeve Tee',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTM558',
     images: [
@@ -8959,6 +9549,7 @@ export const objects = [
   {
     id: 929,
     title: "Women's Evoker V-Neck T-Shirt",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTW023',
     images: [
@@ -8973,6 +9564,7 @@ export const objects = [
   {
     id: 930,
     title: 'Magic Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -8986,6 +9578,7 @@ export const objects = [
   {
     id: 1208,
     title: 'Foam Board',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9002,6 +9595,7 @@ export const objects = [
   {
     id: 932,
     title: "Women's Zip Hoodie",
+    className: 'Printable',
     brand: 'AWDIS',
     model: 'JH055',
     images: [
@@ -9017,6 +9611,7 @@ export const objects = [
   {
     id: 936,
     title: 'Slim Snap Case',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9031,6 +9626,7 @@ export const objects = [
   {
     id: 947,
     title: "Women's Casual Leggings (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9049,6 +9645,7 @@ export const objects = [
   {
     id: 948,
     title: 'Basketball Shorts (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9066,6 +9663,7 @@ export const objects = [
   {
     id: 1206,
     title: 'Metal Art Sign',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9085,6 +9683,7 @@ export const objects = [
   {
     id: 1205,
     title: 'Plastic Yard Sign',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9102,6 +9701,7 @@ export const objects = [
   {
     id: 1196,
     title: 'Golf Balls, 6pcs',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9116,6 +9716,7 @@ export const objects = [
   {
     id: 1194,
     title: 'Softcover Notebook, A5',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9132,6 +9733,7 @@ export const objects = [
   {
     id: 657,
     title: "Men's Organic Sparker T-shirt",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTM559',
     images: [
@@ -9145,6 +9747,7 @@ export const objects = [
   {
     id: 1193,
     title: 'Wirobound Softcover Notebook, A5',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9161,6 +9764,7 @@ export const objects = [
   {
     id: 1192,
     title: 'Unisex Lightweight Long Sleeve Tee',
+    className: 'Printable',
     brand: 'Sport-Tek',
     model: 'ST350LS',
     images: [
@@ -9185,6 +9789,7 @@ export const objects = [
   {
     id: 1189,
     title: "Men's Lightweight Tank Top",
+    className: 'Printable',
     brand: 'AWDIS',
     model: 'JC007',
     images: [
@@ -9198,6 +9803,7 @@ export const objects = [
   {
     id: 1188,
     title: 'Unisex Cool T-Shirt',
+    className: 'Printable',
     brand: 'AWDIS',
     model: 'JC001',
     images: [
@@ -9215,6 +9821,7 @@ export const objects = [
   {
     id: 1184,
     title: 'Unisex Classic Jersey T-shirt',
+    className: 'Printable',
     brand: 'Continental Clothing',
     model: 'EP01',
     images: [
@@ -9233,6 +9840,7 @@ export const objects = [
   {
     id: 664,
     title: 'Unisex Rocker T-Shirt',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTU758',
     images: [
@@ -9250,6 +9858,7 @@ export const objects = [
   {
     id: 1181,
     title: 'Youth Zone Performance T-Shirt',
+    className: 'Printable',
     brand: 'Team 365',
     model: 'TT11Y',
     images: [
@@ -9267,6 +9876,7 @@ export const objects = [
   {
     id: 668,
     title: "Women's Dreamer Tank Top",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTW013',
     images: [
@@ -9281,6 +9891,7 @@ export const objects = [
   {
     id: 674,
     title: 'Keyring Tag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9295,6 +9906,7 @@ export const objects = [
   {
     id: 679,
     title: 'Unisex Changer Sweatshirt',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STSU823',
     images: [
@@ -9312,6 +9924,7 @@ export const objects = [
   {
     id: 684,
     title: "Men's Organic Sparker Long Sleeve Shirt",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTM560',
     images: [
@@ -9326,6 +9939,7 @@ export const objects = [
   {
     id: 685,
     title: 'Unisex Sider Hoodie',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STSU824',
     images: [
@@ -9343,6 +9957,7 @@ export const objects = [
   {
     id: 949,
     title: 'Basketball Jersey (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9358,6 +9973,7 @@ export const objects = [
   {
     id: 959,
     title: 'Lightweight Neck Gaiter',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9377,6 +9993,7 @@ export const objects = [
   {
     id: 968,
     title: 'Beach Towels',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9396,6 +10013,7 @@ export const objects = [
   {
     id: 970,
     title: 'Midweight Neck Gaiter',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9415,6 +10033,7 @@ export const objects = [
   {
     id: 688,
     title: "Women's Dancer Cropped Tank Top",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTW038',
     images: [
@@ -9430,6 +10049,7 @@ export const objects = [
   {
     id: 971,
     title: 'Winter Neck Gaiter With Drawstring',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9449,6 +10069,7 @@ export const objects = [
   {
     id: 972,
     title: "Ladies' V-Neck T-Shirt",
+    className: 'Printable',
     brand: 'Gildan',
     model: '5V00L',
     images: [
@@ -9463,6 +10084,7 @@ export const objects = [
   {
     id: 689,
     title: "Women's Bower Cropped Hoodie Sweatshirt",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STSW132',
     images: [
@@ -9478,6 +10100,7 @@ export const objects = [
   {
     id: 690,
     title: 'Streeter Hoodie Dress',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STDW143',
     images: [
@@ -9491,6 +10114,7 @@ export const objects = [
   {
     id: 146,
     title: 'Kids Fine Jersey Tee',
+    className: 'Printable',
     brand: 'LAT Apparel',
     model: '6101',
     images: [
@@ -9503,6 +10127,7 @@ export const objects = [
   {
     id: 691,
     title: 'Spinner T-Shirt Dress',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STDW144',
     images: [
@@ -9517,6 +10142,7 @@ export const objects = [
   {
     id: 698,
     title: 'Standard Beach Towel, 30x60',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9531,6 +10157,7 @@ export const objects = [
   {
     id: 700,
     title: 'Sports Bra (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9546,6 +10173,7 @@ export const objects = [
   {
     id: 65,
     title: 'Kids Sweatshirt',
+    className: 'Printable',
     brand: 'AWDIS',
     model: 'JH030J',
     images: [
@@ -9559,6 +10187,7 @@ export const objects = [
   {
     id: 701,
     title: "Women's Capri Leggings (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9574,6 +10203,7 @@ export const objects = [
   {
     id: 702,
     title: "Women's Bike Shorts (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9589,6 +10219,7 @@ export const objects = [
   {
     id: 703,
     title: 'Stretchy Leggings (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9605,6 +10236,7 @@ export const objects = [
   {
     id: 704,
     title: 'Infuser Water Bottle',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9619,6 +10251,7 @@ export const objects = [
   {
     id: 705,
     title: 'Oregon Sport Bottle',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9635,6 +10268,7 @@ export const objects = [
   {
     id: 713,
     title: 'Cotton Apron',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9650,6 +10284,7 @@ export const objects = [
   {
     id: 717,
     title: 'Toddler Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9666,6 +10301,7 @@ export const objects = [
   {
     id: 720,
     title: 'Cotton Tote',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9683,6 +10319,7 @@ export const objects = [
   {
     id: 731,
     title: 'Organic Cotton Tote Bag',
+    className: 'Printable',
     brand: 'Westford Mill®',
     model: 'W801',
     images: [
@@ -9699,6 +10336,7 @@ export const objects = [
   {
     id: 141,
     title: "Women's Tri-Blend Racerback Tank",
+    className: 'Printable',
     brand: 'Next Level',
     model: '6733',
     images: [
@@ -9711,6 +10349,7 @@ export const objects = [
   {
     id: 737,
     title: 'Ringneck Tumbler, 30oz',
+    className: 'Printable',
     brand: 'Polar Camel',
     model: 'T30',
     images: [
@@ -9727,6 +10366,7 @@ export const objects = [
   {
     id: 742,
     title: 'Mason Jar',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9740,6 +10380,7 @@ export const objects = [
   {
     id: 68,
     title: 'Mug 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9754,6 +10395,7 @@ export const objects = [
   {
     id: 974,
     title: 'Baby Long-Sleeve Organic Bodysuit',
+    className: 'Printable',
     brand: 'Babybugz',
     model: 'BZ30',
     images: [
@@ -9769,6 +10411,7 @@ export const objects = [
   {
     id: 79,
     title: 'Unisex 3\\4 Sleeve Baseball Tee',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3200',
     images: [
@@ -9784,6 +10427,7 @@ export const objects = [
   {
     id: 100,
     title: "Men's Softstyle Tank Top",
+    className: 'Printable',
     brand: 'Gildan',
     model: 'GD12',
     images: [
@@ -9796,6 +10440,7 @@ export const objects = [
   {
     id: 93,
     title: 'Girlie College Hoodie',
+    className: 'Printable',
     brand: 'AWDIS',
     model: 'JH001F',
     images: [
@@ -9808,6 +10453,7 @@ export const objects = [
   {
     id: 924,
     title: "Men's Hawaiian Shirt (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9824,6 +10470,7 @@ export const objects = [
   {
     id: 175,
     title: 'Unisex Sponge Fleece Pullover Hoodie',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3719',
     images: [
@@ -9839,6 +10486,7 @@ export const objects = [
   {
     id: 10,
     title: "Women's Flowy Racerback Tank",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '8800',
     images: [
@@ -9851,6 +10499,7 @@ export const objects = [
   {
     id: 1320,
     title: 'Unisex FWD Fashion Tie-Dyed T-Shirt',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3100RD',
     images: [
@@ -9870,6 +10519,7 @@ export const objects = [
   {
     id: 952,
     title: 'Desk Calendar',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9887,6 +10537,7 @@ export const objects = [
   {
     id: 1068,
     title: 'Uncoated Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9902,6 +10553,7 @@ export const objects = [
   {
     id: 1123,
     title: 'Ladies Competitor Tee',
+    className: 'Printable',
     brand: 'Sport-Tek',
     model: 'LST350',
     images: [
@@ -9917,6 +10569,7 @@ export const objects = [
   {
     id: 15,
     title: "Men's Very Important Tee",
+    className: 'Printable',
     brand: 'District',
     model: 'DT6000',
     images: [
@@ -9929,6 +10582,7 @@ export const objects = [
   {
     id: 1300,
     title: 'Adjustable Tote Bag (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -9946,6 +10600,7 @@ export const objects = [
   {
     id: 528,
     title: 'Champion Hoodie',
+    className: 'Printable',
     brand: 'Champion',
     model: 'S700',
     images: [
@@ -9964,6 +10619,7 @@ export const objects = [
   {
     id: 45,
     title: "Men's Long Sleeve Crew Tee",
+    className: 'Printable',
     brand: 'Next Level',
     model: '3601',
     images: [
@@ -9976,6 +10632,7 @@ export const objects = [
   {
     id: 454,
     title: "Single Jersey Men's T-shirt",
+    className: 'Printable',
     brand: 'B&C',
     model: 'TU03T',
     images: [
@@ -9990,6 +10647,7 @@ export const objects = [
   {
     id: 443,
     title: 'Posters (EU)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10002,6 +10660,7 @@ export const objects = [
   {
     id: 1239,
     title: 'Simplex Desk Calendar',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10017,6 +10676,7 @@ export const objects = [
   {
     id: 1350,
     title: 'Unisex Heavy Cotton Pocket Tee',
+    className: 'Printable',
     brand: 'Gildan',
     model: '5300',
     images: ['https://images.printify.com/6524ea68c6d41036500aa3d2'],
@@ -10024,6 +10684,7 @@ export const objects = [
   {
     id: 462,
     title: 'Organic Creator T-shirt - Unisex',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTU755',
     images: [
@@ -10040,6 +10701,7 @@ export const objects = [
   {
     id: 142,
     title: "Men's Fitted V-Neck Short Sleeve Tee",
+    className: 'Printable',
     brand: 'Gildan',
     model: '64V00',
     images: [
@@ -10052,6 +10714,7 @@ export const objects = [
   {
     id: 95,
     title: "Men's Sweatshirt",
+    className: 'Printable',
     brand: 'AWDIS',
     model: 'JH030',
     images: [
@@ -10064,6 +10727,7 @@ export const objects = [
   {
     id: 746,
     title: 'Plastic Tumbler with Straw',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10079,6 +10743,7 @@ export const objects = [
   {
     id: 513,
     title: 'Fitted Polyester Face Mask',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10094,6 +10759,7 @@ export const objects = [
   {
     id: 630,
     title: 'Tie-Dye Tee, Crystal',
+    className: 'Printable',
     brand: 'Gildan',
     model: '5000',
     images: [
@@ -10113,6 +10779,7 @@ export const objects = [
   {
     id: 631,
     title: 'Tie-Dye Tee, Cyclone',
+    className: 'Printable',
     brand: 'Gildan',
     model: '5000',
     images: [
@@ -10130,6 +10797,7 @@ export const objects = [
   {
     id: 632,
     title: 'Tie-Dye Tee, Spiral',
+    className: 'Printable',
     brand: 'Gildan',
     model: '5000',
     images: [
@@ -10147,6 +10815,7 @@ export const objects = [
   {
     id: 857,
     title: 'Button Magnet, Rectangle (1 & 10 pcs)',
+    className: 'Printable',
     brand: 'Tecre',
     model: '1364',
     images: [
@@ -10162,6 +10831,7 @@ export const objects = [
   {
     id: 67,
     title: 'Kids Hoodie',
+    className: 'Printable',
     brand: 'AWDIS',
     model: 'JH001J',
     images: [
@@ -10175,6 +10845,7 @@ export const objects = [
   {
     id: 527,
     title: 'Champion Sweatshirt',
+    className: 'Printable',
     brand: 'Champion',
     model: 'S600',
     images: [
@@ -10192,6 +10863,7 @@ export const objects = [
   {
     id: 313,
     title: "Men's Ultra Cotton Tank Top",
+    className: 'Printable',
     brand: 'Gildan',
     model: '2200',
     images: [
@@ -10203,6 +10875,7 @@ export const objects = [
   {
     id: 868,
     title: 'Woven Tote Bag',
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STAU760',
     images: [
@@ -10218,6 +10891,7 @@ export const objects = [
   {
     id: 114,
     title: "Men's NUBLEND® Hooded Sweatshirt",
+    className: 'Printable',
     brand: 'JERZEES',
     model: '996MR',
     images: [
@@ -10230,6 +10904,7 @@ export const objects = [
   {
     id: 960,
     title: "Girls' Sleeveless Sundress (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10245,6 +10920,7 @@ export const objects = [
   {
     id: 981,
     title: 'Unisex NuBlend® Crewneck Sweatshirt',
+    className: 'Printable',
     brand: 'JERZEES',
     model: '562MR',
     images: [
@@ -10262,6 +10938,7 @@ export const objects = [
   {
     id: 574,
     title: 'Cushioned Crew Socks',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10276,6 +10953,7 @@ export const objects = [
   {
     id: 633,
     title: 'Pint Glass, 16oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10289,6 +10967,7 @@ export const objects = [
   {
     id: 938,
     title: 'Glass Cutting Board',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10306,6 +10985,7 @@ export const objects = [
   {
     id: 97,
     title: 'Satin Posters (210gsm)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10320,6 +11000,7 @@ export const objects = [
   {
     id: 677,
     title: 'Tea Towel',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10337,6 +11018,7 @@ export const objects = [
   {
     id: 1336,
     title: "Women's Organic Short Sleeve T-Shirt",
+    className: 'Printable',
     brand: 'Royal Apparel',
     model: '5001ORGW',
     images: [
@@ -10354,6 +11036,7 @@ export const objects = [
   {
     id: 1330,
     title: 'Unisex District® Re-Tee®',
+    className: 'Printable',
     brand: 'District',
     model: 'DT8000',
     images: [
@@ -10372,6 +11055,7 @@ export const objects = [
   {
     id: 40,
     title: "Women's Jersey Short Sleeve V-Neck Tee",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '6005',
     images: [
@@ -10383,6 +11067,7 @@ export const objects = [
   {
     id: 66,
     title: 'Unisex Heavy Blend™ Full Zip Hooded Sweatshirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: '18600',
     images: [
@@ -10398,6 +11083,7 @@ export const objects = [
   {
     id: 740,
     title: "Men's Pajama Pants (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10412,6 +11098,7 @@ export const objects = [
   {
     id: 739,
     title: "Women's Pajama Pants (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10426,6 +11113,7 @@ export const objects = [
   {
     id: 346,
     title: 'Unisex Casual Shoulder Backpack',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10438,6 +11126,7 @@ export const objects = [
   {
     id: 1238,
     title: 'Polyester Canvas',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10455,6 +11144,7 @@ export const objects = [
   {
     id: 1265,
     title: 'Canvas Photo Tile',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10468,6 +11158,7 @@ export const objects = [
   {
     id: 1013,
     title: 'Unisex Mineral Wash Hoodie',
+    className: 'Printable',
     brand: 'Colortone',
     model: '8300',
     images: [
@@ -10484,6 +11175,7 @@ export const objects = [
   {
     id: 525,
     title: 'Wall Calendar (2024)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10498,6 +11190,7 @@ export const objects = [
   {
     id: 196,
     title: 'Gallery Canvas Wraps, Square Frame',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10517,6 +11210,7 @@ export const objects = [
   {
     id: 485,
     title: 'Hardcover Journal Matte',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10531,6 +11225,7 @@ export const objects = [
   {
     id: 9,
     title: "Women's Favorite Tee",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '6004',
     images: [
@@ -10543,6 +11238,7 @@ export const objects = [
   {
     id: 88,
     title: "Women's Softstyle Tee",
+    className: 'Printable',
     brand: 'Gildan',
     model: '64000L',
     images: [
@@ -10555,6 +11251,7 @@ export const objects = [
   {
     id: 944,
     title: 'Matte Canvas, Black Frame',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10573,6 +11270,7 @@ export const objects = [
   {
     id: 526,
     title: 'Champion T-Shirt',
+    className: 'Printable',
     brand: 'Champion',
     model: 'T425',
     images: [
@@ -10590,6 +11288,7 @@ export const objects = [
   {
     id: 484,
     title: 'Ceramic Mug 15oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10602,6 +11301,7 @@ export const objects = [
   {
     id: 809,
     title: 'Square Pillow',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10617,6 +11317,7 @@ export const objects = [
   {
     id: 1248,
     title: 'Sunsplash Tumbler with Straw, 16oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10630,6 +11331,7 @@ export const objects = [
   {
     id: 1250,
     title: 'Wine Glass, 12oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10642,6 +11344,7 @@ export const objects = [
   {
     id: 1083,
     title: 'Round Rug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10660,6 +11363,7 @@ export const objects = [
   {
     id: 1303,
     title: 'Acrylic Sign with Wooden Stand',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10674,6 +11378,7 @@ export const objects = [
   {
     id: 1245,
     title: 'Shot Glass, 1.5oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10687,6 +11392,7 @@ export const objects = [
   {
     id: 1346,
     title: 'Doormat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10700,6 +11406,7 @@ export const objects = [
   {
     id: 223,
     title: 'Faux Suede Square Pillow',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10715,6 +11422,7 @@ export const objects = [
   {
     id: 618,
     title: 'Ceramic Mugs (11oz\\15oz\\20oz)',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -10730,6 +11438,7 @@ export const objects = [
   {
     id: 268,
     title: 'Slim Phone Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10745,6 +11454,7 @@ export const objects = [
   {
     id: 1380,
     title: 'Custom Shaped Pillows',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: ['https://images.printify.com/652fb3644ec07f1c130034a2'],
@@ -10752,6 +11462,7 @@ export const objects = [
   {
     id: 1305,
     title: 'Acrylic Wall Clock',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10770,6 +11481,7 @@ export const objects = [
   {
     id: 607,
     title: 'Beefy-T®  Short-Sleeve T-Shirt',
+    className: 'Printable',
     brand: 'Hanes',
     model: '5180',
     images: [
@@ -10786,6 +11498,7 @@ export const objects = [
   {
     id: 1218,
     title: "Children's Hoodie (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10806,6 +11519,7 @@ export const objects = [
   {
     id: 241,
     title: 'Indoor Wall Tapestries',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10820,6 +11534,7 @@ export const objects = [
   {
     id: 184,
     title: 'Unisex Triblend Tee',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3413',
     images: [
@@ -10836,6 +11551,7 @@ export const objects = [
   {
     id: 577,
     title: "Men's Jersey Curved Hem Tee",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3003',
     images: [
@@ -10850,6 +11566,7 @@ export const objects = [
   {
     id: 539,
     title: 'Vertical Desk Calendar (2024)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -10864,6 +11581,7 @@ export const objects = [
   {
     id: 597,
     title: 'CamelBak Eddy®  Water Bottle, 20oz\\25oz',
+    className: 'Printable',
     brand: 'CamelBak',
     model: 'Eddy',
     images: [
@@ -10879,6 +11597,7 @@ export const objects = [
   {
     id: 638,
     title: "Women's Flowy Cropped Tee",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '8882',
     images: [
@@ -10893,6 +11612,7 @@ export const objects = [
   {
     id: 34,
     title: 'Infant Fine Jersey Tee',
+    className: 'Printable',
     brand: 'Rabbit Skins',
     model: '3322',
     images: [
@@ -10905,6 +11625,7 @@ export const objects = [
   {
     id: 33,
     title: 'Infant Fine Jersey Bodysuit',
+    className: 'Printable',
     description:
       'Baby clothing needs to be both durable and soft. With the infant fine jersey bodysuit, youths get just that. The fabric is 100% cotton for solid colors. For heather colors, polyester is included. There are seams along the sides of this product. All bindings are made with ribbed knitting for improved durability. There are plastic snaps at the cross closure for easy changing access. <div>.:100% Combed ringspun cotton (fiber content may vary for different colors)</div><br /><div>.:Light fabric (4.5 oz/yd² (153 g/m²))</div><br /><div>.:Tear away label</div>',
     brand: 'Rabbit Skins',
@@ -10918,6 +11639,7 @@ export const objects = [
   {
     id: 91,
     title: 'Unisex Full Zip Hoodie',
+    className: 'Printable',
     description:
       'This unisex full-zip hoodie is made with a medium-heavy fabric blend (80% combed, ring-spun cotton, 20% polyester) that is bound to be cozy through colder months. It runs true-to-size and comes with a loose fit for that signature laidback style. All hoodies come with a tear-away label to minimize scratching.<div>.:80% combed, ring-spun cotton, 20% polyester</div><br /><div>.:Medium heavy fabric (8.3 oz /yd² (280 g/m²))</div><br /><div>.:Loose fit</div><br /><div>.:Tear-away label</div><br /><div>.:Runs true to size</div>',
     brand: 'AWDIS',
@@ -10934,6 +11656,7 @@ export const objects = [
   {
     id: 697,
     title: 'Wooden Ornaments',
+    className: 'Printable',
     description:
       'Created to add a personal decorating touch to any space around the house, these personalized wooden ornaments are packed with rustic charm. Each ornament features a handy magnetic back for effortless placement on metal surfaces, and a stylish red ribbon for effortless hanging. Available in 6 whimsical shapes.<div>.:Material: solid wood</div><br /><div>.:Magnetic back</div><br /><div>.:Comes with a red ribbon for hanging </div><br /><div>.:6 different shape options</div>',
     brand: 'Generic brand',
@@ -10951,6 +11674,7 @@ export const objects = [
   {
     id: 473,
     title: 'Unisex Cruiser Hoodie',
+    className: 'Printable',
     description:
       'This iconic unisex hoodie sweatshirt helps you tackle cold seasons in style. The double-layered hood adds soft coziness to the mix while the kangaroo pocket in the front brings utility to everyday life. Its organic fabric is tight-knit, making for a high-end feel and better durability with less than 5% shrinkage.<br/>NB! Please note that EU-based print providers use European sizes in their blanks. Please double-check our size chart at the bottom of our listing to ensure an accurate fit.<div>.:85% organic, combed, ring-spun cotton, 15% recycled polyester</div><br /><div>.:Heavy fabric (10.3 oz /yd² (350 g/m²))</div><br /><div>.:Oeko-Tex, PETA, and GOTS certifications</div><br /><div>.:Regular fit</div><br /><div>.:Sewn-in label</div><br /><div>.:Runs true to size</div>',
     brand: 'Stanley Stella',
@@ -10969,6 +11693,7 @@ export const objects = [
   {
     id: 1149,
     title: 'Puzzle (110, 252, 520, 1014-piece)',
+    className: 'Printable',
     description:
       "Add your custom artwork on this puzzle and help adults and kids alike spend quality time over a game they'll love. Each puzzle comes in a glossy finish and is available in both vertical and horizontal orientations to best fit your photos and art. Your ideas are printed and laminated on sturdy chipboard backing while each pack includes a reference print to easily put the puzzle together. <div>.:Material: 100% chipboard</div><br /><div>.:110, 252, 520 or 1014 piece options</div><br /><div>.:Available in vertical or horizontal orientation</div><br /><div>.:Glossy laminated finish</div>",
     brand: 'Generic brand',
@@ -10985,6 +11710,7 @@ export const objects = [
   {
     id: 1294,
     title: 'Post-it® Note Pads',
+    className: 'Printable',
     brand: 'Post-it®',
     model: '',
     images: [
@@ -11000,6 +11726,7 @@ export const objects = [
   {
     id: 1241,
     title: 'Youth Full-Length Leggings (AOP)',
+    className: 'Printable',
     description:
       "Made from 82% polyester and 18% spandex, these children's leggings are extremely comfortable and soft. Thanks to the spandex, they stretch in all four directions, allowing easy movement. They also feature an elastic waistband for adjustability.<div>.:Material: 82% microfiber polyester, 18% spandex</div><br /><div>.:Medium fabric (7.5 oz /yd² (250 g/m²))</div><br /><div>.:Elastic waistband</div><br /><div>.:Sewn in size and care label</div><br /><div>.:Seam thread color automatically matched to design (black or white)</div><br /><div>.:Assembled in the USA from globally sourced parts</div>",
     brand: 'Generic brand',
@@ -11021,6 +11748,7 @@ export const objects = [
   {
     id: 735,
     title: 'Gift Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11034,6 +11762,7 @@ export const objects = [
   {
     id: 828,
     title: "Women's Short Pajama Set (AOP)",
+    className: 'Printable',
     description:
       "Why pick between comfort or style when you can have both? These women's short pajama two-piece set come with a relaxed fit, a ribbed collar and feature no sleeve seams. Add your designs in all-over print, and create a cozy staple that is bound to be loved. <div>.:Material: 95% polyester, 5% spandex</div><br /><div>.:Seam thread color is matched close to the design</div><br /><div>.:Sewn-in label (shirt inner side seam)</div><br /><div>.:Relaxed fit</div><br /><div>.:Sewn-in label</div><br /><div>.:NB! The collar cannot be customized. Only black or white options</div>",
     brand: 'Generic brand',
@@ -11052,6 +11781,7 @@ export const objects = [
   {
     id: 1392,
     title: 'Vitamin Boost Serum, 1oz',
+    className: 'Printable',
     description:
       'Please add a description.<div>.:10.14 fl. oz. (29.6 ml)</div><br /><div>.:Made in USA</div><br /><div>.:White Bottle with White Dropper\t\t\t\t\t\t</div><br /><div>.:100% vegan, cruelty-free, and comes in recyclable packaging</div>',
     brand: 'Formula Labs',
@@ -11061,6 +11791,7 @@ export const objects = [
   {
     id: 1050,
     title: 'Women’s Capri Leggings (AOP)',
+    className: 'Printable',
     description:
       'Capri leggings are comfy, capri leggings are stylish - the perfect chameleon for all occasions can now be fully customized with your designs. Made with anti-microbial polyester spandex that is both moisture-wicking and breathable, these leggings come with a mid-rise waist and are the perfect choice for lounging at home, running, or sweating it out at the gym. <div>.:Material: 95% moisture-wicking polyester, 5% spandex</div><br /><div>.:Printed-in size and care label</div><br /><div>.:White seam stitching</div><br /><div>.:Skinny fit</div><br /><div>.:Assembled in the USA from globally sourced parts</div>',
     brand: 'Generic brand',
@@ -11078,6 +11809,7 @@ export const objects = [
   {
     id: 456,
     title: "Single Jersey Women's T-shirt",
+    className: 'Printable',
     description:
       'A women’s t-shirt with a modern look, short sleeves and with side seams for that accentuate feminine shape. It features a thin collar rib around the neck opening for a highlighted modern look. Made of 100% ring spun cotton, this t-shirt offers softness, comfort and a premium printing surface. If you’re looking for a fitted modern tee, this is it. <div>.:100% combed ringspun cotton (fiber content may vary for different colors)</div><br /><div>.:Light fabric (5.46 oz/yd² (185 g/m²))</div><br /><div>.:Regular fit</div><br /><div>.:Sewn in label</div><br /><div>.:Runs true to size</div>',
     brand: 'B&C',
@@ -11093,6 +11825,7 @@ export const objects = [
   {
     id: 1170,
     title: 'Desktop Calendar',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11108,6 +11841,7 @@ export const objects = [
   {
     id: 1182,
     title: 'Metal Ornaments',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11123,6 +11857,7 @@ export const objects = [
   {
     id: 651,
     title: "Women's Jazzer T-shirt",
+    className: 'Printable',
     brand: 'Stanley Stella',
     model: 'STTW039',
     images: [
@@ -11137,6 +11872,7 @@ export const objects = [
   {
     id: 716,
     title: 'Sky Water Bottle',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11152,6 +11888,7 @@ export const objects = [
   {
     id: 555,
     title: 'Stretched Canvas',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11169,6 +11906,7 @@ export const objects = [
   {
     id: 593,
     title: "Men's Baseball Jersey (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11184,6 +11922,7 @@ export const objects = [
   {
     id: 822,
     title: "Women's Baseball Jersey (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11200,6 +11939,7 @@ export const objects = [
   {
     id: 1315,
     title: 'Mugs Test BP article unifying| Kristaps',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: ['https://images.printify.com/6572f6e8e215eca861055132'],
@@ -11207,6 +11947,7 @@ export const objects = [
   {
     id: 370,
     title: 'Flexi Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11224,6 +11965,7 @@ export const objects = [
   {
     id: 1360,
     title: 'Desk Calendar (2024 grid)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11239,6 +11981,7 @@ export const objects = [
   {
     id: 1345,
     title: "Men's Raglan T-Shirt",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3201',
     images: [
@@ -11257,6 +12000,7 @@ export const objects = [
   {
     id: 453,
     title: 'Necktie',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11272,6 +12016,7 @@ export const objects = [
   {
     id: 1311,
     title: 'Unisex Textured T-Shirt',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3650',
     images: [
@@ -11291,6 +12036,7 @@ export const objects = [
   {
     id: 1183,
     title: 'Wall Calendars (2024)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11305,6 +12051,7 @@ export const objects = [
   {
     id: 1331,
     title: 'Textured Watercolor Matte Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11318,6 +12065,7 @@ export const objects = [
   {
     id: 400,
     title: 'Kiss-Cut Stickers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11332,6 +12080,7 @@ export const objects = [
   {
     id: 1108,
     title: 'Low Profile Baseball Cap',
+    className: 'Printable',
     brand: 'OTTO Cap',
     model: '18-253',
     images: [
@@ -11352,6 +12101,7 @@ export const objects = [
   {
     id: 1159,
     title: 'Matte Canvas, Stretched, 1.25"',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11369,6 +12119,7 @@ export const objects = [
   {
     id: 14,
     title: 'The Boyfriend Tee for Women',
+    className: 'Printable',
     brand: 'Next Level',
     model: '3900',
     images: [
@@ -11381,6 +12132,7 @@ export const objects = [
   {
     id: 1367,
     title: 'Wrapping Papers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11395,6 +12147,7 @@ export const objects = [
   {
     id: 1220,
     title: 'Rolled Posters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11409,6 +12162,7 @@ export const objects = [
   {
     id: 420,
     title: 'Youth Short Sleeve Tee',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3001Y',
     images: [
@@ -11421,6 +12175,7 @@ export const objects = [
   {
     id: 894,
     title: 'Fine Art Prints (Passepartout Paper Frame)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11435,6 +12190,7 @@ export const objects = [
   {
     id: 838,
     title: 'Gallery Board with Stand',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11451,6 +12207,7 @@ export const objects = [
   {
     id: 1276,
     title: 'Teddy Bear with T-Shirt',
+    className: 'Printable',
     brand: 'Steven Smith',
     model: '',
     images: [
@@ -11467,6 +12224,7 @@ export const objects = [
   {
     id: 778,
     title: 'Oval Necklace',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11482,6 +12240,7 @@ export const objects = [
   {
     id: 682,
     title: 'Jewelry Box',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11496,6 +12255,7 @@ export const objects = [
   {
     id: 896,
     title: 'Heart-Shaped Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11509,6 +12269,7 @@ export const objects = [
   {
     id: 1036,
     title: 'Stuffed Animals with Tee',
+    className: 'Printable',
     brand: 'Plushland',
     model: '',
     images: [
@@ -11529,6 +12290,7 @@ export const objects = [
   {
     id: 220,
     title: 'Spun Polyester Square Pillow',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11544,6 +12306,7 @@ export const objects = [
   {
     id: 1348,
     title: "Women's Cinched Bottom Hoodie",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '7506',
     images: [
@@ -11559,6 +12322,7 @@ export const objects = [
   {
     id: 1327,
     title: 'Light Scarf',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11574,6 +12338,7 @@ export const objects = [
   {
     id: 1125,
     title: 'Ceramic Coffee Cups, 11oz, 15oz',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -11590,6 +12355,7 @@ export const objects = [
   {
     id: 1027,
     title: 'Faux Leather Wristband',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11603,6 +12369,7 @@ export const objects = [
   {
     id: 566,
     title: 'Pet Tag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11617,6 +12384,7 @@ export const objects = [
   {
     id: 1363,
     title: 'Acrylic Ornaments',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11631,6 +12399,7 @@ export const objects = [
   {
     id: 1310,
     title: 'Acrylic Ornament with Ribbon',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11646,6 +12415,7 @@ export const objects = [
   {
     id: 1362,
     title: 'Glass Ornaments',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11660,6 +12430,7 @@ export const objects = [
   {
     id: 1359,
     title: 'Aluminum Ornaments (1pc, 5pcs, 10pcs, 20pcs)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11674,6 +12445,7 @@ export const objects = [
   {
     id: 1352,
     title: 'Simplex Desk Calendar (2024 grid)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11689,6 +12461,7 @@ export const objects = [
   {
     id: 1361,
     title: 'Ceramic Ornaments (1pcs, 5pcs, 10pcs, 20pcs)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11705,6 +12478,7 @@ export const objects = [
   {
     id: 531,
     title: 'Ceramic Ornament, 4 Shapes',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11720,6 +12494,7 @@ export const objects = [
   {
     id: 1129,
     title: "Men's Sport Polo Shirt",
+    className: 'Printable',
     brand: 'Sport-Tek',
     model: 'ST650',
     images: [
@@ -11734,6 +12509,7 @@ export const objects = [
   {
     id: 391,
     title: "Women's Polo Shirt",
+    className: 'Printable',
     brand: 'Sport-Tek',
     model: 'LST650',
     images: [
@@ -11746,6 +12522,7 @@ export const objects = [
   {
     id: 48,
     title: 'Unisex Jersey Short Sleeve V-Neck Tee',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3005',
     images: [
@@ -11761,6 +12538,7 @@ export const objects = [
   {
     id: 1169,
     title: 'Microfiber Tea Towel',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11777,6 +12555,7 @@ export const objects = [
   {
     id: 708,
     title: 'Zipper Wallet',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11792,6 +12571,7 @@ export const objects = [
   {
     id: 767,
     title: "Men's Low Top Sneakers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11808,6 +12588,7 @@ export const objects = [
   {
     id: 783,
     title: "Women's Hoodie Dress (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11824,6 +12605,7 @@ export const objects = [
   {
     id: 799,
     title: "Women's Bomber Jacket (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11840,6 +12622,7 @@ export const objects = [
   {
     id: 834,
     title: "Women's High Top Sneakers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11857,6 +12640,7 @@ export const objects = [
   {
     id: 835,
     title: "Women's Low Top Sneakers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11873,6 +12657,7 @@ export const objects = [
   {
     id: 837,
     title: "Men's High Top Sneakers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11891,6 +12676,7 @@ export const objects = [
   {
     id: 856,
     title: "Men's Board Shorts (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11908,6 +12694,7 @@ export const objects = [
   {
     id: 969,
     title: 'LED Gaming Mouse Pad',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11926,6 +12713,7 @@ export const objects = [
   {
     id: 987,
     title: 'License Plate',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11941,6 +12729,7 @@ export const objects = [
   {
     id: 1028,
     title: "Men's Hoodie (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11958,6 +12747,7 @@ export const objects = [
   {
     id: 1072,
     title: "Men's Mesh Sneakers",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11977,6 +12767,7 @@ export const objects = [
   {
     id: 997,
     title: "Men's Tank (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -11993,6 +12784,7 @@ export const objects = [
   {
     id: 1032,
     title: "Men's Loose T-shirt (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12009,6 +12801,7 @@ export const objects = [
   {
     id: 472,
     title: "Women's Cotton Tee",
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '6400',
     images: [
@@ -12022,6 +12815,7 @@ export const objects = [
   {
     id: 554,
     title: 'Paper Poster',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12035,6 +12829,7 @@ export const objects = [
   {
     id: 445,
     title: 'Unisex Zip Hoodie',
+    className: 'Printable',
     brand: 'Lane Seven',
     model: 'LS14003',
     images: [
@@ -12054,6 +12849,7 @@ export const objects = [
   {
     id: 492,
     title: 'Vertical Framed Poster',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12069,6 +12865,7 @@ export const objects = [
   {
     id: 493,
     title: 'Horizontal Framed Poster',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12084,6 +12881,7 @@ export const objects = [
   {
     id: 70,
     title: 'Stainless Steel Travel Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12098,6 +12896,7 @@ export const objects = [
   {
     id: 74,
     title: 'Spiral Notebook - Ruled Line',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12112,6 +12911,7 @@ export const objects = [
   {
     id: 277,
     title: 'Wall Clock',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12125,6 +12925,7 @@ export const objects = [
   {
     id: 289,
     title: 'Latte Mug',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12137,6 +12938,7 @@ export const objects = [
   {
     id: 238,
     title: 'Sherpa Fleece Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12153,6 +12955,7 @@ export const objects = [
   {
     id: 80,
     title: 'Ultra Cotton Long Sleeve Tee',
+    className: 'Printable',
     brand: 'Gildan',
     model: '2400',
     images: [
@@ -12165,6 +12968,7 @@ export const objects = [
   {
     id: 355,
     title: 'Can Holder',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12176,6 +12980,7 @@ export const objects = [
   {
     id: 354,
     title: 'Tumbler 10oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12187,6 +12992,7 @@ export const objects = [
   {
     id: 376,
     title: 'Sublimation Socks',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12198,6 +13004,7 @@ export const objects = [
   {
     id: 384,
     title: 'Square Stickers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12210,6 +13017,7 @@ export const objects = [
   {
     id: 425,
     title: 'Mug 15oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12223,6 +13031,7 @@ export const objects = [
   {
     id: 428,
     title: 'Magnets',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12235,6 +13044,7 @@ export const objects = [
   {
     id: 429,
     title: 'Laptop Sleeve',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12249,6 +13059,7 @@ export const objects = [
   {
     id: 357,
     title: 'Accessory Pouch w T-bottom',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12261,6 +13072,7 @@ export const objects = [
   {
     id: 813,
     title: 'Aluminum Ornaments, 1pc',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12275,6 +13087,7 @@ export const objects = [
   {
     id: 1044,
     title: 'Velveteen Microfiber Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12293,6 +13106,7 @@ export const objects = [
   {
     id: 923,
     title: 'Long Sleeve Kimono Robe (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12308,6 +13122,7 @@ export const objects = [
   {
     id: 927,
     title: 'Microfiber Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12329,6 +13144,7 @@ export const objects = [
   {
     id: 1231,
     title: "Men's Performance T-Shirt",
+    className: 'Printable',
     brand: 'C2 Sport',
     model: '5100',
     images: [
@@ -12345,6 +13161,7 @@ export const objects = [
   {
     id: 1339,
     title: 'Giclée Print Canvas',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12360,6 +13177,7 @@ export const objects = [
   {
     id: 1349,
     title: "Men's Heavy Oversized Tee",
+    className: 'Printable',
     brand: 'AS Colour',
     model: '5080',
     images: [
@@ -12376,6 +13194,7 @@ export const objects = [
   {
     id: 487,
     title: 'Enamel Bowl',
+    className: 'Printable',
     description:
       'Cool hipster chic enamel bowl just waiting for that extra touch. Made from stainless steel and having an anti-slip backing, it comes with a translucent plastic lid. Available in three sizes - 20oz, 30oz, 40oz. Your print goes all around the exterior.<div>.:Materials: 100% coated lightweight stainless steel (body), 100% plastic (lid)</div><br /><div>.:Anti-slip rubber bottom</div><br /><div>.:Available in 3 sizes: 20oz (0.59 l); 30oz (0.88 l); 40oz (1,18 l)</div>',
     brand: 'Generic brand',
@@ -12392,6 +13211,7 @@ export const objects = [
   {
     id: 488,
     title: 'Desk Mat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12407,6 +13227,7 @@ export const objects = [
   {
     id: 587,
     title: 'Flip Flops',
+    className: 'Printable',
     description:
       'All-day comfort is the name of the game when summer is on. These personalized flip flops can now take on your unique designs add some character to your summer escapades. With an easy slip-on design, a cushioned footbed, and top-tier printing fidelity, these flip flops are a guaranteed summer hit.<div>.:Materials: EVA, polyester, PVC</div><br /><div>.:5/8" (15 mm) thick EVA sole with a textured bottom</div><br /><div>.:100% polyester suede sole cover</div><br /><div>.:Black PVC strap</div><br /><div>.:Runs true to size</div><br /><div>.:Multiple sizes</div>',
     brand: 'Generic brand',
@@ -12422,6 +13243,7 @@ export const objects = [
   {
     id: 601,
     title: 'Wireless Charger',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12436,6 +13258,7 @@ export const objects = [
   {
     id: 663,
     title: 'Gaming Mouse Pad',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12450,6 +13273,7 @@ export const objects = [
   {
     id: 616,
     title: 'Puzzle (120, 252, 500-Piece)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12464,6 +13288,7 @@ export const objects = [
   {
     id: 796,
     title: 'Face Towel',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12479,6 +13304,7 @@ export const objects = [
   {
     id: 797,
     title: 'Hand Towel',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12494,6 +13320,7 @@ export const objects = [
   {
     id: 885,
     title: 'Wooden Wall Clock',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12512,6 +13339,7 @@ export const objects = [
   {
     id: 426,
     title: 'Watch Band',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12525,6 +13353,7 @@ export const objects = [
   {
     id: 477,
     title: 'Biodegradable Cases',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12538,6 +13367,7 @@ export const objects = [
   {
     id: 544,
     title: 'Clutch Bag',
+    className: 'Printable',
     description:
       'Designed with a loop handle to quickly free your hands, this custom clutch bag is made for the fashionista on the go. It can hold everyday essentials such as a phone, wallet, and keys. It features a zip fastening and a fully lined internal pocket. It is made of vegan leather in the Saffiano pattern finish that was invented by Prada.<div>.:Material: 100% PU faux leather </div><br /><div>.:One size: 9.5" x 6.6" (24 x 17 cm)</div><br /><div>.:Wrist strap</div><br /><div>.:Saffiano pattern finish</div><br /><div>.:Two compartments - small pocket inside</div><br /><div>.:Black lining</div><br /><div>.:Assembled in the USA from globally sourced parts</div>',
     brand: 'Generic brand',
@@ -12553,6 +13383,7 @@ export const objects = [
   {
     id: 647,
     title: 'Phone Click-On Grip',
+    className: 'Printable',
     description:
       'Whether it\'s taking a selfie, typing with one hand, or watching your favorite TV show on your phone, this personalized phone holder helps you do it all. Attach the smart grip on the back of any phone with the re-adjustable & washable adhesive stick. Once installed, use the grip to enhance your smartphone experience.<div>.:Materials: polycarbonate and metal</div><br /><div>.:One size: 1.4" x 2.8" (3.5 x 7.2 cm)</div><br /><div>.:Available in matte or glossy finish</div><br /><div>.:Versatile grip: serves as a mobile holder and as a kickstand or phone rest</div><br /><div>.:Easily applied via reusable adhesive backing</div>',
     brand: 'Generic brand',
@@ -12569,6 +13400,7 @@ export const objects = [
   {
     id: 649,
     title: 'Bottle Opener',
+    className: 'Printable',
     description:
       'Bottle openers are designed to make our lives easier, and that’s just what this custom opener does - but with more style. Equipped with a handy magnetic back, a unique bottle cap shape, and two different mechanisms for opening bottles, this has it all. Easily design and create a novelty item that’s as useful as it is good-looking.<div>.:Materials: polycarbonate (shell), metal (body), magnet</div><br /><div>.:One size: ⌀ 3" (7.6cm) </div><br /><div>.:Bottle cap shape</div><br /><div>.:Two different opening mechanisms</div><br /><div>.:Matte finish</div>',
     brand: 'Generic brand',
@@ -12584,6 +13416,7 @@ export const objects = [
   {
     id: 694,
     title: 'Wooden Hanger',
+    className: 'Printable',
     description:
       'Hang your clothes in style with our personalized wooden hanger. Sustainably made with birch plywood, this personalized wooden hanger is 0.23” thick and adds a custom touch to your wardrobe. <div>.:Material: sustainable birch plywood</div><br /><div>.:One size: 8" x 16" (20 x 41 cm)</div><br /><div>.:4 mm (0.23") thick </div><br /><div>.:Personalizable to perfection</div>',
     brand: 'Generic brand',
@@ -12598,6 +13431,7 @@ export const objects = [
   {
     id: 695,
     title: 'Bento Lunch Box',
+    className: 'Printable',
     description:
       'Enjoy fresh food on your own terms, whether at work, at school, or at a picnic. This bento-style personalized lunchbox comes with smart compartments to keep your food separate. The stylish wooden lid can double as a handy plate while the 7.6" x 4.8" size makes it a convenient choice that easily fits into any bag or backpack. <div>.:Materials: 100% silicone (tray), 100% wood (lid)</div><br /><div>.:One size: 7.7" x 4.7" x 2.4" (20 x 12 x 6cm) </div><br /><div>.:Two moveable compartment dividers (one loose, one stable)</div><br /><div>.:BPA free</div><br /><div>.:An elastic band and cutlery included</div>',
     brand: 'Generic brand',
@@ -12617,6 +13451,7 @@ export const objects = [
   {
     id: 722,
     title: 'Saffiano Leather Card Holder',
+    className: 'Printable',
     description:
       'Add a splash of personality to advertising any business with this personalized card holder. Add your custom prints in vivid detail on the faux leather that is 100% cruelty-free and sleek-looking. The inner liner comes with handy storage pockets while the clear coat layer keeps your print in mint condition. <div>.:Material: 100% polyester cruelty-free faux leather </div><br /><div>.:Metal keyring</div><br /><div>.:Handy storage pockets</div><br /><div>.:White color with matte finish</div>',
     brand: 'Generic brand',
@@ -12631,6 +13466,7 @@ export const objects = [
   {
     id: 724,
     title: 'Magnetic Induction Charger',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12647,6 +13483,7 @@ export const objects = [
   {
     id: 833,
     title: 'Paper Lunch Bag',
+    className: 'Printable',
     description:
       'Made with FSC® certified 100% eco paper material, this personalized paper bag is the perfect accessory for any eco-conscious customer. Featuring a full-print cover, a zipper closure, and a carrying strap, it delivers daily, feel-good practicality. <div>.:Materials: paper, cotton</div><br /><div>.:One size: 10" × 7" x 4" (25.5cm x 18.5cm x 10.5cm)</div><br /><div>.:Grey base with white customisable area</div><br /><div>.:Zipper closure and a carrying strap</div><br /><div>.:FSC® certified 100% eco paper material</div><br /><div>.:Strap handle made from 100% cotton</div><br /><div>.:Full print cover</div>',
     brand: 'Generic brand',
@@ -12665,6 +13502,7 @@ export const objects = [
   {
     id: 854,
     title: 'Stainless Steel Water Bottle, Handle Lid',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12679,6 +13517,7 @@ export const objects = [
   {
     id: 883,
     title: 'Mini Clutch Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12693,6 +13532,7 @@ export const objects = [
   {
     id: 953,
     title: 'Tritan Water Bottle',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -12708,6 +13548,7 @@ export const objects = [
   {
     id: 1022,
     title: 'Phone Case With Card Holder',
+    className: 'Printable',
     description:
       'This phone case-cardholder combo will keep essential items safe in one place. Trust the polycarbonate to keep it impact-resistant through regular wear and tear. Create your flashy designs, print them all over the exterior, and choose between a glossy or matte finish. If your customers buy it as a present, gift packaging is available. Compatible with iPhone 13, and Samsung Galaxy S21, S22 models.<div>.:Material: 100% impact-resistant polycarbonate</div><br /><div>.:Slim form and lightweight design</div><br /><div>.:Magsafe compatible</div><br /><div>.:Clear, open ports for connectivity</div><br /><div>.:One card storage</div><br /><div>.:Available with a glossy or matte finish</div><br /><div>.:Gift packaging available</div>',
     brand: 'Generic brand',
@@ -12726,6 +13567,7 @@ export const objects = [
   {
     id: 39,
     title: 'Unisex Jersey Tank',
+    className: 'Printable',
     description:
       'This must-have unisex jersey tank top fits like a well-loved favorite. High quality print makes it an ultimate statement shirt for years to come. This item has side seams to provide structural support. All bindings are the same fabric as the rest of the tank. Depending on the color, cotton, polyester, or rayon can appear. <div>.:100% Airlume combed and ring-spun cotton (fiber content may vary for different colors)</div><br /><div>.:Extra Light fabric (3.8 oz/yd² (110 g/m²))</div><br /><div>.:Retail fit</div><br /><div>.:Tear-away label</div><br /><div>.:Runs true to size</div>',
     brand: 'Bella+Canvas',
@@ -12744,6 +13586,7 @@ export const objects = [
   {
     id: 598,
     title: 'Bumper Stickers',
+    className: 'Printable',
     description:
       'Designed to get your brand right into the hands of your customer, these print-on-demand blank bumper stickers are a promotional staple. Use indoors or outdoors with total peace of mind as each printable bumper sticker is made with thick vinyl material that has been laminated for top-tier durability against water, sunlight, and scratches. <div>.:Material: premium water-resistant vinyl</div><br /><div>.:Waterproof sticky adhesive</div><br /><div>.:Suitable for indoor and outdoor use</div><br /><div>.:Easy peel backing</div><br /><div>.:Matte finish</div>',
     brand: 'Generic brand',
@@ -12760,6 +13603,7 @@ export const objects = [
   {
     id: 284,
     title: 'Matte Horizontal Posters',
+    className: 'Printable',
     description:
       'Print your art on exhibition-ready paper and show or sell it to the world. This premium matte horizontal poster is made with museum-grade paper (175gsm fine art paper), and are the perfect means to bring any digital artwork into real life as stunning décor. Available in multiple sizes, each poster is printed with top-tier pigmented archival inks for excellent printing results.<div>.:Made with museum-grade archival paper (175gsm) for excellent printing fidelity and vibrant color reproduction. </div><br /><div>.:Find the perfect match to your customers\' needs thanks to the 38 available sizes.</div><br /><div>.:For indoor use only</div><br /><div>.:Assembled in the USA from globally sourced parts</div><br /><div>.:NB! Due to the production process of these posters, please allow for slight size deviations with a tolerance +/- 1/16"</div>',
     brand: 'Generic brand',
@@ -12779,6 +13623,7 @@ export const objects = [
   {
     id: 782,
     title: 'Pet Mat (18" x 24")',
+    className: 'Printable',
     description:
       'Feed your four legged family in style with these personalized pet mats. These 100% polyester tufted loop feeding mats for pets can accommodate all your custom design ideas in full color, from edge to edge. Measuring at 18" by 24" in size, each feeding mat for cats & dogs features a non-slip backing for protection both indoors and outdoors.<div>.:100% polyester tufted loop carpet</div><br /><div>.:One size</div><br /><div>.:Black trim around the edges</div><br /><div>.:Non-slip bottom</div><br /><div>.:Edge-to-edge full color surface</div>',
     brand: 'Generic brand',
@@ -12796,6 +13641,7 @@ export const objects = [
   {
     id: 1165,
     title: 'Ladies Quarter-Zip Pullover',
+    className: 'Printable',
     description:
       "Nothing screams sporty-chic like these quarter-zip pullovers. These feature a cadet collar that helps layer and dress it up or down for any occasion. Made from a 100% polyester fabric, they're durable and will last for years. The drop tail hem creates a flattering silhouette. They also feature a reverse coil zipper that makes a more sleek and put-together look.<div>.:100% polyester</div><br /><div>.:Extra light fabric (3.8 oz/ yd² (129 g/m²))</div><br /><div>.:Athletic fit</div><br /><div>.:Tear-away label</div><br /><div>.:Direct-to-Film print</div>",
     brand: 'Sport-Tek',
@@ -12813,6 +13659,7 @@ export const objects = [
   {
     id: 1141,
     title: 'Youth Long Sleeve Competitor Tee',
+    className: 'Printable',
     description:
       'The Sport-Tek PosiCharge ® Competitor™ tee bears all the marks of comfort and style. Made 100% with the signature polyester blend that features PosiCharge ® technology, this tee is lightweight, breathable, and moisture wicking. Discover the perfect choice for active kids and create unique wardrobe staples with your designs. <div>.:Material: 100% moisture-wicking polyester</div><br /><div>.:Extra light fabric (3.8 oz/yd² (110 g/m²))</div><br /><div>.:Athletic fit</div><br /><div>.:Tear-away label</div>',
     brand: 'Sport-Tek',
@@ -12831,6 +13678,7 @@ export const objects = [
   {
     id: 1142,
     title: 'Youth Competitor Tee',
+    className: 'Printable',
     description:
       'Made for sports, play, and the active teen lifestyle. The Sport-Tek® Competitor™ Tee brings breathability, agility, and moisture-wicking properties to the table, making the perfect choice for active kids and school life. Made with 100% lightweight polyester that is soft to the tag, each tee features set-in sleeves and removable tags for total comfort at all times. <div>.:Material: 100% moisture wicking polyester</div><br /><div>.:Extra light fabric (3.8 oz/ yd² (129 g/m²))</div><br /><div>.:Athletic fit</div><br /><div>.:Tear-away label</div>',
     brand: 'Sport-Tek',
@@ -12851,6 +13699,7 @@ export const objects = [
   {
     id: 1121,
     title: 'Unisex Moisture Wicking Tee',
+    className: 'Printable',
     description:
       "This Sport-Tek® PosiCharge® Competitor™ Tee is an athlete's dream come true. This lightweight, moisture-wicking, and highly breathable shirt comes with set-in sleeves, a 100% Polyester fabric, and PosiCharge® technology that helps lock colors in and prevent logos from fading. Add your unique designs to the Sport-Tek® custom shirts and create a sports staple. <div>.:Material: 100% polyester</div><br /><div>.:Extra light fabric (3.8 oz/ yd² (129 g/m²))</div><br /><div>.:Regular fit</div><br /><div>.:Tear away label</div>",
     brand: 'Sport-Tek',
@@ -12870,6 +13719,7 @@ export const objects = [
   {
     id: 1106,
     title: 'Unisex Quarter-Zip Pullover',
+    className: 'Printable',
     description:
       'Meet the Sport-Tek® PosiCharge® Competitor™ 1/4-Zip Pullover, a lightweight and highly versatile choice for track or casual outings. Each pullover is made from 3.8-ounce, 100% polyester interlock with PosiCharge® technology which helps preserve colors, wicks moisture, is odor-resistant, and resists snags. The removable tag adds to the comfort while the cadet collar adds to its versatile style. <div>.:Material: 100% polyester</div><br /><div>.:Extra light fabric (3.8 oz/yd² (110 g/m²))</div><br /><div>.:Regular fit</div><br /><div>.:Tear-away label</div><br /><div>.:Direct-to-film printing method</div>',
     brand: 'Sport-Tek',
@@ -12889,6 +13739,7 @@ export const objects = [
   {
     id: 1377,
     title: 'Cross Bead Bracelet',
+    className: 'Printable',
     description:
       'Created for the perfect gifting experience, this cross bead bracelet comes in one size featuring a 14mm by 17mm magnetite stone charm surrounded by 8mm volcanic beads. Each custom bead bracelet comes with a customizable message card (front and back print available) and has 3 beautiful gift box options: LED, Textured Magnetic or Brown PU Leather.<br/><br/>NB! This product is not eligible for publishing on Etsy due to Etsy Seller Policy. More info <a href="https://help.printify.com/hc/en-us/articles/19952259179025-Why-am-I-not-able-to-publish-jewelry-products-to-my-Etsy-store-/">here</a>.<div>.:One size: 2.25" (57.2mm) diameter</div><br /><div>.:Elastic bracelet with 8mm volcanic stone beads</div><br /><div>.:14mm x 17mm magnetite stone charm</div><br /><div>.:Customizable semi-glossy 300gsm paper message card (front and back print available)</div><br /><div>.:Beautifully encased in 3 elegant box options</div><br /><div>.:Blank product sourced from China</div><br /><div>.:NB! This product is not eligible for publishing on Etsy.com due to Etsy Seller Policy</div>',
     brand: 'Generic brand',
@@ -12907,6 +13758,7 @@ export const objects = [
   {
     id: 1376,
     title: 'Infinity Circle Necklace',
+    className: 'Printable',
     description:
       'This infinity circle necklace delivers stunning looks thanks to its 18k rose gold-plated brass construction. Each custom circle necklace comes with an 18"-22" adjustable chain made of durable stainless steel that features a lobster clasp attachment. All pendants are tarnish-resistant for a brilliant, enduring shine and come with a customizable message card (front and back print available). Beautifully encased in 3 elegant gift box options: LED, Textured Magnetic, or Brown PU Leather.<br/><br/>NB! This product is not eligible for publishing on Etsy due to Etsy Seller Policy. More info <a href="https://help.printify.com/hc/en-us/articles/19952259179025-Why-am-I-not-able-to-publish-jewelry-products-to-my-Etsy-store-/">here</a>. <div>.:High-quality brass pendants - one plated with palladium rhodium and decorated with glass crystals, the other plated with 18K rose gold</div><br /><div>.:18"-22" adjustable stainless steel cable chain</div><br /><div>.:Lobster clasp attachment</div><br /><div>.:Tarnish resistant, enduring shine</div><br /><div>.:Customizable semi-glossy 300gsm paper message card (front and back print available)</div><br /><div>.:Beautifully encased in 3 elegant box options</div><br /><div>.:Blank product sourced from China</div><br /><div>.:NB! This product is not eligible for publishing on Etsy.com due to Etsy Seller Policy</div>',
     brand: 'Generic brand',
@@ -12924,6 +13776,7 @@ export const objects = [
   {
     id: 1374,
     title: 'Twin Hearts Necklace',
+    className: 'Printable',
     description:
       'This 18K rose gold-plated brass pendant brings gorgeous, long-lasting looks that are highly versatile. Each personalized heart necklace is tarnish-resistant with an enduring shine and comes with an elegant twin flames design, as well as an 18"-22" adjustable stainless steel chain with a lobster clasp attachment. Add a personalized message card and choose between 3 elegant box options for an unforgettable gifting experience: LED, Textured Magnetic, or Brown PU Leather boxes.<br/><br/>NB! This product is not eligible for publishing on Etsy due to Etsy Seller Policy. More info <a href="https://help.printify.com/hc/en-us/articles/19952259179025-Why-am-I-not-able-to-publish-jewelry-products-to-my-Etsy-store-/">here</a>.<div>.:High-quality brass pendants - one plated with palladium rhodium and decorated with glass crystals, the other plated with 18K rose gold</div><br /><div>.:18"-22" adjustable stainless steel cable chain</div><br /><div>.:Lobster clasp attachment</div><br /><div>.:Tarnish resistant, enduring shine</div><br /><div>.:Customizable semi-glossy 300gsm paper message card (front and back print available)</div><br /><div>.:Beautifully encased in 3 elegant box options</div><br /><div>.:Blank product sourced from China</div><br /><div>.:NB! This product is not eligible for publishing on Etsy.com due to Etsy Seller Policy</div>',
     brand: 'Generic brand',
@@ -12941,6 +13794,7 @@ export const objects = [
   {
     id: 964,
     title: "Ladies' Cotton T-Shirt",
+    className: 'Printable',
     description:
       "Add a touch of custom character to any wardrobe thanks to this cotton tee for women. Made 100% with supremely soft, ring-spun cotton, each t-shirt is jersey-knit and comes pre-shrunk so that it doesn't get smaller after repeated washes. The semi-fitted, contoured silhouette gives it a chic touch that is perfect for all occasions and daily wear.  <div>.:100% Ringspun cotton (fiber content may vary for different colors)</div><br /><div>.:Light fabric (5.46 oz/yd² (185 g/m²))</div><br /><div>.:Semi-Fitted</div><br /><div>.:Tear-away label</div>",
     brand: 'Gildan',
@@ -12956,6 +13810,7 @@ export const objects = [
   {
     id: 945,
     title: 'Unisex Classic Long Sleeve T-Shirt',
+    className: 'Printable',
     description:
       "Made with 100% US cotton (Athletic Heather is 90% US cotton 10% polyester), these unisex long-sleeve shirts are a highly versatile choice that stays comfy throughout the day. Their tubular shape provides an easy-going, classic fit that is perfect for any occasion while the ribbed cuffs help maintain the garment's good looks for longer. <div>.:100% US Cotton (fiber content may vary for different colors)</div><br /><div>.:Medium fabric (6.0 oz/yd² (203 g/m²))</div><br /><div>.:Classic fit</div><br /><div>.:Tear-away label</div>",
     brand: 'American Apparel',
@@ -12973,6 +13828,7 @@ export const objects = [
   {
     id: 269,
     title: 'Tough Phone Cases',
+    className: 'Printable',
     description:
       'Protect your phone in custom style with this tough phone case. This lightweight phone case is impact resistant and comes with the perfect surface to print all your ideas in vivid detail as well as crisp color. Compatible with iPhone 7, 8, X, 11, 12, 13, 14, 15 & more – check our available sizes.<div>.:Materials: polycarbonate (shell), TPU (lining)</div><br /><div>.:2-piece design with impact resistance and shock dispersion</div><br /><div>.:Interior rubber liner for extra protection (appearance may vary across phone models)</div><br /><div>.:Glossy finish</div><br /><div>.:Supports wireless charging (not including MagSafe)</div>',
     brand: 'Generic brand',
@@ -12991,6 +13847,7 @@ export const objects = [
   {
     id: 529,
     title: 'Clear Cases',
+    className: 'Printable',
     description:
       'Now you can protect your phone in style with a customizable clear case. Made for protection against daily wear and tear, this clear case features a slim form, with shock-absorbing, scratch-resistant, and lightweight plastic. The true joy of this clear case is its wireless charging support and the precise cutouts for effortless connectivity.<div>.:Materials: polycarbonate (back) and TPU (sides)</div><br /><div>.:Slim form and lightweight</div><br /><div>.:Shock absorbing </div><br /><div>.:Scratch resistant plastic</div><br /><div>.:Precise cut outs for connectivity</div><br /><div>.:Supports wireless charging</div><br /><div>.:Gift packaging available</div>',
     brand: 'Generic brand',
@@ -13008,6 +13865,7 @@ export const objects = [
   {
     id: 999,
     title: 'Makeup Bag',
+    className: 'Printable',
     description:
       "There's more to makeup bags than meets the eye. Their main purpose is to store cosmetics, but they're often used to carry travel essentials, like cables, headphones, medicine, hygiene products. Some even use them as art supply cases. These curve-top bags will be the top multi-purpose item in any home with your unique design. They have a zipper for safety and a removable leather strap for comfort.<div>.:Material: 100% PU faux leather</div><br /><div>.:One size: 6.3\" × 9.4\" × 3.3'' (16cm × 23.8cm ×  8.4cm)</div><br /><div>.:Detachable side leather strap</div><br /><div>.:Lightweight and compact </div><br /><div>.:One compartment with black interior</div><br /><div>.:Curved shape</div><br /><div>.:Seam thread color automatically matched to design</div>",
     brand: 'Generic brand',
@@ -13026,6 +13884,7 @@ export const objects = [
   {
     id: 1012,
     title: 'Lunch Bag',
+    className: 'Printable',
     description:
       "This lunch bag has a unique look and coupled with your designs, it'll stand out from any crowd, whether in Central Park or by the beach. Soft yet sturdy, they have a comfortable handle and a flat bottom, so no food gets squished during the day. The spacious main compartment will easily fit a three-course meal plus some appetizers.<div>.:Material: 100% neoprene (95% polyester, 5% spandex)</div><br /><div>.:One size: 9.3'' × 7.7” × 4.7” (23.6 cm × 19.6 cm × 11.9 cm)</div><br /><div>.:Double bar handle</div><br /><div>.:Large internal compartment for storage</div><br /><div>.:Magnetic button closure</div><br /><div>.:Curved shape with flat bottom</div><br /><div>.:Blank material sourced from China</div>",
     brand: 'Generic brand',
@@ -13044,6 +13903,7 @@ export const objects = [
   {
     id: 1307,
     title: 'Unisex Tall Beefy-T® T-Shirt',
+    className: 'Printable',
     description:
       "A taller take on the classic Hanes t-shirt, the Tall Beefy-T® is three inches longer than the regular size. They're available in special sizes from LT (Large Tall) to 4XLT. The shirt has a full cut and a generous fit for comfort.<div>.:100% cotton (fiber content may vary for different colors)</div><br /><div>.:Medium fabric (6.1 oz/yd² (206.8 g/m²))</div><br /><div>.:Tear-away label</div><br /><div>.:Roomy fit</div>",
     brand: 'Hanes',
@@ -13064,6 +13924,7 @@ export const objects = [
   {
     id: 449,
     title: 'Unisex Sweatshirt (AOP)',
+    className: 'Printable',
     description:
       'This all over print crewneck sweatshirt is the perfect example of cool. With quality all-over printing capabilities, you won’t be worried about white lines at the seams. This fleece is custom cut and sewn, featuring a crew neck and set-in sleeves to keep you warm. <div>.:86% Polyester 14% Cotton</div><br /><div>.:Crew neck</div><br /><div>.:Classic Fit</div><br /><div>.:Custom cut and sewn</div><br /><div>.:White thread color</div><br /><div>.:Assembled in the USA from globally sourced parts</div>',
     brand: 'Generic brand',
@@ -13081,6 +13942,7 @@ export const objects = [
   {
     id: 1048,
     title: 'Scented Soy Candle, 9oz',
+    className: 'Printable',
     description:
       'Packed with immersive aromas, these scented candles come in 9oz glass jars and are one size (2.8″ × 3.5") (7.1cm × 8.8cm). Made with 100% natural soy wax blend, each candle features a 100% cotton wick and a permanent adhesive label where your custom designs can come alive.<div>.:Materials: 100% natural soy wax blend, 100% cotton wick and a glass jar</div><br /><div>.:One size: 2.8″ × 3.5" (7.1cm × 8.9cm)</div><br /><div>.:Burning time: 50-60 hours</div><br /><div>.:Glossy permanent adhesive label</div><br /><div>.:Choose from five different aromatic scents</div><br /><div>.:Assembled in the USA from globally sourced parts</div><br /><div>.:NB! All scents have the same wax color</div>',
     brand: 'Lumient',
@@ -13097,6 +13959,7 @@ export const objects = [
   {
     id: 1375,
     title: 'Interlocking Circles Necklace',
+    className: 'Printable',
     description:
       'These custom interlocking necklaces are here to make the perfect personalized gift. Made with high-quality brass for stunning looks that last, these pendants come with an 18"-22" stainless steel chain that is adjustable and feature a lobster clasp attachment. Choose between 3 elegant box options (LED, Textured Magnetic or Brown PU Leather boxes) and add a custom message card (front and back print available) for the perfect gifting experience.<br/><br/>NB! This product is not eligible for publishing on Etsy due to Etsy Seller Policy. More info <a href="https://help.printify.com/hc/en-us/articles/19952259179025-Why-am-I-not-able-to-publish-jewelry-products-to-my-Etsy-store-/">here</a>.<div>.:High-quality brass pendants plated with palladium rhodium - one decorated with glass crystals</div><br /><div>.:18" - 22" adjustable stainless steel cable chain</div><br /><div>.:Lobster clasp attachment</div><br /><div>.:Tarnish resistant, enduring shine</div><br /><div>.:Customizable semi-glossy 300gsm paper message card (front and back print available)</div><br /><div>.:Beautifully encased in 3 elegant box options</div><br /><div>.:Blank product sourced from China</div><br /><div>.:NB! This product is not eligible for publishing on Etsy.com due to Etsy Seller Policy</div>',
     brand: 'Generic brand',
@@ -13114,6 +13977,7 @@ export const objects = [
   {
     id: 1373,
     title: 'BFF Half Heart Necklace Set',
+    className: 'Printable',
     description:
       'Made to rejoice in friendship, these stainless steel and 18K gold-plated pendants are as durable as a great friendship. The pendants are tarnish-resistant and feature a 17.7"-21.7" adjustable chain made of stainless steel with a lobster clasp attachment. Add a message in the customizable message card (front and back print available) and choose between 3 beautiful box options for a stunning presentation: LED, Textured Magnetic, or Brown PU Leather boxes.<br/><br/>NB! This product is not eligible for publishing on Etsy due to Etsy Seller Policy. More info <a href="https://help.printify.com/hc/en-us/articles/19952259179025-Why-am-I-not-able-to-publish-jewelry-products-to-my-Etsy-store-/">here</a>.<div>.:"Best" pendant is made from stainless steel, "Friends" pendant is made from stainless steel with a 18K gold plating</div><br /><div>.:17.7" - 21.7" adjustable stainless steel cable chain</div><br /><div>.:Lobster clasp attachment</div><br /><div>.:Tarnish resistant, enduring shine</div><br /><div>.:Customizable semi-glossy 300gsm paper message card (front and back print available)</div><br /><div>.:Beautifully encased in 3 elegant box options</div><br /><div>.:Blank product sourced from China</div><br /><div>.:NB! This product is not eligible for publishing on Etsy.com due to Etsy Seller Policy</div>',
     brand: 'Generic brand',
@@ -13131,6 +13995,7 @@ export const objects = [
   {
     id: 1232,
     title: 'Multi-Design Greeting Cards (5-Pack)',
+    className: 'Printable',
     description:
       'Create intricate designs that will help your customers steal the show. These cards can take on multiple designs and come in 4.25" by 5.5" with matching envelopes. Each card is made with high-quality uncoated paper and are available with printing on both the outside and the inside. <div>.:Material: 271gsm uncoated paper</div><br /><div>.:One size: 4.25" x 5.5\'\' (10.8 x 13.9 cm)</div><br /><div>.:Horizontal and vertical options available</div><br /><div>.:Available with printing on the outside and inside</div><br /><div>.:Each card can be customized with a specific design</div><br /><div>.:Matching white envelopes included</div><br /><div>.:Assembled in the USA from globally sourced parts</div>',
     brand: 'Generic brand',
@@ -13145,6 +14010,7 @@ export const objects = [
   {
     id: 1236,
     title: 'Framed Paper Posters',
+    className: 'Printable',
     description:
       'Meet the perfect means to turn your art into decor that makes all the difference. Each poster is made with 310gsm fine-art paper or 250gsm semi-gloss paper and comes in multiple sizes so that you can find the perfect match for your art. The posters ship with a pinewood frame that has a stylish black finish, and pre-installed hanging hardware with rubber bumpers. The whole piece is protected with shatterproof plexiglass.<div>.:Materials: 100% pinewood frame and shatter-proof plexiglass</div><br /><div>.:10 sizes to choose from</div><br /><div>.:Horizontal and vertical options available</div><br /><div>.:Paper thickness: 310 gsm for fine art, 260 gsm for semi-glossy paper </div><br /><div>.:Two paper options - fine art and semi-gloss</div><br /><div>.:Matte black color frame finish and brown paper backing</div><br /><div>.:Pre-installed hanging hardware and rubber bumpers</div><br /><div>.:Assembled in the USA from globally sourced parts</div>',
     brand: 'Generic brand',
@@ -13160,6 +14026,7 @@ export const objects = [
   {
     id: 1372,
     title: 'Love Knot Necklace',
+    className: 'Printable',
     description:
       'This custom love knot necklace features high-quality brass for the pendant, and glass crystal decorations, while the center features a stunning 6mm cubic zirconia stone. All pendants come with an 18"-22" adjustable chain made of highly durable stainless steel with a lobster clasp attachment. Choose between a regular stainless steel or an 18k gold-plated finish -- both are tarnish-resistant with enduring shine. <br/><br/>Available with a customizable message card (front and back print) in 3 elegant box options for an unforgettable presentation: LED, Textured Magnetic, or Brown PU Leather boxes. <br/><br/>NB! This product is not eligible for publishing on Etsy due to Etsy Seller Policy. More info <a href="https://help.printify.com/hc/en-us/articles/19952259179025-Why-am-I-not-able-to-publish-jewelry-products-to-my-Etsy-store-/">here</a>.<div>.:High-quality brass pendant decorated with glass crystals and 6mm cubic zirconia stone at the center</div><br /><div>.:The gold version features a 18K gold plated finish</div><br /><div>.:The silver version features a palladium rhodium plated finish</div><br /><div>.:18" - 22" adjustable stainless steel cable chain</div><br /><div>.:Lobster clasp attachment</div><br /><div>.:Tarnish resistant, enduring shine</div><br /><div>.:Customizable semi-glossy 300gsm paper message card (front and back print available)</div><br /><div>.:Beautifully encased in 3 elegant box options</div><br /><div>.:Blank product sourced from China</div><br /><div>.:NB! This product is not eligible for publishing on Etsy.com due to Etsy Seller Policy</div>',
     brand: 'Generic brand',
@@ -13178,6 +14045,7 @@ export const objects = [
   {
     id: 1253,
     title: 'Calendar (2024)',
+    className: 'Printable',
     description:
       'One of the most artistic ways to mark the passing of each month, this custom calendar (2024) is here to add an uplifting touch to any wall. Available in one size (10.8" by 8.4"), each calendar comes with top-tier quality paper (270gsm) with a semi-glossy finish. Comes with centered drill holes for effortless hanging, 3/8" silver wire binding, and large image printing for each month. <div>.:One size: 10.8" × 8.4" (27.4cm x 21.3cm )</div><br /><div>.:High quality 270gsm paper with semi-glossy finish</div><br /><div>.:Date grids for each month</div><br /><div>.:3/8" silver wire binding</div><br /><div>.:Centered holes for hanging</div>',
     brand: 'Generic brand',
@@ -13193,6 +14061,7 @@ export const objects = [
   {
     id: 1160,
     title: 'Stainless Steel Travel Mug with Handle, 14oz',
+    className: 'Printable',
     description:
       "Take to the great outdoors with your favorite beverage in hand, all thanks to these custom stainless steel travel mugs. Each mug holds 14 oz. of your favorite beverage and is made with adventure-friendly stainless steel. With a glossy white enamel finish, a spill-resistant and snap-on cap, as well as a lined-in insulating plastic, this mug combines character with an explorer's favorite; practicality. <div>.:Material: 100% stainless steel with a glossy white enamel finish</div><br /><div>.:One size: 14 oz (0.41 l)</div><br /><div>.:Inner plastic insulation</div><br /><div>.:Spill-resistant snap-on cap and screw-on bottom</div><br /><div>.:Stipple print texture</div><br /><div>.:Blank product sourced from China</div><br /><div>.:NB! Hand wash only</div>",
     brand: 'Generic brand',
@@ -13208,6 +14077,7 @@ export const objects = [
   {
     id: 1275,
     title: 'Posters with Wooden Frame',
+    className: 'Printable',
     description:
       'Bring your artwork to life on these high-quality photopaper (250gsm) posters. Complete with a pinewood frame for a natural look, these posters come with a protective acrylic glass cover for long-lasting home decor. Its natural wood frame is available in black and white options and you can choose between a satin or a matte finish for your paper. Available in five sizes, horizontal and vertical orientations to best fit your art. Sawtooth hanging hardware included. <div>.:High-quality 250g/m² photopaper with Satin or Matte finish</div><br /><div>.:Pinewood frame with a protective acrylic glass cover</div><br /><div>.:Natural Wood, Black and White frame color options</div><br /><div>.:Five sizes to choose from</div><br /><div>.:Horizontal and vertical options available</div><br /><div>.:Sawtooth hanging hardware included</div>',
     brand: 'Generic brand',
@@ -13224,6 +14094,7 @@ export const objects = [
   {
     id: 1133,
     title: 'Velveteen Microfiber Blanket (Two-sided print)',
+    className: 'Printable',
     description:
       "This blanket will be everyone's favorite blankie – it's super soft to the touch, and you can customize it to fit anyone's personality. Print your stunning designs on both sides of the blanket. It's made from 100% polyester, making it durable through regular wear and tear – you can even use it as a picnic blanket and easily clean it afterward. It comes in three sizes so that everyone can find the right fit. <div>.:Material: 100% polyester</div><br /><div>.:Available in 3 sizes</div><br /><div>.:Two-sided print</div><br /><div>.:2\" stitched edge</div><br /><div>.:NB! Strands of white fabric may be partly visible under the print surface</div>",
     brand: 'Generic brand',
@@ -13243,6 +14114,7 @@ export const objects = [
   {
     id: 1356,
     title: 'Youth Long Sleeve Holiday Outfit Set',
+    className: 'Printable',
     description:
       'These custom outfit sets for kids come with a 100% cotton top and bottom for total comfort. With their elastic waistband, they guarantee a perfect, snug fit at all times. The ribbed cuffs on the sleeves along with the plaid pattern bottoms and solid color top add a classic style that feels cozy and looks stylish. All sets come with straight leg pants.<br/>Caution: The garment is not flame resistant. It should fit snugly for safety.<div>.:100% cotton top and bottoms</div><br /><div>.:Retail fit top</div><br /><div>.:Straight leg bottoms</div><br /><div>.:Tear-away labels</div><br /><div>.:NB! The garment is not flame resistant</div>',
     brand: 'Supasoft Apparel',
@@ -13264,6 +14136,7 @@ export const objects = [
   {
     id: 1357,
     title: 'Youth Short Sleeve Holiday Outfit Set',
+    className: 'Printable',
     description:
       'Created for total comfort, the short-sleeved outfit for kids come with a 100% cotton material for extra coziness during bedtime. The straight legs along with the elastic waistband make for a comfy fit at all times. The outfit comes with plaid pattern bottoms and a solid color top.<br/>Caution: The garment is not flame resistant. It should fit snugly for safety.<div>.:100% Cotton top and bottoms</div><br /><div>.:Retail fit top</div><br /><div>.:Straight leg bottoms</div><br /><div>.:Tear-away labels</div><br /><div>.:NB! The garment is not flame resistant</div>',
     brand: 'Supasoft Apparel',
@@ -13285,6 +14158,7 @@ export const objects = [
   {
     id: 887,
     title: 'Stainless Steel Water Bottle, Standard Lid',
+    className: 'Printable',
     description:
       'Quench your thirst in style with this stainless steel water bottle. Available in 3x sizes (12oz, 18oz, 32oz) this water bottle features a double-wall stainless steel build that keeps your drinks frosty for 24h and soothingly hot for 12h. This BPA-free, steel water bottle comes with a twist-on lid for easy sipping, making it excellent for daily use at work, at college, in the car, and beyond.<div>.:Materials: 100% stainless steel (body), 100% polypropylene (lid)</div><br /><div>.:BPA-free, twist-on lid</div><br /><div>.:Available in three sizes: 12oz (0.35 l), 18oz (0.53 l) and 32oz (0.95l)</div><br /><div>.:Double-wall stainless steel construction</div>',
     brand: 'Generic brand',
@@ -13300,6 +14174,7 @@ export const objects = [
   {
     id: 873,
     title: 'Stainless Steel Water Bottle, Sports Lid',
+    className: 'Printable',
     description:
       'Quench your thirst in style with this stainless steel water bottle. Available in 3x sizes (12oz, 18oz, 32oz) this water bottle features a double-wall stainless steel construction that makes it a robust companion to all your excursions. This steel water bottle comes with a sports lid for easy sipping, making it excellent for all types of sports as well as training days at the gym and beyond.<div>.:Materials: 100% stainless steel (body), 100% polypropylene (lid)</div><br /><div>.:Available in three sizes: 12oz (0.35 l), 18oz (0.53 l) and 32oz (0.95l)</div><br /><div>.:BPA-free, twist-on lid</div><br /><div>.:Double-wall stainless steel construction</div>',
     brand: 'Generic brand',
@@ -13315,6 +14190,7 @@ export const objects = [
   {
     id: 41,
     title: 'Unisex Jersey Long Sleeve Tee',
+    className: 'Printable',
     description:
       'This classic unisex long sleeve tee fits like a well-loved favorite. Casually elegant with an excellent quality print, it is an irreplaceable everyday item for anyone. <div>.:100% Airlume combed and ring-spun cotton (fiber content may vary for different colors)</div><br /><div>.:Light fabric (4.2 oz/yd² (142 g/m²))</div><br /><div>.:Retail Fit</div><br /><div>.:Tear away label</div><br /><div>.:Runs true to size</div>',
     brand: 'Bella+Canvas',
@@ -13332,6 +14208,7 @@ export const objects = [
   {
     id: 1347,
     title: 'Flag',
+    className: 'Printable',
     description:
       'Treat your customers to beautiful home decorations with these custom house flags. Made 100% with polyester, these flags come in 3x sizes (18"x 12", 36" x 24", 60" x 36") and feature a satin finish with double plain stitch on the edge and side tunnels.<div>.:Material: 100% polyester organza</div><br /><div>.:Extra light/thin fabric (3.8 oz/yd² (110 g/m²))</div><br /><div>.:Available in three sizes: 18" x 12", 36" x 24", 60" x 36"</div><br /><div>.:One-sided print with a satin finish</div><br /><div>.:Side tunnel</div><br /><div>.:Sewn in label</div><br /><div>.:Blank product sourced from China</div><br /><div>.:NB! Size tolerance 0.75" (2cm)</div><br /><div>.:NB! Does not include flagpole or a fastening system that can be used to secure itself</div>',
     brand: 'Generic brand',
@@ -13346,6 +14223,7 @@ export const objects = [
   {
     id: 353,
     title: 'Tumbler 20oz',
+    className: 'Printable',
     description:
       "This tumbler is an excellent choice for daily use to keep 20oz of your favorite beverages hot or cold thanks to the double-wall insulation. Meanwhile, the stainless steel construction provides excellent durability and it's dishwasher safe for added convenience.<div>.:Materials: stainless steel (body), plastic and rubber (lid)</div><br /><div>.:One size: 20oz (0.59 l)</div><br /><div>.:Rounded corners</div><br /><div>.:Vacuum insulated steel body with a clear push on lid with a rubber gasket (no lid cap)</div><br /><div>.:Glossy finish</div>",
     brand: 'Generic brand',
@@ -13358,6 +14236,7 @@ export const objects = [
   {
     id: 983,
     title: 'Matte Posters',
+    className: 'Printable',
     description:
       'These blank posters help all your ideas come to life in vivid detail & stunning color. Made with fine art paper (175gsm), an industry-standard choice for professional photographers and artists selling merch, these posters come in multiple sizes for you to choose and are perfect for indoor use. <div>.:175gsm fine art paper</div><br /><div>.:Matte finish</div><br /><div>.:7 sizes to choose from</div><br /><div>.:Horizontal, vertical and square options available</div><br /><div>.:NB! For indoor use only</div>',
     brand: 'Generic brand',
@@ -13373,6 +14252,7 @@ export const objects = [
   {
     id: 648,
     title: 'Laptop Sleeve',
+    className: 'Printable',
     description:
       'Made for transferring laptops in the coolest way possible, this personalized laptop sleeve is a dream come true for anyone working on the go or traveling. Featuring a black polyester back, a water-resistant construction, and dual zipper enclosures, this personalized laptop sleeve case is available in 7” sizes up to 17”. <br/><br/><br/><br/><div>.:Material: Smooth neoprene</div><br /><div>.:Customizable front with solid black back</div><br /><div>.:Lightweight</div><br /><div>.:Water resistant and durable</div><br /><div>.:Dual zipper enclosures</div><br /><div>.:Multiple sizes</div>',
     brand: 'Generic brand',
@@ -13392,6 +14272,7 @@ export const objects = [
   {
     id: 1002,
     title: 'Table Runner (Cotton, Poly)',
+    className: 'Printable',
     description:
       'In order to make a kitchen setting look like a picturesque catalog entry, a stylish runner is a must-have. This table runner comes in either cotton twill or polyester, and can accommodate any artsy idea or design, in vivid color.<div>.:Available in two types of material: Cotton Twill and Polyester</div><br /><div>.:2 size options: 16" × 72" and 16" × 90"</div><br /><div>.:Hemmed edges</div><br /><div>.:One sided print</div>',
     brand: 'Generic brand',
@@ -13410,6 +14291,7 @@ export const objects = [
   {
     id: 1094,
     title: 'Greeting Cards (1, 10, 30, and 50pcs)',
+    className: 'Printable',
     description:
       'A personalized wish is the best one, especially when it comes on a customized greeting card like these. Available in both horizontal and vertical options, these greeting cards are available in 4 sizes, and 4 finishes: Matte, uncoated, one-side coat, two-side coat. Available in 1, 10, 30, and 50 pcs for you to find the best match for your needs. All cards come with envelopes. <div>.:Material: 270gsm paper</div><br /><div>.:Four sizes, quantities and paper finishes to choose from</div><br /><div>.:Double-sided print</div><br /><div>.:Horizontal and vertical options available</div><br /><div>.:Blanks sourced from USA</div><br /><div>.:Envelopes included</div><br /><div>.:Sustainable paper from FSC® and SFI® certified facilities</div>',
     brand: 'Generic brand',
@@ -13427,6 +14309,7 @@ export const objects = [
   {
     id: 819,
     title: 'Greeting cards (8, 16, and 24 pcs)',
+    className: 'Printable',
     description:
       "Add a unique touch to any wish with these personalized greeting cards. Measuring at 4.25” x 5.5”, these printable cards can handle long-distance transportation with minimal risk thanks to their robust, uncoated cardstock. Available in 8-packs, 16-packs, and 24-packs - each pack comes with size-matching white envelopes for each card.<div>.:One size: 4.25\" x 5.5'' (10.8 x 13.9 cm)</div><br /><div>.:Available with printing on the outside and inside</div><br /><div>.:Matte finish</div><br /><div>.:Matching white envelopes included</div>",
     brand: 'Generic brand',
@@ -13443,6 +14326,7 @@ export const objects = [
   {
     id: 842,
     title: 'Fine Art Postcards',
+    className: 'Printable',
     description:
       "Artists & fine-art connoisseurs, rejoice. These fine art postcards are made with 280gsm, fine art, giclée paper. A perfect medium to bring your artistic vision to life, in exquisite detail and color. Enjoy high image quality with professional-grade paper that is sustainably sourced and recyclable. Available in two sizes: 6'' x 4'' and 7'' x 5''.<div>.:280gsm fine art giclée paper</div><br /><div>.:Available in two sizes: 6'' x 4'' (15.2cm x 10.1cm) and 7'' x 5'' (17.8cm x 12.7cm)</div><br /><div>.:High image quality and detail</div><br /><div>.:Glossy finish</div><br /><div>.:Sustainably sourced and recyclable</div>",
     brand: 'Generic brand',
@@ -13459,6 +14343,7 @@ export const objects = [
   {
     id: 1101,
     title: 'Postcard Bundles (envelopes included) ',
+    className: 'Printable',
     description:
       'Available in 4 sizes and 4 paper finishes (Matte, uncoated, one-side coat, two-side coat), these custom postcards are a perfect canvas for you to create a truly personalized experience. Whether you aim to place photos, art, funny quotes, or any graphic element, you can do so and also choose between a horizontal or vertical orientation for a perfect fit. Available in bundles of 10, 30, and 50 pieces.<div>.:Available with 4 paper finish options</div><br /><div>.:Unfolded cards come in 4 sizes</div><br /><div>.:Horizontal and vertical options</div><br /><div>.:Envelopes included</div>',
     brand: 'Generic brand',
@@ -13476,6 +14361,7 @@ export const objects = [
   {
     id: 1073,
     title: 'Postcard Bundles (envelopes not included) ',
+    className: 'Printable',
     description:
       'Make wishes even sweeter with these customized postcards. Choose between 4 sizes and 4 finish options, add your design and voila, your unique greeting card is officially ready to travel the world.<div>.:Available with 4 paper finish options</div><br /><div>.:Available in 4 sizes</div><br /><div>.:Use as portrait or landscape card</div><br /><div>.:Sustainably sourced and recyclable</div>',
     brand: 'Generic brand',
@@ -13492,6 +14378,7 @@ export const objects = [
   {
     id: 962,
     title: 'Greeting Cards',
+    className: 'Printable',
     description:
       'Greeting cards they\'ll hold on to forever. Made from premium-quality paper and printed in picture-perfect resolution, these folded cards are the perfect complimentary gift for any occasion. They\'re fully customizable on all sides, so go and channel your inner artist. Design them in portrait or landscape and choose a glossy or matte finish. <div>.:One size: 6.9" × 4.9" (17.5cm × 12.5cm)</div><br /><div>.:Glossy or matte finish on premium quality paper</div><br /><div>.:Print on the outside and inside</div><br /><div>.:Use as portrait or landscape card</div><br /><div>.:Each card comes with a white envelope</div>',
     brand: 'Generic brand',
@@ -13507,6 +14394,7 @@ export const objects = [
   {
     id: 786,
     title: 'Postcards (10pcs)',
+    className: 'Printable',
     description:
       'These personalized postcards take personal wishes and season\'s greetings to a new personal level. Available in budget-efficient 10-packs, these personalized holiday postcards feature a semi-glossy print on matt paper for a premium feel. Each set features one size of postcards: 3.9" x 5.9".<div>.:One size (3.9" x 5.9") (100 x 150mm)</div><br /><div>.:Semi-glossy print on matt paper</div><br /><div>.:Available in 10 pieces</div>',
     brand: 'Generic brand',
@@ -13524,6 +14412,7 @@ export const objects = [
   {
     id: 785,
     title: ' Greeting Cards (1 or 10-pcs)',
+    className: 'Printable',
     description:
       'Print-on-demand greeting cards are an excellent item both to sell online and to receive. Made with a semi-glossy print on mat paper, these greetings cards are available in 1 and 10-packs. Shipping together with envelopes, they give you everything you need to send your best regards, in custom style. <div>.:One size: Closed (4" x 6") and Open (8" x 6")</div><br /><div>.:Use as portrait or landscape card</div><br /><div>.:Available in 1 and 10 pieces</div><br /><div>.:Envelopes included</div>',
     brand: 'Generic brand',
@@ -13540,6 +14429,7 @@ export const objects = [
   {
     id: 666,
     title: 'Greeting Cards (5 Pack)',
+    className: 'Printable',
     description:
       "These personalized greeting cards help you send your warmest regards while allowing the sender's personality to shine through. Their semi-glossy finish adds a beautiful shine while the matching white envelopes create a complete package. Each order gets you a set of 5x personalized greetings cards.<div>.:White envelopes included</div><br /><div>.:Semi-glossy finish</div><br /><div>.:5 pieces per order</div><br /><div>.:300gsm paper</div>",
     brand: 'Generic brand',
@@ -13556,6 +14446,7 @@ export const objects = [
   {
     id: 1144,
     title: 'Unframed Prints',
+    className: 'Printable',
     description:
       'Help bring art to life by printing it in stunning detail and vivid color, all thanks to these unframed prints. Choose between a slick glossy finish and a classy matte finish, find the perfect size that fits your art and audience, and pick between horizontal or vertical alignments to best present your work. <div>.:Paper thickness: 200 gsm</div><br /><div>.:Available in a matte(lustre) or glossy finish</div><br /><div>.:Horizontal and vertical options available</div><br /><div>.:Multiple sizes to choose from</div><br /><div>.:NB! The matte prints have a slightly glossy surface, akin to a "lustre" finish</div>',
     brand: 'Generic brand',
@@ -13571,6 +14462,7 @@ export const objects = [
   {
     id: 524,
     title: 'Greeting Cards (7 pcs)',
+    className: 'Printable',
     description:
       'Send your heartfelt messages to everyone you care about with our premium greeting cards. This set contains 7 greeting cards that can be designed in portrait or landscape orientation and are fully customizable in the front and back. They are available in a brilliant white color, with a matte finish plus individual craft paper envelopes are included for each card. Sending out greeting cards will be easier this year.<div>.:Bright white, matte finish</div><br /><div>.:7 pieces per order</div><br /><div>.:Use as portrait or landscape card</div><br /><div>.:Craft paper envelopes included</div>',
     brand: 'Generic brand',
@@ -13586,6 +14478,7 @@ export const objects = [
   {
     id: 523,
     title: 'Postcards (7 pcs)',
+    className: 'Printable',
     description:
       'Create memories from your travels with this 7-piece postcard set. They are fully customizable in the front and come in white with a matte finish. Craft paper envelopes are included to make it easier to send them while you continue your adventures around the world.<div>.:Bright white, matte finish</div><br /><div>.:7 pieces per order</div><br /><div>.:Use as portrait or landscape card</div><br /><div>.:Craft paper envelopes included</div>',
     brand: 'Generic brand',
@@ -13600,6 +14493,7 @@ export const objects = [
   {
     id: 1222,
     title: 'High Waisted Yoga Shorts (AOP)',
+    className: 'Printable',
     description:
       'This pair of high-waist yoga shorts boasts a buttery soft feeling and impeccable style during training sessions and beyond. With a classic high-rise design, these leggings feature a flattering wide double-layered waistband with comfortable hidden elastic. Place your art in stunning detail and treat yoga fans everywhere to a pair that is bound to be an instant-favorite.  <div>.:Material: 82% microfiber polyester 18% spandex</div><br /><div>.:NB! When stretched excessively, some of the undyed white base material may become visible</div><br /><div>.:Medium fabric (7.5 oz /yd² (250 g/m²))</div><br /><div>.:High-rise elastic waistband</div><br /><div>.:Sewn in size and care label</div><br /><div>.:Seam thread color automatically matched to design (black or white)</div><br /><div>.:Assembled in the USA from globally sourced parts</div>',
     brand: 'Generic brand',
@@ -13620,6 +14514,7 @@ export const objects = [
   {
     id: 965,
     title: 'Standard Wall Calendar (2024)',
+    className: 'Printable',
     description:
       "A busy schedule is less intimidating when it's aesthetically pleasing. This calendar is the definition of personalization. Spice it up with fun high-definition illustrations and photos to add a personal touch to any space. Choose between a high-gloss premium or regular matte finish.<div>.:250gsm high-quality paper stock</div><br /><div>.:Available in high-gloss premium and regular matte paper finish</div><br /><div>.:Comes in 3 different sizes</div><br /><div>.:Spiral binding</div><br /><div>.:Centered hole for hanging</div><br /><div>.:NB! The grid area will remain matte for all variants to ensure the best writability for the end user</div>",
     brand: 'Generic brand',
@@ -13637,6 +14532,7 @@ export const objects = [
   {
     id: 522,
     title: 'Velveteen Plush Blanket',
+    className: 'Printable',
     description:
       'Create a cozy and warm atmosphere at home with this plush velveteen blanket. It is soft to touch and perfect for any home. Customize with a one-sided print to add your personal touch or create a gift for your friends and family. Available in three sizes: 30x40", 50x60", 60x80".<br/><br/>NB! Due to variations in the production process, blankets may arrive up to 3" shorter than their listed size.<div>.:100% polyester (SPOKE) or 83% Polyester and 17% Spandex (Miami Sublimation)</div><br /><div>.:Your print goes on one side of the blanket in high detail and vibrant color</div><br /><div>.:Medium heavy-weight fabric (8.85 oz/yd² (300 g/m²)) that feels extra soft to the touch (thickness of the fabric may slightly vary)</div>',
     brand: 'Generic brand',
@@ -13655,6 +14551,7 @@ export const objects = [
   {
     id: 499,
     title: 'Unisex Supply Hoodie',
+    className: 'Printable',
     description:
       'Nothing beats a warm, good-quality hoodie. This mid-weight unisex supply hoodie is made of 80% cotton and 20% polyester anti-pill fleece and for sure is the piece of clothing you need. It also features a kangaroo pocket, sleeve cuff ribbing, and is preshrunk to minimize shrinkage. <div>.:80% cotton, 20% polyester (fiber content may vary for different colors)</div><br /><div>.:Medium-heavy fabric (8.5 oz /yd² (290 g/m²))</div><br /><div>.:Tear away label</div><br /><div>.:Regular fit</div>',
     brand: 'AS Colour',
@@ -13674,6 +14571,7 @@ export const objects = [
   {
     id: 937,
     title: 'Matte Canvas, Stretched, 0.75"',
+    className: 'Printable',
     description:
       'Place your custom artwork, photos, or creative projects on a canvas you\'ll be proud to use. Each matte canvas comes with back hanging already included for convenient placement. The frame is made with profile radial pine that is ethically sourced from renewable forests. <div>.:Made with highly durable cotton and polyester canvas composite (9.82 oz/yd² (333 g/m²)) with a special proprietary coating for vibrant prints that last. </div><br /><div>.:This canvas is an eco-friendly option as the frame is made with radiata pine responsibly sourced from renewable forests.</div><br /><div>.:Hang the frame with confidence as the soft rubber dots in the back corners of the frame provide ample support and a stable result. </div><br /><div>.:NB! Due to the production process of the canvases, please allow for slight size deviations with a tolerance +/- 1/8" (3.2mm)</div>',
     brand: 'Generic brand',
@@ -13691,6 +14589,7 @@ export const objects = [
   {
     id: 1177,
     title: "Women's Casual Shorts (AOP)",
+    className: 'Printable',
     description:
       'Style, comfort, and versatility is what these shorts are all about. Made with 100% soft polyester, these shorts are lightweight, highly breathable and feature two practical side pockets. Each pair comes with an elastic waistband that is fastened with a drawstring rope for that perfect fit. <div>.:Material: 100% polyester</div><br /><div>.:Extra light fabric (3.2 oz/yd² (110 g/m²))</div><br /><div>.:Elastic waistband, fastened with a black drawstring rope</div><br /><div>.:Two side pockets</div><br /><div>.:Regular fit</div><br /><div>.:Sewn-in label</div><br /><div>.:White seam thread</div><br /><div>.:Regular cut</div><br /><div>.:Blank product sourced and assembled from China</div>',
     brand: 'Generic brand',
@@ -13711,6 +14610,7 @@ export const objects = [
   {
     id: 352,
     title: 'Beach Towel',
+    className: 'Printable',
     description:
       'Beach days are always a bliss – showing up with a luxuriously soft and customized beach towel however can add a bit more sunshine to your day. This heavyweight towel feels extra lush to the touch as it features a polyester facing where your prints go in vivid detail, and a cotton loop backing for durability.<br/><br/>NB! Due to the thickness of the towel the print colors may not soak all the way through the fabric and white background can show through when towel fibers are stroked.<div>.:Materials: 100% polyester (front), 100% cotton (back)</div><br /><div>.:Comes in 2 sizes</div><br /><div>.:White cotton loop backing</div><br /><div>.:One-sided print</div>',
     brand: 'Generic brand',
@@ -13728,6 +14628,7 @@ export const objects = [
   {
     id: 1334,
     title: 'Kids Sports Jersey (AOP)',
+    className: 'Printable',
     description:
       'Help youngsters break records in style with this personalized jersey for kids. Made with 100% moisture-wicking polyester, these tees are stretchy, durable, and deliver total comfort in the field. Each tee is fully customizable with all-over-print capability, making them a perfect canvas for playful, fresh designs.<div>.:Material: 100% polyester</div><br /><div>.:Extra light fabric (4.13 oz/yd² (140g/m²))</div><br /><div>.:Seam thread color (white or black) automatically matched to design</div><br /><div>.:Printed-on size and care label</div><br /><div>.:Assembled in the USA from globally sourced parts</div>',
     brand: 'Generic brand',
@@ -13747,6 +14648,7 @@ export const objects = [
   {
     id: 75,
     title: 'Journal - Ruled Line',
+    className: 'Printable',
     description:
       'For those who are really serious about their journal. This 128 page hardcover journal offers a wraparound durable print from front to back. An aspiring author\'s new best friend.<div>.:128 ruled line pages (64 sheets)</div><br /><div>.:Page paper weight: 90 gsm</div><br /><div>.:One size: 5" x 7" (12.7 x 17.8 cm)</div><br /><div>.:Full wraparound print</div><br /><div>.:Casewrap binding</div>',
     brand: 'Generic brand',
@@ -13762,6 +14664,7 @@ export const objects = [
   {
     id: 76,
     title: 'Journal - Blank',
+    className: 'Printable',
     description:
       'Blank pages offer limitless possibilities - be it a to-do list, novel draft, art sketch or just doodles. Hardcover with a wraparound high quality print to carry wherever one might go.<div>.:128 blank pages (64 sheets)</div><br /><div>.:Page paper weight: 90 gsm</div><br /><div>.:One size: 5" x 7" (12.7 x 17.8 cm)</div><br /><div>.:Full wraparound print</div><br /><div>.:Casewrap binding</div>',
     brand: 'Generic brand',
@@ -13777,6 +14680,7 @@ export const objects = [
   {
     id: 1317,
     title: 'Unisex CVC Jersey T-shirt',
+    className: 'Printable',
     description:
       "The unisex CVC jersey tee brings together the best of both worlds. The 60% cotton and 40%-polyester blend makes it super soft yet very durable. The shirt has a classic fit with a crewneck 1x1 baby rib collar, and it'll fit any fashion style out there. <div>.:60% combed, ring-spun cotton, 40% polyester</div><br /><div>.:Light fabric (4.3 oz/yd² (146 g/m²))</div><br /><div>.:Classic fit</div><br /><div>.:Tear-away label</div>",
     brand: 'Next Level',
@@ -13798,6 +14702,7 @@ export const objects = [
   {
     id: 256,
     title: "Women's Cut & Sew Casual Leggings (AOP)",
+    className: 'Printable',
     description:
       '<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; \\nCrisp imagery, vibrant colors and a soft touch - these elastic skinny fit leggings are perfect for any casual occasion in life.&quot;}" data-sheets-userformat="{&quot;2&quot;:9089,&quot;3&quot;:[null,0],&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:9}">Crisp imagery, vibrant colors and a soft touch - these elastic skinny fit leggings are perfect for any casual occasion in life.</span></p>\n<p>&nbsp;</p><div>.:95% Polyester brushed suede 5% Spandex</div><br /><div>.:Skinny fit</div><br /><div>.:Tagless</div><br /><div>.:White thread color</div><br /><div>.:Runs true to size</div><br /><div>.:NB! Black color prints may appear in a greyish tone</div><br /><div>.:Assembled in the USA from globally sourced parts</div>',
     brand: 'Generic brand',
@@ -13812,6 +14717,7 @@ export const objects = [
   {
     id: 282,
     title: 'Matte Vertical Posters',
+    className: 'Printable',
     description:
       'Introducing the perfect means to print art on – the premium matte vertical posters. Made with museum-grade paper (175gsm fine art paper), these posters translate any digital artwork into exquisite real life décor. Available in multiple sizes, each poster is printed with top-tier pigmented archival inks for a stunning end result.<div>.:Made with museum-grade archival paper (175gsm) for excellent printing fidelity and vibrant color reproduction. </div><br /><div>.:For indoor use only</div><br /><div>.:Find the perfect match to your customers\' needs thanks to the 38 available sizes.</div><br /><div>.:Assembled in the USA from globally sourced parts</div><br /><div>.:NB! Due to the production process of these posters, please allow for slight size deviations with a tolerance +/- 1/16"</div>',
     brand: 'Generic brand',
@@ -13831,6 +14737,7 @@ export const objects = [
   {
     id: 831,
     title: "Men's Baseball Jersey (AOP)",
+    className: 'Printable',
     description:
       "All-over prints make the crowd go wild - add yours now to this men's AOP baseball jersey & create an instant classic. Featuring a full-button front and a rounded hem, these tees feature moisture-wicking fabric that keeps you cool when under pressure. Choose between a white or black trim color and buttons, add your design, and make it uniquely yours. <div>.:Material: 100% moisture-wicking polyester</div><br /><div>.:Sewn-in label</div><br /><div>.:Extra light fabric (4.13 oz/yd² (140g/m²))</div><br /><div>.:Regular fit</div><br /><div>.:Trim color and buttons available in black or white</div>",
     brand: 'Generic brand',
@@ -13848,6 +14755,7 @@ export const objects = [
   {
     id: 1273,
     title: 'MagSafe Tough Cases',
+    className: 'Printable',
     description:
       'When aesthetics meet function, the MagSafe case is born. Equipped with an outer polycarbonate shell and inner black TPU lining, the MagSafe case delivers impeccable protection thanks to its durable, flexible, impact-resistant nature. Available in a matte or glossy finish, each case comes with an embedded magnet to enhance compatibility with Apple MagSafe accessories. Your print wraps fully on the exterior surface.<div>.:Dual layer case for extra durability and protection</div><br /><div>.:Materials: 100% polycarbonate (shell), black cushioned inner TPU lining (slight variations in color/texture are possible)</div><br /><div>.:Available in matte or glossy premium protective finish</div><br /><div>.:Full-wrap print on exterior surfaces</div><br /><div>.:Embedded magnet to enhance compatibility with Apple MagSafe accessories (compatibility not guaranteed with non-Apple brand chargers)</div><br /><div>.:Durable, flexible and impact resistant</div>',
     brand: 'Generic brand',
@@ -13863,6 +14771,7 @@ export const objects = [
   {
     id: 540,
     title: 'Framed Vertical Poster',
+    className: 'Printable',
     description:
       'Securely framed in one of three colors (black, white, or walnut), these premium posters exhibit their varied contents through archive-worthy photo paper and ink. For easy hanging, there’s a backing hardware piece. The framing is made of MDF - a move pointing toward ecological friendliness. Further ensuring durability, the bordering is low maintenance and resistant to swelling and warping. <div>.:LexJet Premium 200 gsm paper</div><br /><div>.: Protective acrylic cover</div><br /><div>.:Frames available in black, walnut and white finishes</div><br /><div>.:Hanging kit already fixed</div><br /><div>.:Matte paper finish</div>',
     brand: 'Generic brand',
@@ -13879,6 +14788,7 @@ export const objects = [
   {
     id: 541,
     title: 'Framed Horizontal Poster',
+    className: 'Printable',
     description:
       'Available in seven sizes and three framing colors, these archive-worthy ink and photo paper enrich any applied design. A premium hardware inclusion on the backside guarantees clean hanging; making sure that the premium horizontal poster’s design comes across as it should. The framing is made of MDF - a move pointing toward ecological friendliness. <br/><div>.:LexJet Premium 200 gsm paper</div><br /><div>.: Protective acrylic cover</div><br /><div>.:Frames available in black, walnut and white finishes</div><br /><div>.:Hanging kit already fixed</div><br /><div>.:Matte paper finish</div>',
     brand: 'Generic brand',
@@ -13895,6 +14805,7 @@ export const objects = [
   {
     id: 480,
     title: 'Cork Back Coaster',
+    className: 'Printable',
     description:
       'This personalized photo coaster helps you market yourself the right way or uplift any table with a custom touch. Each round and square coaster is made with a high-gloss, polyester-coated hardboard top, and features a genuine cork bottom to prevent sliding. <div>.:Material: Genuine cork bottom finished with a glossy white top made of polyester-coated hardboard</div><br /><div>.:Size: 3.75″ x 3.75″ (Square) and 4″ x 4″ (Round)</div><br /><div>.:High-gloss top</div><br /><div>.:NB! One coaster per listing</div><br /><div>.:Assembled in the USA from globally sourced parts</div>',
     brand: 'Generic brand',
@@ -13911,6 +14822,7 @@ export const objects = [
   {
     id: 1353,
     title: 'Desktop Calendar (2024 grid)',
+    className: 'Printable',
     description:
       'For beautiful desk and home decorations that steal the show, these 2024 personalized calendars are all you need. Available in one size (10" x 5"), each calendar comes with high quality, 250gsm paper stock and is spiral-bound at the top. Add your own artwork or photos with high-fidelity colors and details to bring a daily staple to life.<div>.:Material: 250 gsm paper with a matte finish</div><br /><div>.:One size: 10" x 5" (25cm x 12.5cm)</div><br /><div>.:Comes with 2024 month grid</div><br /><div>.:Black spiral binding and tent card backing</div><br /><div>.:Paper sourced from the USA</div><br /><div>.:Assembled in the USA from globally sourced parts</div>',
     brand: 'Generic brand',
@@ -13928,6 +14840,7 @@ export const objects = [
   {
     id: 1354,
     title: "Men's Short Sleeve Pajama Set",
+    className: 'Printable',
     description:
       "100% cotton, 200% comfy. This custom-printed pajama set comes with a short-sleeve design and an elastic waistband with strings for that perfectly snug fit. With straight leg pants, plaid pattern bottoms, and a solid color top, these men's pajamas await for your designs to come to life as an instant favorite.<div>.:100% cotton top and bottoms</div><br /><div>.:Unisex retail fit top</div><br /><div>.:Straight leg bottoms with side pockets</div><br /><div>.:Tear-away labels</div>",
     brand: 'Supasoft Apparel',
@@ -13945,6 +14858,7 @@ export const objects = [
   {
     id: 1383,
     title: "Women's Short Sleeve Pajama Set",
+    className: 'Printable',
     description:
       "100% cotton, 200% comfy. This custom-printed pajama set comes with a short-sleeve design and an elastic waistband with strings for that perfectly snug fit. With straight leg pants, plaid pattern bottoms, and a solid color top, these women's pajamas await your designs to come to life as an instant favorite.<div>.:100% cotton top and bottoms</div><br /><div>.:Unisex retail fit top</div><br /><div>.:Straight leg bottoms with side pockets</div><br /><div>.:Tear-away labels</div>",
     brand: 'Supasoft Apparel',
@@ -13965,6 +14879,7 @@ export const objects = [
   {
     id: 1369,
     title: 'Unisex Flannel Shirt',
+    className: 'Printable',
     description:
       'Nothing is more timeless than a flannel shirt. This unisex personalized flannel shirt comes with double front pockets with a top flap opening for higher practicality, and has classic button closures. All shirts are made with 60% cotton and 40% polyester blend flannel for total comfort in any casual setting. <br/>NB!Please note that there can be a slight variation of the flannel pattern from shirt to shirt.<div>.:60% Cotton 40% Polyester</div><br /><div>.:Heavyweight fabric (5.9 oz/yd² (200 g/m²))</div><br /><div>.:Classic fit</div><br /><div>.:Tear-away neck label</div><br /><div>.:Sewn-in side label</div>',
     brand: 'Independent Trading Company',
@@ -13987,6 +14902,7 @@ export const objects = [
   {
     id: 1023,
     title: 'Lightweight Sweatshirt (AOP)',
+    className: 'Printable',
     description:
       "Made from a Plaited Interlock Fabric, this lightweight sweatshirt is breathable and super soft to the touch. It has a regular men's fit that can be customized, sold, and worn to suit many different fashion styles. A classic, round collar gives it a sleek and put-together look. The waist and cuffs of this sweater are reinforced to stay durable for years to come.<div>.:Material: 95% polyester, 5% spandex</div><br /><div>.:Medium heavy fabric (7.96 oz/yd² (270 g/m²))</div><br /><div>.:Regular fit</div><br /><div>.:Seam thread and collar lining color automatically matched to design (black or white)</div><br /><div>.:Regular cut</div>",
     brand: 'Generic brand',
@@ -14006,6 +14922,7 @@ export const objects = [
   {
     id: 1296,
     title: 'Unisex Garment-Dyed Sweatshirt',
+    className: 'Printable',
     brand: 'Comfort Colors®',
     model: '1566',
     images: [
@@ -14026,6 +14943,7 @@ export const objects = [
   {
     id: 561,
     title: 'Infant Baby Rib Bodysuit',
+    className: 'Printable',
     brand: 'Rabbit Skins',
     model: '4400',
     images: [
@@ -14041,6 +14959,7 @@ export const objects = [
   {
     id: 619,
     title: 'AirPods and AirPods Pro Case Cover',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14056,6 +14975,7 @@ export const objects = [
   {
     id: 844,
     title: 'Tufted Floor Pillow, Square',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14072,6 +14992,7 @@ export const objects = [
   {
     id: 870,
     title: 'Tufted Floor Pillow, Round',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14088,6 +15009,7 @@ export const objects = [
   {
     id: 1166,
     title: 'Frosted Pint Glass, 16oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14101,6 +15023,7 @@ export const objects = [
   {
     id: 1100,
     title: 'Gift Wrap Papers',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14115,6 +15038,7 @@ export const objects = [
   {
     id: 446,
     title: 'Unisex Crewneck Sweatshirt',
+    className: 'Printable',
     description:
       'Take the cold seasons in style with this premium crew neck sweatshirt. Available in multiple colors, this sweatshirt is sure to keep you warm and stylish all day long. Featuring a 3-end fleece fabric, it has a real tight-knit construction giving it better quality and durability. It’s not only beautiful but also comfy and soft to the touch with the best in its class and under 5% shrinkage.<div>.:80% cotton, 20% polyester</div><br /><div>.:Medium-heavy fabric (8.2 oz /yd² (280 g/m²))</div><br /><div>.:Regular fit</div><br /><div>.:Tear away label</div><br /><div>.:Runs true to size</div>',
     brand: 'Lane Seven',
@@ -14133,6 +15057,7 @@ export const objects = [
   {
     id: 994,
     title: 'Coasters',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14149,6 +15074,7 @@ export const objects = [
   {
     id: 1313,
     title: 'Cotton Canvas Tote Bag',
+    className: 'Printable',
     brand: 'Liberty Bags',
     model: 'OAD113',
     images: [
@@ -14164,6 +15090,7 @@ export const objects = [
   {
     id: 1008,
     title: 'Holiday Cards (One-sided print)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14179,6 +15106,7 @@ export const objects = [
   {
     id: 1026,
     title: 'Holiday Cards (Two-sided print)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14194,6 +15122,7 @@ export const objects = [
   {
     id: 478,
     title: 'Ceramic Mug 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14211,6 +15140,7 @@ export const objects = [
   {
     id: 466,
     title: "Women's Midweight Cotton Tee",
+    className: 'Printable',
     description:
       'What’s better than a soft, light cotton, quality t-shirt in your wardrobe? This comfy, contoured 100% cotton tee offers a semi-fitted silhouette and is pre-shrunk to ensure it stays a staple for longer. It features cap sleeves and a taped neck and shoulders.<div>.:100% cotton (fiber content may vary for different colors)</div><br /><div>.:Medium fabric (5.3 oz/yd² (180 g/m²))</div><br /><div>.:Semi-fitted</div><br /><div>.:Tear-away label</div>',
     brand: 'Gildan',
@@ -14225,6 +15155,7 @@ export const objects = [
   {
     id: 421,
     title: 'Tough Cases',
+    className: 'Printable',
     description:
       "Personalize Apple iPhone, Samsung Galaxy, and Google Pixel devices with premium-quality custom protective phone cases. Every case has double layers for extra durability and protection. The outer polycarbonate shell will resist daily impacts. Create a beautiful design, and we'll print it in picture-perfect quality with a glossy or matte finish.<div>.:Materials: 100% polycarbonate (shell), 100% TPU (lining)</div><br /><div>.:Dual layer case for extra durability and protection</div><br /><div>.:Supports wireless charging (not including MagSafe)</div><br /><div>.:Available with a glossy or matte finish</div><br /><div>.:Clear, open ports for connectivity</div><br /><div>.:Blank product sourced from Korea</div>",
     brand: 'Generic brand',
@@ -14242,6 +15173,7 @@ export const objects = [
   {
     id: 653,
     title: 'Mink-Cotton Towel',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14256,6 +15188,7 @@ export const objects = [
   {
     id: 1384,
     title: "Women's Long Sleeve Pajama Set",
+    className: 'Printable',
     brand: 'Supasoft Apparel',
     model: '',
     images: [
@@ -14275,6 +15208,7 @@ export const objects = [
   {
     id: 1355,
     title: "Men's Long Sleeve Pajama Set",
+    className: 'Printable',
     brand: 'Supasoft Apparel',
     model: '',
     images: [
@@ -14294,6 +15228,7 @@ export const objects = [
   {
     id: 975,
     title: 'Desk Mats',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14310,6 +15245,7 @@ export const objects = [
   {
     id: 1066,
     title: 'Multifunctional Diaper Backpack',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14330,6 +15266,7 @@ export const objects = [
   {
     id: 1358,
     title: 'Unisex Pocket T-shirt',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3021',
     images: [
@@ -14351,6 +15288,7 @@ export const objects = [
   {
     id: 579,
     title: 'Unisex Drop Shoulder Sweatshirt',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3945',
     images: [
@@ -14371,6 +15309,7 @@ export const objects = [
   {
     id: 1370,
     title: 'Ceramic Ornaments, 2-Side Print, (1pc, 3pcs, 5pcs, 10pcs)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14387,6 +15326,7 @@ export const objects = [
   {
     id: 450,
     title: 'Unisex Pullover Hoodie (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14404,6 +15344,7 @@ export const objects = [
   {
     id: 1195,
     title: 'test test',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14416,6 +15357,7 @@ export const objects = [
   {
     id: 1256,
     title: 'Youth Crewneck Sweatshirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: '18000B',
     images: [
@@ -14435,6 +15377,7 @@ export const objects = [
   {
     id: 725,
     title: 'Unisex Classic Tee',
+    className: 'Printable',
     brand: 'American Apparel',
     model: '1301',
     images: [
@@ -14451,6 +15394,7 @@ export const objects = [
   {
     id: 1333,
     title: "Women's Sports Jersey (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14468,6 +15412,7 @@ export const objects = [
   {
     id: 1338,
     title: "Men's Sports Warmup Hoodie (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14488,6 +15433,7 @@ export const objects = [
   {
     id: 1385,
     title: 'Fleece Sherpa Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14505,6 +15451,7 @@ export const objects = [
   {
     id: 941,
     title: 'Outdoor Drawstring Bag',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14522,6 +15469,7 @@ export const objects = [
   {
     id: 1298,
     title: 'Unisex Garment-Dyed Hoodie',
+    className: 'Printable',
     brand: 'Comfort Colors®',
     model: '1567',
     images: [
@@ -14541,6 +15489,7 @@ export const objects = [
   {
     id: 580,
     title: 'Toddler Short Sleeve Tee',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3001T',
     images: [
@@ -14556,6 +15505,7 @@ export const objects = [
   {
     id: 31,
     title: 'Infant Long Sleeve Bodysuit',
+    className: 'Printable',
     brand: 'Rabbit Skins',
     model: '4411',
     images: [
@@ -14567,6 +15517,7 @@ export const objects = [
   {
     id: 1386,
     title: 'Round Sticker Label Rolls',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14583,6 +15534,7 @@ export const objects = [
   {
     id: 1185,
     title: 'Kids Leggings (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14600,6 +15552,7 @@ export const objects = [
   {
     id: 532,
     title: 'Jigsaw Puzzle (30, 110, 252, 500,1000-Piece)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14615,6 +15568,7 @@ export const objects = [
   {
     id: 413,
     title: 'Backpack',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14629,6 +15583,7 @@ export const objects = [
   {
     id: 1387,
     title: 'Square Sticker Label Rolls',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14645,6 +15600,7 @@ export const objects = [
   {
     id: 368,
     title: "Women's Canvas Boots",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14664,6 +15620,7 @@ export const objects = [
   {
     id: 81,
     title: 'Kids Softstyle Tee',
+    className: 'Printable',
     brand: 'Gildan',
     model: '64000B',
     images: [
@@ -14676,6 +15633,7 @@ export const objects = [
   {
     id: 1335,
     title: 'Skinny Tumbler with Straw, 20oz',
+    className: 'Printable',
     brand: 'Maars',
     model: '',
     images: [
@@ -14692,6 +15650,7 @@ export const objects = [
   {
     id: 50,
     title: 'Canvas Gallery Wraps',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14713,6 +15672,7 @@ export const objects = [
   {
     id: 32,
     title: "Toddler's Fine Jersey Tee",
+    className: 'Printable',
     brand: 'Rabbit Skins',
     model: '3321',
     images: [
@@ -14725,6 +15685,7 @@ export const objects = [
   {
     id: 1366,
     title: 'Bucket Hat (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14742,6 +15703,7 @@ export const objects = [
   {
     id: 1382,
     title: 'Unisex Oversized Boxy Tee',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3010',
     images: [
@@ -14761,6 +15723,7 @@ export const objects = [
   {
     id: 1340,
     title: 'Maars Maker Skinny Matte Tumbler, 20oz',
+    className: 'Printable',
     brand: 'Maars',
     model: '',
     images: [
@@ -14776,6 +15739,7 @@ export const objects = [
   {
     id: 1328,
     title: 'Arctic Fleece Blanket',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14792,6 +15756,7 @@ export const objects = [
   {
     id: 635,
     title: 'Accent Coffee Mug, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14805,6 +15770,7 @@ export const objects = [
   {
     id: 934,
     title: "Men's Puffer Jacket (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14822,6 +15788,7 @@ export const objects = [
   {
     id: 418,
     title: 'Apron (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14835,6 +15802,7 @@ export const objects = [
   {
     id: 915,
     title: 'Printed Wall Tapestry',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14851,6 +15819,7 @@ export const objects = [
   {
     id: 1204,
     title: 'Metal License Plate Frame',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14865,6 +15834,7 @@ export const objects = [
   {
     id: 430,
     title: 'Custom Pin Buttons',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14878,6 +15848,7 @@ export const objects = [
   {
     id: 1003,
     title: 'Kitchen Towel',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14895,6 +15866,7 @@ export const objects = [
   {
     id: 538,
     title: 'Spun Polyester Lumbar Pillow',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14910,6 +15882,7 @@ export const objects = [
   {
     id: 788,
     title: 'Rubber Yoga Mat',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14925,6 +15898,7 @@ export const objects = [
   {
     id: 438,
     title: 'Area Rugs ',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14938,6 +15912,7 @@ export const objects = [
   {
     id: 18,
     title: "Women's Ideal Racerback Tank",
+    className: 'Printable',
     brand: 'Next Level',
     model: '1533',
     images: [
@@ -14950,6 +15925,7 @@ export const objects = [
   {
     id: 1379,
     title: 'Tin Candles',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14967,6 +15943,7 @@ export const objects = [
   {
     id: 591,
     title: 'Athletic Joggers (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -14984,6 +15961,7 @@ export const objects = [
   {
     id: 439,
     title: 'Three-Panel Fleece Hoodie',
+    className: 'Printable',
     brand: 'Lane Seven',
     model: 'LS14001',
     images: [
@@ -15002,6 +15980,7 @@ export const objects = [
   {
     id: 976,
     title: 'Garden & House Banner',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15021,6 +16000,7 @@ export const objects = [
   {
     id: 1117,
     title: 'Black Coffee Cup, 11oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15034,6 +16014,7 @@ export const objects = [
   {
     id: 49,
     title: 'Unisex Heavy Blend™ Crewneck Sweatshirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: '18000',
     images: [
@@ -15053,6 +16034,7 @@ export const objects = [
   {
     id: 1381,
     title: "Men's Boxers (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15071,6 +16053,7 @@ export const objects = [
   {
     id: 1312,
     title: "Women's Festival Crop Top",
+    className: 'Printable',
     brand: 'Next Level',
     model: '5080',
     images: [
@@ -15086,6 +16069,7 @@ export const objects = [
   {
     id: 229,
     title: 'Spun Polyester Square Pillow Case',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15105,6 +16089,7 @@ export const objects = [
   {
     id: 1001,
     title: 'Spun Polyester Pillowcase',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15122,6 +16107,7 @@ export const objects = [
   {
     id: 232,
     title: 'Faux Suede Square Pillow Case',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15139,6 +16125,7 @@ export const objects = [
   {
     id: 440,
     title: "Men's Staple Tee",
+    className: 'Printable',
     brand: 'AS Colour',
     model: '5001',
     images: [
@@ -15152,6 +16139,7 @@ export const objects = [
   {
     id: 157,
     title: 'Kids Heavy Cotton™ Tee',
+    className: 'Printable',
     brand: 'Gildan',
     model: '5000B',
     images: [
@@ -15164,6 +16152,7 @@ export const objects = [
   {
     id: 1393,
     title: "Women's Boxy Tee",
+    className: 'Printable',
     brand: 'Comfort Colors®',
     model: '3023CL',
     images: [
@@ -15180,6 +16169,7 @@ export const objects = [
   {
     id: 1389,
     title: 'Tote Bag (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15197,6 +16187,7 @@ export const objects = [
   {
     id: 1089,
     title: 'Unisex Zone Performance T-shirt',
+    className: 'Printable',
     brand: 'Team 365',
     model: 'TT11',
     images: [
@@ -15214,6 +16205,7 @@ export const objects = [
   {
     id: 933,
     title: 'Broadcloth Pillow',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15230,6 +16222,7 @@ export const objects = [
   {
     id: 518,
     title: 'Single Jersey T-shirt',
+    className: 'Printable',
     brand: 'B&C',
     model: 'TU01T',
     images: [
@@ -15246,6 +16239,7 @@ export const objects = [
   {
     id: 812,
     title: 'Business Cards, 100pcs',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15260,6 +16254,7 @@ export const objects = [
   {
     id: 537,
     title: 'Ceramic Ornament, 1-Pack',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15276,6 +16271,7 @@ export const objects = [
   {
     id: 1322,
     title: 'Women’s Flowy Rolled Cuffs Muscle Tee',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '8804',
     images: [
@@ -15291,6 +16287,7 @@ export const objects = [
   {
     id: 1115,
     title: 'Enamel Camp Cup',
+    className: 'Printable',
     brand: 'ORCA Coatings',
     model: '',
     images: [
@@ -15305,6 +16302,7 @@ export const objects = [
   {
     id: 730,
     title: 'Essos Wireless Earbuds',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15321,6 +16319,7 @@ export const objects = [
   {
     id: 12,
     title: 'Unisex Jersey Short Sleeve Tee',
+    className: 'Printable',
     brand: 'Bella+Canvas',
     model: '3001',
     images: [
@@ -15340,6 +16339,7 @@ export const objects = [
   {
     id: 92,
     title: 'Unisex College Hoodie',
+    className: 'Printable',
     brand: 'AWDIS',
     model: 'JH001',
     images: [
@@ -15355,6 +16355,7 @@ export const objects = [
   {
     id: 706,
     title: 'Unisex Garment-Dyed T-shirt',
+    className: 'Printable',
     brand: 'Comfort Colors®',
     model: '1717',
     images: [
@@ -15374,6 +16375,7 @@ export const objects = [
   {
     id: 26,
     title: "Men's Lightweight Fashion Tee",
+    className: 'Printable',
     brand: 'Gildan',
     model: '980',
     images: [
@@ -15386,6 +16388,7 @@ export const objects = [
   {
     id: 314,
     title: 'Youth Heavy Blend Hooded Sweatshirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: '18500B',
     images: [
@@ -15398,6 +16401,7 @@ export const objects = [
   {
     id: 36,
     title: 'Unisex Ultra Cotton Tee',
+    className: 'Printable',
     brand: 'Gildan',
     model: '2000',
     images: [
@@ -15416,6 +16420,7 @@ export const objects = [
   {
     id: 1371,
     title: "Women's Racerback Dress (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15434,6 +16439,7 @@ export const objects = [
   {
     id: 1378,
     title: "Women's Tank Top (AOP)",
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15451,6 +16457,7 @@ export const objects = [
   {
     id: 1268,
     title: 'Kiss-Cut Vinyl Decals',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15466,6 +16473,7 @@ export const objects = [
   {
     id: 6,
     title: 'Unisex Heavy Cotton Tee',
+    className: 'Printable',
     brand: 'Gildan',
     model: '5000',
     images: [
@@ -15487,6 +16495,7 @@ export const objects = [
   {
     id: 77,
     title: 'Unisex Heavy Blend™ Hooded Sweatshirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: '18500',
     images: [
@@ -15506,6 +16515,7 @@ export const objects = [
   {
     id: 145,
     title: 'Unisex Softstyle T-Shirt',
+    className: 'Printable',
     brand: 'Gildan',
     model: '64000',
     images: [
@@ -15524,6 +16534,7 @@ export const objects = [
   {
     id: 755,
     title: 'Scented Candles, 9oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15541,6 +16552,7 @@ export const objects = [
   {
     id: 1394,
     title: 'Ringneck Tumbler, 20oz',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15555,6 +16567,7 @@ export const objects = [
   {
     id: 516,
     title: 'High Waisted Yoga Leggings (AOP)',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [
@@ -15568,6 +16581,7 @@ export const objects = [
   {
     id: 1122,
     title: 'White Coined Napkins',
+    className: 'Printable',
     brand: 'Generic brand',
     model: '',
     images: [

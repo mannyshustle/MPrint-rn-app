@@ -53,7 +53,7 @@ module.exports = {
           lib_images: '../lib/lib-react-native/src/assets/images',
           lib_mocks: '../lib-reactnative/src/mocks',
           lib_models: '../lib/lib-react-native/src/models',
-          lib_modals: '../lib/lib-react-native/src/modals',
+          lib_modals: '../lib/lib-react-native/src/components/Modals',
           lib_navigation: '../lib/lib-react-native/src/navigation',
           lib_screens: '../lib/lib-react-native/src/screens',
           lib_services: '../lib/lib-react-native/src/services',

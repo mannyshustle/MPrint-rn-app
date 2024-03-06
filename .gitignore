@@ -66,3 +66,4 @@ artifacts
 parseClientConfig.json
 google-services.json
 android-service-firebase.json
+.env

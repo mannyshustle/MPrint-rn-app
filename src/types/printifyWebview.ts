@@ -8,7 +8,7 @@ export interface BluePrint {
 }
 
 export interface PrintifyResults {
-  blueprintId?: string;
+  printableId?: string;
   providerId?: string;
   imageUrls?: string[];
   height?: string;

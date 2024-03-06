@@ -3,32 +3,32 @@ import 'react-native-get-random-values';
 
 import React, {useEffect, useState} from 'react';
 import {Navigation} from './navigation';
-import parseConfig from '../parseClientConfig.json';
-import {ParseInitializeRN, SubClasses} from 'lib_cloud/parse';
+import {ParseInitializeRN, getParseServerCredentials} from 'lib_cloud/parse';
 import 'react-native-gesture-handler';
 import {enableScreens} from 'react-native-screens';
-import {
-  GetParseCredentials,
-  Loading,
-  SaveParseCredentials,
-} from 'lib_components';
+import {Loading} from 'lib_components';
 import Parse from 'parse/react-native';
 import {PaperProvider} from 'react-native-paper';
 import Toast from 'react-native-toast-message';
+import {AppDataProvider} from './contexts/vendor';
+import {SubClasses} from './cloud';
+import {initialCredentials} from 'lib_helpers'
 
 enableScreens(true);
+
 export function App(): JSX.Element {
   const [loading, setLoading] = useState(true);
   const [user, setUser] = useState<Parse.User<Parse.Attributes>>();
   useEffect(() => {
     const getConnected = async () => {
-      const result = await GetParseCredentials();
+      await initialCredentials();
+      const result = await getParseServerCredentials();
       const cloud = new ParseInitializeRN(result ?? parseConfig, SubClasses);
 
-      // TODO: temp to be removed. used for testing
-      if (!result) {
-        SaveParseCredentials(parseConfig);
-      }
+      // // TODO: temp to be removed. used for testing
+      // if (!result) {
+      //   SaveParseCredentials(parseConfig);
+      // }
       const currentUser = await Parse.User.currentAsync();
 
       if (currentUser) {
@@ -43,14 +43,14 @@ export function App(): JSX.Element {
   return loading ? (
     <Loading full />
   ) : (
-    <>
+    <AppDataProvider>
       <NavigationContainer>
         <PaperProvider>
           <Navigation user={user} />
         </PaperProvider>
       </NavigationContainer>
       <Toast />
-    </>
+    </AppDataProvider>
   );
 }
 
