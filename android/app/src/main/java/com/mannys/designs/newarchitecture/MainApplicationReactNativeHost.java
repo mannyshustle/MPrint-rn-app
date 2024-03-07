@@ -1,4 +1,4 @@
-package com.mprint.newarchitecture;
+package com.mannys.designs.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.mprint.BuildConfig;
-import com.mprint.newarchitecture.components.MainComponentsRegistry;
-import com.mprint.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.mannys.designs.BuildConfig;
+import com.mannys.designs.newarchitecture.components.MainComponentsRegistry;
+import com.mannys.designs.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.mprint.newarchitecture.components;
+package com.mannys.designs.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
