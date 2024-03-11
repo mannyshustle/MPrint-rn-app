@@ -5,7 +5,7 @@ import {Header} from '../../../../lib/lib-react-native/src/components/Header';
 import {Container, Text} from 'lib_components';
 import styles from './styles';
 
-export const Categories: React.FC = ({}) => {
+export const Shop: React.FC = ({}) => {
   const {
     currentTitle,
     currentLevelCategories,
@@ -53,4 +53,4 @@ export const Categories: React.FC = ({}) => {
   );
 };
 
-export default Categories;
+export default Shop;

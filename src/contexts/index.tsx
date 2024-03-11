@@ -1,7 +1,7 @@
 import {useParseQuery} from '@parse/react-native';
-import {CATEGORY_CLASSNAME} from 'lib_cloud';
+import {CATEGORY_CLASSNAME, ParseFunctions} from 'lib_cloud';
 import {useParseQueryList} from 'lib_hooks';
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import {createContext} from 'react';
 
 // Create a Context
@@ -9,6 +9,16 @@ export const AppContext = createContext({});
 
 export const AppDataProvider = ({children}: any) => {
   const [cartCount, setCartCount] = useState(10);
+  const [cartItems, setCartItems] = useState([]);
+
+  useEffect(() => {
+    const getInitialData = async () => {
+      const cartQuery = new Parse.Query('Cart');
+      const results = await ParseFunctions.performAction(cartQuery.findAll());
+      console.log(results);
+    };
+    getInitialData();
+  }, []);
 
   const orderQuery = new Parse.Query('Order');
   const {results: orders, isLoading: isLoadingOrders} = useParseQuery(
@@ -30,6 +40,8 @@ export const AppDataProvider = ({children}: any) => {
         isLoadingOrders,
         cartCount,
         setCartCount,
+        cartItems,
+        setCartItems,
         categories,
         isLoadingCategories,
       }}>

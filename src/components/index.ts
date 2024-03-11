@@ -1,1 +1,1 @@
-export * from '../screens/Printables';
+export * from '../screens/Products';

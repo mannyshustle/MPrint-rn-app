@@ -3,13 +3,13 @@ import {Card, Container} from 'lib_components';
 import useActions from './actions';
 import {FlatList} from 'react-native';
 
-export const Printables: React.FC = () => {
-  const {printables, handleEditor} = useActions();
+export const Products: React.FC = () => {
+  const {products, handleEditor} = useActions();
 
   return (
     <Container isSafeAreaView fullFlex>
       <FlatList
-        data={printables}
+        data={products}
         numColumns={2}
         renderItem={({item}) => (
           <Container fullFlex marginVertical={10}>
@@ -25,4 +25,4 @@ export const Printables: React.FC = () => {
   );
 };
 
-export default Printables;
+export default Products;

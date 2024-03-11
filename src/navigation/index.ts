@@ -6,12 +6,12 @@ import {
   setupNavigation,
 } from 'lib_navigation';
 import {
-  Categories,
+  Shop,
   Settings,
   ShopManagerModeHome,
   Editor,
-  Printables,
-  Orders,
+  Products,
+  Cart,
   UserModeHome,
 } from '@screens';
 import {Authentication} from 'lib_screens';
@@ -25,12 +25,12 @@ interface NavigationProps {
 const ShopStack = () =>
   createStack([
     {
-      name: 'Categories',
-      component: Categories,
+      name: 'Shop',
+      component: Shop,
     },
     {
       name: 'Printables',
-      component: Printables,
+      component: Products,
       options: {
         headerShown: true,
         title: 'Products',
@@ -49,12 +49,15 @@ const userModeTabs = (cartCount: number): TabScreen[] => {
       icon: 'home',
     },
     {
-      name: 'Shop',
+      name: 'ShopStack',
       icon: 'store',
       component: ShopStack,
+      options: {
+        title: 'Shop',
+      },
     },
-    {name: 'Orders', component: Orders, icon: 'list-alt'},
-    {name: 'Bag', component: Categories, icon: 'shopping-bag', cartCount},
+    {name: 'Orders', component: Cart, icon: 'list-alt'},
+    {name: 'Cart', component: Cart, icon: 'shopping-bag', cartCount},
     {
       name: 'Settings',
       component: Settings,
@@ -64,8 +67,8 @@ const userModeTabs = (cartCount: number): TabScreen[] => {
 };
 const shopManagerModeTabs: TabScreen[] = [
   {name: 'ShopManagerModeHome', component: ShopManagerModeHome},
-  {name: 'Orders', component: Orders},
-  {name: 'Shop', component: Categories},
+  {name: 'Orders', component: Cart},
+  {name: 'Shop', component: Shop},
   {
     name: 'Settings',
     component: Settings,

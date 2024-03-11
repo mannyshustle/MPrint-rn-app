@@ -1,32 +1,32 @@
 import {useNavigation, useRoute} from '@react-navigation/native';
-import {PRINTABLE_CLASSNAME} from 'lib_cloud';
+import {PRODUCT_CLASSNAME} from 'lib_cloud';
 import {useParseQueryList} from 'lib_hooks';
 
 export default function useActions() {
   const navigator = useNavigation();
   const {category, tag} = useRoute().params;
 
-  const query = new Parse.Query(PRINTABLE_CLASSNAME);
+  const query = new Parse.Query(PRODUCT_CLASSNAME);
   if (category) {
     query.containedIn('categories', [category]);
   }
   if (tag) {
     query.containedIn('tags', [tag]);
   }
-  const {results: printables, isLoadingPrintables} = useParseQueryList(
-    PRINTABLE_CLASSNAME,
+  const {results: products, isLoading: isLoadingProducts} = useParseQueryList(
+    PRODUCT_CLASSNAME,
     query,
   );
 
   const handleEditor = (item: any) => () => {
     navigator.navigate('Editor', {
-      printable: item,
+      product: item,
     });
   };
   return {
     navigator,
-    printables,
+    products,
     handleEditor,
-    isLoadingPrintables,
+    isLoadingProducts,
   };
 }

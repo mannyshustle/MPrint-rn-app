@@ -1,12 +1,35 @@
 import React from 'react';
-import {Container, Button} from 'lib_components';
+import {Container, Button, Text, Spacer} from 'lib_components';
 import useActions from './actions';
 import {WebView} from 'react-native-webview';
-import { hideElements } from './htmlHelper';
+import {hideElements} from './htmlHelper';
+import {
+  ActivityIndicator,
+  Dialog,
+  MD2Colors,
+  Portal,
+  Button as RNPaperButton,
+  Snackbar,
+} from 'react-native-paper';
 
 export const Editor: React.FC = ({}) => {
-  const {webViewRef, handleMessage, buttonText, onButtonPress, editorUrl} =
-    useActions();
+  const {
+    webViewRef,
+    handleMessage,
+    onAddToCart,
+    loading,
+    loadingText,
+    editorUrl,
+    addToCartConfirmationVisible,
+    addToCartConfirmationText,
+    addToCartDesignNeededText,
+    addedToCartVisible,
+    onAddedToCartDismiss,
+    onViewCartPress,
+    onDismissAddToCartConfirmation,
+    onAddToCartConfirmationAccepted,
+    onAddToCartDesignNeededAccepted
+  } = useActions();
   return (
     <Container isSafeAreaView fullFlex>
       <WebView
@@ -17,11 +40,59 @@ export const Editor: React.FC = ({}) => {
         onMessage={handleMessage}
         onError={err => console.log(err)}
         injectedJavaScript={hideElements()}
-        // injectedJavaScriptBeforeContentLoaded={hideElements}
+        // injectedJavaScriptBeforeContentLoaded={hideElements()}
       />
-      <Button text={buttonText} onPress={onButtonPress} />
+      <Button text={'Add To Cart'} onPress={onAddToCart} margin={16} />
+      <Portal>
+        <Dialog
+          visible={addToCartConfirmationVisible}
+          onDismiss={onDismissAddToCartConfirmation}>
+          <Dialog.Title>Add To Cart Confirmation</Dialog.Title>
+          <Dialog.Content>
+            <Text>{addToCartConfirmationText}</Text>
+          </Dialog.Content>
+          <Dialog.Actions>
+            {addToCartConfirmationText !== addToCartDesignNeededText && (
+              <RNPaperButton onPress={onDismissAddToCartConfirmation}>
+                Cancel
+              </RNPaperButton>
+            )}
+            <RNPaperButton
+              onPress={
+                addToCartConfirmationText !== addToCartDesignNeededText
+                  ? onAddToCartConfirmationAccepted
+                  : onAddToCartDesignNeededAccepted
+              }>
+              Ok
+            </RNPaperButton>
+          </Dialog.Actions>
+        </Dialog>
+        {loading && (
+          <Container fullFlex justifyCenter alignCenter>
+            <ActivityIndicator
+              animating={true}
+              color={MD2Colors.red800}
+              size={'large'}
+            />
+            <Spacer />
+            <Spacer />
+            <Spacer />
+            <Text heading3 isCenter>
+              {loadingText}
+            </Text>
+          </Container>
+        )}
+      </Portal>
+      <Snackbar
+        visible={addedToCartVisible}
+        onDismiss={onAddedToCartDismiss}
+        action={{
+          label: 'View Cart',
+          onPress: onViewCartPress,
+        }}>
+        Item added to cart.
+      </Snackbar>
     </Container>
   );
 };
-
 export default Editor;
