@@ -37,7 +37,7 @@ Create a new Beta Build
 [bundle exec] fastlane android beta
 ```
 
-Submit a new Beta Build to Crashlytics Beta
+Deploy a new version to the Firebase
 
 ### android deploy
 
