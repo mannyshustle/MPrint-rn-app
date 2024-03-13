@@ -9,6 +9,7 @@
     "update-version": "npm version  patch --no-git-tag-version && npx react-native-version --never-amend",
     "build-old": "cd android && fastlane android",
     "build-android": "./android/fastlane/scripts/firebaseDistribute.sh",
+    "build-ios": "./ios/fastlane/scripts/firebaseDistribute.sh",
     "forward-build": "yarn update-version && yarn run build-android",
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",

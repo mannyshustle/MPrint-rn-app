@@ -15,13 +15,29 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 
 ## iOS
 
+### ios test
+
+```sh
+[bundle exec] fastlane ios test
+```
+
+Runs all the tests
+
 ### ios build
 
 ```sh
 [bundle exec] fastlane ios build
 ```
 
-Create a new Beta Build
+Build the iOS app
+
+### ios beta
+
+```sh
+[bundle exec] fastlane ios beta
+```
+
+Submit a new Beta Build to Firebase App Distribution
 
 ### ios deploy
 
@@ -29,7 +45,7 @@ Create a new Beta Build
 [bundle exec] fastlane ios deploy
 ```
 
-Create a new Beta Build and deploy to firebase
+Deploy a new version to the App Store
 
 ----
 
