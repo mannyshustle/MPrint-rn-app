@@ -1,4 +1,4 @@
-package com.mannys.designs;
+package com.manny.designs;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -12,7 +12,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "MannysDesigns";
+    return "MannyDesigns";
   }
 
   /**
