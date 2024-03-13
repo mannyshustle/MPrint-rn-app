@@ -17,7 +17,7 @@ export const Cart: React.FC = ({}) => {
                 <Card
                   title={item?.get('printableId')}
                   // subTitle={item?.brand}
-                  images={item?.get('imageUrls')}
+                  images={item?.get('previewImageUrls')}
                   // onPress={handleEditor(item)}
                 />
               </Container>

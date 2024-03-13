@@ -18,7 +18,7 @@ export default function useActions() {
   const route = useRoute();
   const navigator = useNavigation();
   const {product} = route?.params ?? ({} as any);
-  const {printableId, providerId} = product;
+  const {printableId, providerId, name} = product;
   const [cloudinaryCred, setCloudinaryCred] = useState<CloudinaryCred>();
   const [loading, setLoading] = useState(true);
   const [loadingText, setLoadingText] = useState('Loading Editor...');
@@ -73,6 +73,7 @@ export default function useActions() {
         config: data?.config,
         printableId,
         providerId,
+        name
       };
       saveOrderToParse(results);
     } else if (webviewMsg?.key === 'editorLoaded') {

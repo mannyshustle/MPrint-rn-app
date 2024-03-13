@@ -8,6 +8,7 @@ export interface BluePrint {
 }
 
 export interface EditedProductResults {
+  name?: string;
   printableId?: string;
   providerId?: string;
   mainImageUrl?: string;

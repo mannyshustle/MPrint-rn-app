@@ -15,7 +15,7 @@ export const AppDataProvider = ({children}: any) => {
     const getInitialData = async () => {
       const cartQuery = new Parse.Query('Cart');
       const results = await ParseFunctions.performAction(cartQuery.findAll());
-      console.log(results);
+      setCartItems(results);
     };
     getInitialData();
   }, []);
