@@ -12,7 +12,9 @@ import Toast from 'react-native-toast-message';
 import {SubClasses} from './cloud';
 import {initialCredentials} from 'lib_helpers';
 import {ParseInitializeRN, getParseServerCredentials} from 'lib_cloud';
-import { AppDataProvider } from '@contexts';
+import {AppDataProvider} from '@contexts';
+import {AppThemeProvider} from 'lib_theme';
+import {PortalProvider} from '@gorhom/portal';
 
 enableScreens(true);
 
@@ -40,11 +42,15 @@ export function App(): JSX.Element {
     <Loading full />
   ) : (
     <AppDataProvider>
-      <NavigationContainer>
-        <PaperProvider>
-          <Navigation user={user} />
-        </PaperProvider>
-      </NavigationContainer>
+      <PortalProvider>
+        <NavigationContainer>
+          <AppThemeProvider>
+            <PaperProvider>
+              <Navigation user={user} />
+            </PaperProvider>
+          </AppThemeProvider>
+        </NavigationContainer>
+      </PortalProvider>
       <Toast />
     </AppDataProvider>
   );

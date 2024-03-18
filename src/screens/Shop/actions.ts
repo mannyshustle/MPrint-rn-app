@@ -11,6 +11,10 @@ export default function useActions() {
     [currentCategory],
   );
 
+  // useLayoutEffect(() => {
+  //   navigator.setOptions({title: category?.name});
+  // }, [navigator, category]);
+
   const {categories, isLoadingCategories} = useContext<any>(AppContext);
 
   const [currentLevelCategories, setCurrentLevelCategories] =
@@ -27,7 +31,7 @@ export default function useActions() {
       setCategoryStack([...categoryStack, currentLevelCategories]);
       setCurrentLevelCategories(category.subLevel);
     } else {
-      navigator.navigate('Printables', {category});
+      navigator.navigate('Products', {category});
     }
   };
 

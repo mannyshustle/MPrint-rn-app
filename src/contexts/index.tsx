@@ -29,7 +29,6 @@ export const AppDataProvider = ({children}: any) => {
   );
 
   const query = new Parse.Query(CATEGORY_CLASSNAME);
-  query.equalTo('level', 1);
   query.include('subLevel');
   const {results: categories, isLoading: isLoadingCategories} =
     useParseQueryList(CATEGORY_CLASSNAME, query);

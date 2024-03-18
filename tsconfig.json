@@ -69,6 +69,7 @@
       "lib_styles": ["../lib/lib-react-native/src/styles"],
       "lib_types": ["../lib/lib-react-native/src/types"],
       "lib_utils": ["../lib/lib-react-native/src/utils"],
+      "lib_theme": ["../lib/lib-react-native/src/theme"],
     }
   },
   "include": ["typings", "src", "../lib/lib-react-native/src/cloud/parse/class/ecommerce/printable", "../lib/lib-react-native/src/components/Header/index.tsx"],

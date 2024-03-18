@@ -12,7 +12,8 @@ import {
   Editor,
   Products,
   Cart,
-  UserModeHome,
+  Explore,
+  Checkout,
 } from '@screens';
 import {Authentication} from 'lib_screens';
 import Parse from 'parse/react-native';
@@ -29,7 +30,7 @@ const ShopStack = () =>
       component: Shop,
     },
     {
-      name: 'Printables',
+      name: 'Products',
       component: Products,
       options: {
         headerShown: true,
@@ -37,14 +38,30 @@ const ShopStack = () =>
       },
     },
   ]);
+
+const CartStack = () =>
+  createStack([
+    {
+      name: 'Cart',
+      component: Cart,
+      options: {
+        headerShown: true,
+        title: 'My Bag',
+      },
+    },
+    {
+      name: 'Checkout',
+      component: Checkout,
+    },
+  ]);
 const userModeTabs = (cartCount: number): TabScreen[] => {
   return [
     {
-      name: 'UserModeHome',
-      component: UserModeHome,
+      name: 'Explore',
+      component: Explore,
       options: {
         headerShown: true,
-        title: 'Home',
+        title: 'Explore',
       },
       icon: 'home',
     },
@@ -57,7 +74,15 @@ const userModeTabs = (cartCount: number): TabScreen[] => {
       },
     },
     {name: 'Orders', component: Cart, icon: 'list-alt'},
-    {name: 'Cart', component: Cart, icon: 'shopping-bag', cartCount},
+    {
+      name: 'CartStack',
+      component: CartStack,
+      icon: 'shopping-bag',
+      cartCount,
+      options: {
+        title: 'Cart',
+      },
+    },
     {
       name: 'Settings',
       component: Settings,
