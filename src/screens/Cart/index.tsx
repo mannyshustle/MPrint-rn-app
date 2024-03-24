@@ -36,7 +36,7 @@ export const Cart: React.FC = ({}) => {
             />
 
             <Box justifyContent={'space-between'} flex={1} margin={'m'}>
-              <Text fontWeight="bold">{'name'}</Text>
+              <Text fontWeight="bold">{name}</Text>
               <Box
                 flexDirection={'row'}
                 justifyContent={'space-between'}

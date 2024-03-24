@@ -1,5 +1,5 @@
 import React from 'react';
-import {Container, Button, Text, Spacer} from 'lib_components';
+import {Container, Button, Text, Spacer, Box} from 'lib_components';
 import useActions from './actions';
 import {WebView} from 'react-native-webview';
 import {hideElements} from './htmlHelper';
@@ -28,7 +28,7 @@ export const Editor: React.FC = ({}) => {
     onViewCartPress,
     onDismissAddToCartConfirmation,
     onAddToCartConfirmationAccepted,
-    onAddToCartDesignNeededAccepted
+    onAddToCartDesignNeededAccepted,
   } = useActions();
   return (
     <Container isSafeAreaView fullFlex>
@@ -42,7 +42,7 @@ export const Editor: React.FC = ({}) => {
         injectedJavaScript={hideElements()}
         // injectedJavaScriptBeforeContentLoaded={hideElements()}
       />
-      <Button text={'Add To Cart'} onPress={onAddToCart} margin={16} />
+      <Button label={'Add To Cart'} onPress={onAddToCart} margin={'m'} />
       <Portal>
         <Dialog
           visible={addToCartConfirmationVisible}
@@ -67,22 +67,28 @@ export const Editor: React.FC = ({}) => {
             </RNPaperButton>
           </Dialog.Actions>
         </Dialog>
-        {loading && (
-          <Container fullFlex justifyCenter alignCenter>
-            <ActivityIndicator
-              animating={true}
-              color={MD2Colors.red800}
-              size={'large'}
-            />
-            <Spacer />
-            <Spacer />
-            <Spacer />
-            <Text heading3 isCenter>
-              {loadingText}
-            </Text>
-          </Container>
-        )}
       </Portal>
+      {loading && (
+        <Box
+          position={'absolute'}
+          flex={1}
+          width={'100%'}
+          height={'100%'}
+          justifyContent={'center'}
+          backgroundColor={'white'}>
+          <ActivityIndicator
+            animating={true}
+            color={MD2Colors.red800}
+            size={'large'}
+          />
+          <Spacer />
+          <Spacer />
+          <Spacer />
+          <Text variant={'header'} textAlign={'center'}>
+            {loadingText}
+          </Text>
+        </Box>
+      )}
       <Snackbar
         visible={addedToCartVisible}
         onDismiss={onAddedToCartDismiss}

@@ -24,7 +24,13 @@ export const hideElements = () => {
   const hideElementsCSS = `
   const style = document.createElement('style');
   style.type = 'text/css';
-  style.innerHTML = '${selectors.join(', ')} { display: none !important; }';
+  style.innerHTML = \`
+    ${selectors.join(', ')} { display: none !important; }
+    [data-testid="addDesignButton"] button { 
+      background-color: #2E72D2 !important; // New background color
+      color: white !important; // New text color
+    }
+  \`;
   document.head.appendChild(style);
 `;
 

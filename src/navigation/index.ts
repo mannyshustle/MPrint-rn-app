@@ -103,7 +103,7 @@ const shopManagerModeTabs: TabScreen[] = [
 const AppRoutes = (cartCount: number): StackScreen[] => {
   return [
     {
-      name: 'UserMode',
+      name: 'Home',
       tabScreens: userModeTabs(cartCount),
     },
     {
@@ -124,7 +124,8 @@ const AppRoutes = (cartCount: number): StackScreen[] => {
   ];
 };
 export const Navigation: FC<NavigationProps> = ({user}) => {
-  const {cartCount} = useContext<any>(AppContext);
+  const {cartItems} = useContext<any>(AppContext);
+  const cartCount = cartItems.length ?? 0;
   const initialNavigationOrder = true //user
     ? [...AppRoutes(cartCount), Authentication]
     : [Authentication, ...AppRoutes(cartCount)];

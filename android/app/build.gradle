@@ -140,8 +140,8 @@ android {
         applicationId "com.mannys.designs"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 4
-        versionName "0.0.4"
+        versionCode 8
+        versionName "0.0.8"
         buildConfigField "boolean", "IS_NEW_ARCHITECTURE_ENABLED", isNewArchitectureEnabled().toString()
 
         testBuildType System.getProperty('testBuildType', 'debug')
