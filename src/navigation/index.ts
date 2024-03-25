@@ -14,6 +14,7 @@ import {
   Cart,
   Explore,
   Checkout,
+  ImageGallery,
 } from '@screens';
 import {Authentication} from 'lib_screens';
 import Parse from 'parse/react-native';
@@ -132,7 +133,12 @@ export const Navigation: FC<NavigationProps> = ({user}) => {
 
   const navigationStructure: NavigationStructure = {
     stackScreens: [...initialNavigationOrder],
-    modals: [],
+    modals: [
+      {
+        name: 'ImageGallery',
+        component: ImageGallery,
+      },
+    ],
   };
   return setupNavigation(navigationStructure);
 };

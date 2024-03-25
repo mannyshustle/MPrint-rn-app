@@ -11,15 +11,18 @@ import {
 import useActions from './actions';
 import {FlatList} from 'react-native';
 import {IconButton} from './IconButton';
+import {Cart as CartType, transformImageUrl} from 'lib_cloud';
 
 export const Cart: React.FC = ({}) => {
-  const {cartItems, onCheckoutPress} = useActions();
+  const {cartItems, onCheckoutPress, onItemPressed} = useActions();
 
-  const renderItem = ({item}, index) => {
+  const renderItem = ({item}: {item: CartType}, index) => {
     const {previewImageUrls, name, id} = item;
     const imageUrl = previewImageUrls?.[previewImageUrls.length - 1];
+    const transformedImage = transformImageUrl(imageUrl, 120, 120);
+    console.log(transformedImage);
     return (
-      <Touchable key={id}>
+      <Touchable key={id} onPress={onItemPressed(item)}>
         <Box
           marginVertical={'s'}
           marginHorizontal={'m'}
@@ -32,9 +35,8 @@ export const Cart: React.FC = ({}) => {
               borderBottomLeftRadius={'m'}
               height={120}
               width={120}
-              source={{uri: imageUrl}}
+              source={{uri: transformedImage}}
             />
-
             <Box justifyContent={'space-between'} flex={1} margin={'m'}>
               <Text fontWeight="bold">{name}</Text>
               <Box

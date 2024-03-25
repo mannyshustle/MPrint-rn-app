@@ -6,4 +6,5 @@ export * from './Editor';
 export * from './Products';
 export * from './Orders';
 export * from './Cart';
-export * from './Checkout'
+export * from './Checkout';
+export * from './ImageGallery';
